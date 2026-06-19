@@ -1,0 +1,29 @@
+stm stderr: 
+stm stderr: [33mNumber of goroutines before the engine is initialised: 4[0m
+client thread 0 connected, waiting for others...
+STM stdout: ! id: 0 timestamp: 1774666486590337000 count: 4
+STM stdout: W @ 255 -> 4294967295
+STM stdout: W @ 0 -> 0
+STM stdout: R @ 255 -> 4294967295
+STM stdout: R @ 0 -> 0
+Checking: ! id: 0 timestamp: 1774666486590337000 count: 4
+Checking: W @ 255 -> 4294967295
+Checking: W @ 0 -> 0
+Checking: R @ 255 -> 4294967295
+Checking: R @ 0 -> 0
+stm stderr: 
+stm stderr: [33mNumber of goroutines after the engine is shutdown: 2[0m
+stm stderr: [32mgoroutine 1 [running]:
+stm stderr: main.main()
+stm stderr: 	/Users/kenji/Documents/Y3S2/CS3211/cs3211-a2-a2_a0276238w_a0286456n/main/main.go:83 +0x498
+stm stderr: 
+stm stderr: goroutine 34 [syscall]:
+stm stderr: os/signal.signal_recv()
+stm stderr: 	/usr/local/go/src/runtime/sigqueue.go:149 +0x108
+stm stderr: os/signal.loop()
+stm stderr: 	/usr/local/go/src/os/signal/signal_unix.go:23 +0x1c
+stm stderr: created by os/signal.Notify.func1.1 in goroutine 7
+stm stderr: 	/usr/local/go/src/os/signal/signal.go:152 +0x28
+stm stderr: [0mstm stderr closed
+test passed.
+test passed

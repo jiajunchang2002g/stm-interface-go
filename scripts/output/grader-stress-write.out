@@ -1,0 +1,4146 @@
+stm stderr: 
+stm stderr: [33mNumber of goroutines before the engine is initialised: 4[0m
+client thread 4 connected, waiting for others...
+client thread 1 connected, waiting for others...
+client thread 8 connected, waiting for others...
+client thread 5 connected, waiting for others...
+client thread 10 connected, waiting for others...
+client thread 3 connected, waiting for others...
+client thread 2 connected, waiting for others...
+client thread 12 connected, waiting for others...
+client thread 13 connected, waiting for others...
+client thread 9 connected, waiting for others...
+client thread 11 connected, waiting for others...
+client thread 0 connected, waiting for others...
+client thread 14 connected, waiting for others...
+client thread 15 connected, waiting for others...
+client thread 17 connected, waiting for others...
+client thread 6 connected, waiting for others...
+client thread 7 connected, waiting for others...
+client thread 20 connected, waiting for others...
+client thread 23 connected, waiting for others...
+client thread 18 connected, waiting for others...
+client thread 19 connected, waiting for others...
+client thread 24 connected, waiting for others...
+client thread 25 connected, waiting for others...
+client thread 22 connected, waiting for others...
+client thread 26 connected, waiting for others...
+client thread 27 connected, waiting for others...
+client thread 28 connected, waiting for others...
+client thread 16 connected, waiting for others...
+client thread 30 connected, waiting for others...
+client thread 21 connected, waiting for others...
+client thread 29 connected, waiting for others...
+client thread 31 connected, waiting for others...
+STM stdout: ! id: 19 timestamp: 1774666528057508000 count: 1
+STM stdout: W @ 0 -> 19
+STM stdout: ! id: 24 timestamp: 1774666528057547000 count: 1
+STM stdout: W @ 0 -> 24
+STM stdout: ! id: 15 timestamp: 1774666528057581000 count: 1
+STM stdout: W @ 0 -> 15
+STM stdout: ! id: 13 timestamp: 1774666528057596000 count: 1
+STM stdout: W @ 0 -> 13
+STM stdout: ! id: 12 timestamp: 1774666528057631000 count: 1
+STM stdout: W @ 0 -> 12
+STM stdout: ! id: 1 timestamp: 1774666528057682000 count: 1
+STM stdout: W @ 0 -> 1
+STM stdout: ! id: 27 timestamp: 1774666528057703000 count: 1
+STM stdout: W @ 0 -> 27
+STM stdout: ! id: 29 timestamp: 1774666528057719000 count: 1
+STM stdout: W @ 0 -> 29
+STM stdout: ! id: 25 timestamp: 1774666528057772000 count: 1
+STM stdout: W @ 0 -> 25
+STM stdout: ! id: 18 timestamp: 1774666528057796000 count: 1
+STM stdout: W @ 0 -> 18
+STM stdout: ! id: 6 timestamp: 1774666528057832000 count: 1
+STM stdout: W @ 0 -> 6
+STM stdout: ! id: 20 timestamp: 1774666528057898000 count: 1
+STM stdout: W @ 0 -> 20
+STM stdout: ! id: 11 timestamp: 1774666528057942000 count: 1
+STM stdout: W @ 0 -> 11
+STM stdout: ! id: 9 timestamp: 1774666528057976000 count: 1
+STM stdout: W @ 0 -> 9
+STM stdout: ! id: 22 timestamp: 1774666528058024000 count: 1
+STM stdout: W @ 0 -> 22
+STM stdout: ! id: 8 timestamp: 1774666528058062000 count: 1
+STM stdout: W @ 0 -> 8
+STM stdout: ! id: 5 timestamp: 1774666528058116000 count: 1
+STM stdout: W @ 0 -> 5
+STM stdout: ! id: 28 timestamp: 1774666528058148000 count: 1
+STM stdout: W @ 0 -> 28
+STM stdout: ! id: 30 timestamp: 1774666528058188000 count: 1
+STM stdout: W @ 0 -> 30
+STM stdout: ! id: 16 timestamp: 1774666528058238000 count: 1
+STM stdout: W @ 0 -> 16
+STM stdout: ! id: 14 timestamp: 1774666528058268000 count: 1
+STM stdout: W @ 0 -> 14
+STM stdout: ! id: 17 timestamp: 1774666528058306000 count: 1
+STM stdout: W @ 0 -> 17
+STM stdout: ! id: 23 timestamp: 1774666528058335000 count: 1
+STM stdout: W @ 0 -> 23
+STM stdout: ! id: 7 timestamp: 1774666528058376000 count: 1
+STM stdout: W @ 0 -> 7
+STM stdout: ! id: 3 timestamp: 1774666528058420000 count: 1
+STM stdout: W @ 0 -> 3
+STM stdout: ! id: 38 timestamp: 1774666528058510000 count: 1
+STM stdout: W @ 0 -> 38
+STM stdout: ! id: 62 timestamp: 1774666528058574000 count: 1
+STM stdout: W @ 0 -> 62
+STM stdout: ! id: 57 timestamp: 1774666528058631000 count: 1
+STM stdout: W @ 0 -> 57
+STM stdout: ! id: 50 timestamp: 1774666528058740000 count: 1
+STM stdout: W @ 0 -> 50
+STM stdout: ! id: 21 timestamp: 1774666528058810000 count: 1
+STM stdout: W @ 0 -> 21
+STM stdout: ! id: 82 timestamp: 1774666528058924000 count: 1
+STM stdout: W @ 0 -> 82
+STM stdout: ! id: 49 timestamp: 1774666528059026000 count: 1
+STM stdout: W @ 0 -> 49
+STM stdout: ! id: 60 timestamp: 1774666528059139000 count: 1
+STM stdout: W @ 0 -> 60
+STM stdout: ! id: 56 timestamp: 1774666528059221000 count: 1
+STM stdout: W @ 0 -> 56
+STM stdout: ! id: 35 timestamp: 1774666528059352000 count: 1
+STM stdout: W @ 0 -> 35
+STM stdout: ! id: 55 timestamp: 1774666528059449000 count: 1
+STM stdout: W @ 0 -> 55
+STM stdout: ! id: 81 timestamp: 1774666528059562000 count: 1
+STM stdout: W @ 0 -> 81
+STM stdout: ! id: 41 timestamp: 1774666528059636000 count: 1
+STM stdout: W @ 0 -> 41
+STM stdout: ! id: 26 timestamp: 1774666528059727000 count: 1
+STM stdout: W @ 0 -> 26
+STM stdout: ! id: 53 timestamp: 1774666528059802000 count: 1
+STM stdout: W @ 0 -> 53
+STM stdout: ! id: 58 timestamp: 1774666528059870000 count: 1
+STM stdout: W @ 0 -> 58
+STM stdout: ! id: 70 timestamp: 1774666528059977000 count: 1
+STM stdout: W @ 0 -> 70
+STM stdout: ! id: 87 timestamp: 1774666528060052000 count: 1
+STM stdout: W @ 0 -> 87
+STM stdout: ! id: 114 timestamp: 1774666528060133000 count: 1
+STM stdout: W @ 0 -> 114
+STM stdout: ! id: 67 timestamp: 1774666528060217000 count: 1
+STM stdout: W @ 0 -> 67
+STM stdout: ! id: 47 timestamp: 1774666528060327000 count: 1
+STM stdout: W @ 0 -> 47
+STM stdout: ! id: 94 timestamp: 1774666528060405000 count: 1
+STM stdout: W @ 0 -> 94
+STM stdout: ! id: 31 timestamp: 1774666528060500000 count: 1
+STM stdout: W @ 0 -> 31
+STM stdout: ! id: 54 timestamp: 1774666528060579000 count: 1
+STM stdout: W @ 0 -> 54
+STM stdout: ! id: 46 timestamp: 1774666528060689000 count: 1
+STM stdout: W @ 0 -> 46
+STM stdout: ! id: 63 timestamp: 1774666528060769000 count: 1
+STM stdout: W @ 0 -> 63
+STM stdout: ! id: 40 timestamp: 1774666528060854000 count: 1
+STM stdout: W @ 0 -> 40
+STM stdout: ! id: 2 timestamp: 1774666528060944000 count: 1
+STM stdout: W @ 0 -> 2
+STM stdout: ! id: 92 timestamp: 1774666528061029000 count: 1
+STM stdout: W @ 0 -> 92
+STM stdout: ! id: 45 timestamp: 1774666528061131000 count: 1
+STM stdout: W @ 0 -> 45
+STM stdout: ! id: 89 timestamp: 1774666528061232000 count: 1
+STM stdout: W @ 0 -> 89
+STM stdout: ! id: 77 timestamp: 1774666528061311000 count: 1
+STM stdout: W @ 0 -> 77
+STM stdout: ! id: 34 timestamp: 1774666528061422000 count: 1
+STM stdout: W @ 0 -> 34
+STM stdout: ! id: 43 timestamp: 1774666528061532000 count: 1
+STM stdout: W @ 0 -> 43
+STM stdout: ! id: 79 timestamp: 1774666528061608000 count: 1
+STM stdout: W @ 0 -> 79
+STM stdout: ! id: 86 timestamp: 1774666528061713000 count: 1
+STM stdout: W @ 0 -> 86
+STM stdout: ! id: 37 timestamp: 1774666528061785000 count: 1
+STM stdout: W @ 0 -> 37
+STM stdout: ! id: 102 timestamp: 1774666528061854000 count: 1
+STM stdout: W @ 0 -> 102
+STM stdout: ! id: 118 timestamp: 1774666528061930000 count: 1
+STM stdout: W @ 0 -> 118
+STM stdout: ! id: 73 timestamp: 1774666528062037000 count: 1
+STM stdout: W @ 0 -> 73
+STM stdout: ! id: 39 timestamp: 1774666528062118000 count: 1
+STM stdout: W @ 0 -> 39
+STM stdout: ! id: 126 timestamp: 1774666528062198000 count: 1
+STM stdout: W @ 0 -> 126
+STM stdout: ! id: 61 timestamp: 1774666528062272000 count: 1
+STM stdout: W @ 0 -> 61
+STM stdout: ! id: 90 timestamp: 1774666528062356000 count: 1
+STM stdout: W @ 0 -> 90
+STM stdout: ! id: 88 timestamp: 1774666528062425000 count: 1
+STM stdout: W @ 0 -> 88
+STM stdout: ! id: 52 timestamp: 1774666528062495000 count: 1
+STM stdout: W @ 0 -> 52
+STM stdout: ! id: 105 timestamp: 1774666528062569000 count: 1
+STM stdout: W @ 0 -> 105
+STM stdout: ! id: 71 timestamp: 1774666528062645000 count: 1
+STM stdout: W @ 0 -> 71
+STM stdout: ! id: 75 timestamp: 1774666528062722000 count: 1
+STM stdout: W @ 0 -> 75
+STM stdout: ! id: 134 timestamp: 1774666528062804000 count: 1
+STM stdout: W @ 0 -> 134
+STM stdout: ! id: 78 timestamp: 1774666528062878000 count: 1
+STM stdout: W @ 0 -> 78
+STM stdout: ! id: 48 timestamp: 1774666528062966000 count: 1
+STM stdout: W @ 0 -> 48
+STM stdout: ! id: 121 timestamp: 1774666528063034000 count: 1
+STM stdout: W @ 0 -> 121
+STM stdout: ! id: 95 timestamp: 1774666528063105000 count: 1
+STM stdout: W @ 0 -> 95
+STM stdout: ! id: 69 timestamp: 1774666528063184000 count: 1
+STM stdout: W @ 0 -> 69
+STM stdout: ! id: 166 timestamp: 1774666528063266000 count: 1
+STM stdout: W @ 0 -> 166
+STM stdout: ! id: 84 timestamp: 1774666528063367000 count: 1
+STM stdout: W @ 0 -> 84
+STM stdout: ! id: 150 timestamp: 1774666528063439000 count: 1
+STM stdout: W @ 0 -> 150
+STM stdout: ! id: 72 timestamp: 1774666528063506000 count: 1
+STM stdout: W @ 0 -> 72
+STM stdout: ! id: 182 timestamp: 1774666528063579000 count: 1
+STM stdout: W @ 0 -> 182
+STM stdout: ! id: 122 timestamp: 1774666528063657000 count: 1
+STM stdout: W @ 0 -> 122
+STM stdout: ! id: 4 timestamp: 1774666528063741000 count: 1
+STM stdout: W @ 0 -> 4
+STM stdout: ! id: 32 timestamp: 1774666528063828000 count: 1
+STM stdout: W @ 0 -> 32
+STM stdout: ! id: 66 timestamp: 1774666528063895000 count: 1
+STM stdout: W @ 0 -> 66
+STM stdout: ! id: 101 timestamp: 1774666528063969000 count: 1
+STM stdout: W @ 0 -> 101
+STM stdout: ! id: 111 timestamp: 1774666528064059000 count: 1
+STM stdout: W @ 0 -> 111
+STM stdout: ! id: 116 timestamp: 1774666528064156000 count: 1
+STM stdout: W @ 0 -> 116
+STM stdout: ! id: 154 timestamp: 1774666528064234000 count: 1
+STM stdout: W @ 0 -> 154
+STM stdout: ! id: 158 timestamp: 1774666528064314000 count: 1
+STM stdout: W @ 0 -> 158
+STM stdout: ! id: 148 timestamp: 1774666528064403000 count: 1
+STM stdout: W @ 0 -> 148
+STM stdout: ! id: 107 timestamp: 1774666528064488000 count: 1
+STM stdout: W @ 0 -> 107
+STM stdout: ! id: 214 timestamp: 1774666528064582000 count: 1
+STM stdout: W @ 0 -> 214
+STM stdout: ! id: 51 timestamp: 1774666528064664000 count: 1
+STM stdout: W @ 0 -> 51
+STM stdout: ! id: 119 timestamp: 1774666528064758000 count: 1
+STM stdout: W @ 0 -> 119
+STM stdout: ! id: 153 timestamp: 1774666528064841000 count: 1
+STM stdout: W @ 0 -> 153
+STM stdout: ! id: 198 timestamp: 1774666528064924000 count: 1
+STM stdout: W @ 0 -> 198
+STM stdout: ! id: 137 timestamp: 1774666528065003000 count: 1
+STM stdout: W @ 0 -> 137
+STM stdout: ! id: 230 timestamp: 1774666528065105000 count: 1
+STM stdout: W @ 0 -> 230
+STM stdout: ! id: 133 timestamp: 1774666528065180000 count: 1
+STM stdout: W @ 0 -> 133
+STM stdout: ! id: 262 timestamp: 1774666528065250000 count: 1
+STM stdout: W @ 0 -> 262
+STM stdout: ! id: 33 timestamp: 1774666528065320000 count: 1
+STM stdout: W @ 0 -> 33
+STM stdout: ! id: 103 timestamp: 1774666528065393000 count: 1
+STM stdout: W @ 0 -> 103
+STM stdout: ! id: 109 timestamp: 1774666528065467000 count: 1
+STM stdout: W @ 0 -> 109
+STM stdout: ! id: 124 timestamp: 1774666528065547000 count: 1
+STM stdout: W @ 0 -> 124
+STM stdout: ! id: 139 timestamp: 1774666528065615000 count: 1
+STM stdout: W @ 0 -> 139
+STM stdout: ! id: 98 timestamp: 1774666528065690000 count: 1
+STM stdout: W @ 0 -> 98
+STM stdout: ! id: 65 timestamp: 1774666528065762000 count: 1
+STM stdout: W @ 0 -> 65
+STM stdout: ! id: 151 timestamp: 1774666528065832000 count: 1
+STM stdout: W @ 0 -> 151
+STM stdout: ! id: 185 timestamp: 1774666528065893000 count: 1
+STM stdout: W @ 0 -> 185
+STM stdout: ! id: 99 timestamp: 1774666528065965000 count: 1
+STM stdout: W @ 0 -> 99
+STM stdout: ! id: 156 timestamp: 1774666528066036000 count: 1
+STM stdout: W @ 0 -> 156
+STM stdout: ! id: 36 timestamp: 1774666528066106000 count: 1
+STM stdout: W @ 0 -> 36
+STM stdout: ! id: 127 timestamp: 1774666528066170000 count: 1
+STM stdout: W @ 0 -> 127
+STM stdout: ! id: 68 timestamp: 1774666528066240000 count: 1
+STM stdout: W @ 0 -> 68
+STM stdout: ! id: 217 timestamp: 1774666528066319000 count: 1
+STM stdout: W @ 0 -> 217
+STM stdout: ! id: 190 timestamp: 1774666528066390000 count: 1
+STM stdout: W @ 0 -> 190
+STM stdout: ! id: 44 timestamp: 1774666528066455000 count: 1
+STM stdout: W @ 0 -> 44
+STM stdout: ! id: 183 timestamp: 1774666528066524000 count: 1
+STM stdout: W @ 0 -> 183
+STM stdout: ! id: 100 timestamp: 1774666528066619000 count: 1
+STM stdout: W @ 0 -> 100
+STM stdout: ! id: 249 timestamp: 1774666528066694000 count: 1
+STM stdout: W @ 0 -> 249
+STM stdout: ! id: 97 timestamp: 1774666528066754000 count: 1
+STM stdout: W @ 0 -> 97
+STM stdout: ! id: 165 timestamp: 1774666528066869000 count: 1
+STM stdout: W @ 0 -> 165
+STM stdout: ! id: 281 timestamp: 1774666528066957000 count: 1
+STM stdout: W @ 0 -> 281
+STM stdout: ! id: 76 timestamp: 1774666528067027000 count: 1
+STM stdout: W @ 0 -> 76
+STM stdout: ! id: 85 timestamp: 1774666528067112000 count: 1
+STM stdout: W @ 0 -> 85
+STM stdout: ! id: 120 timestamp: 1774666528067175000 count: 1
+STM stdout: W @ 0 -> 120
+STM stdout: ! id: 186 timestamp: 1774666528067248000 count: 1
+STM stdout: W @ 0 -> 186
+STM stdout: ! id: 197 timestamp: 1774666528067329000 count: 1
+STM stdout: W @ 0 -> 197
+STM stdout: ! id: 152 timestamp: 1774666528067395000 count: 1
+STM stdout: W @ 0 -> 152
+STM stdout: ! id: 130 timestamp: 1774666528067462000 count: 1
+STM stdout: W @ 0 -> 130
+STM stdout: ! id: 180 timestamp: 1774666528067534000 count: 1
+STM stdout: W @ 0 -> 180
+STM stdout: ! id: 171 timestamp: 1774666528067607000 count: 1
+STM stdout: W @ 0 -> 171
+STM stdout: ! id: 294 timestamp: 1774666528067696000 count: 1
+STM stdout: W @ 0 -> 294
+STM stdout: ! id: 93 timestamp: 1774666528067767000 count: 1
+STM stdout: W @ 0 -> 93
+STM stdout: ! id: 132 timestamp: 1774666528067843000 count: 1
+STM stdout: W @ 0 -> 132
+STM stdout: ! id: 146 timestamp: 1774666528067912000 count: 1
+STM stdout: W @ 0 -> 146
+STM stdout: ! id: 59 timestamp: 1774666528067986000 count: 1
+STM stdout: W @ 0 -> 59
+STM stdout: ! id: 164 timestamp: 1774666528068060000 count: 1
+STM stdout: W @ 0 -> 164
+STM stdout: ! id: 83 timestamp: 1774666528068132000 count: 1
+STM stdout: W @ 0 -> 83
+STM stdout: ! id: 326 timestamp: 1774666528068221000 count: 1
+STM stdout: W @ 0 -> 326
+STM stdout: ! id: 110 timestamp: 1774666528068320000 count: 1
+STM stdout: W @ 0 -> 110
+STM stdout: ! id: 159 timestamp: 1774666528068389000 count: 1
+STM stdout: W @ 0 -> 159
+STM stdout: ! id: 222 timestamp: 1774666528068455000 count: 1
+STM stdout: W @ 0 -> 222
+STM stdout: ! id: 212 timestamp: 1774666528068557000 count: 1
+STM stdout: W @ 0 -> 212
+STM stdout: ! id: 91 timestamp: 1774666528068636000 count: 1
+STM stdout: W @ 0 -> 91
+STM stdout: ! id: 141 timestamp: 1774666528068700000 count: 1
+STM stdout: W @ 0 -> 141
+STM stdout: ! id: 104 timestamp: 1774666528068773000 count: 1
+STM stdout: W @ 0 -> 104
+STM stdout: ! id: 246 timestamp: 1774666528068860000 count: 1
+STM stdout: W @ 0 -> 246
+STM stdout: ! id: 108 timestamp: 1774666528068936000 count: 1
+STM stdout: W @ 0 -> 108
+STM stdout: ! id: 173 timestamp: 1774666528068998000 count: 1
+STM stdout: W @ 0 -> 173
+STM stdout: ! id: 203 timestamp: 1774666528069065000 count: 1
+STM stdout: W @ 0 -> 203
+STM stdout: ! id: 313 timestamp: 1774666528069138000 count: 1
+STM stdout: W @ 0 -> 313
+STM stdout: ! id: 235 timestamp: 1774666528069205000 count: 1
+STM stdout: W @ 0 -> 235
+STM stdout: ! id: 117 timestamp: 1774666528069274000 count: 1
+STM stdout: W @ 0 -> 117
+STM stdout: ! id: 131 timestamp: 1774666528069331000 count: 1
+STM stdout: W @ 0 -> 131
+STM stdout: ! id: 215 timestamp: 1774666528069405000 count: 1
+STM stdout: W @ 0 -> 215
+STM stdout: ! id: 229 timestamp: 1774666528069474000 count: 1
+STM stdout: W @ 0 -> 229
+STM stdout: ! id: 125 timestamp: 1774666528069536000 count: 1
+STM stdout: W @ 0 -> 125
+STM stdout: ! id: 80 timestamp: 1774666528069610000 count: 1
+STM stdout: W @ 0 -> 80
+STM stdout: ! id: 196 timestamp: 1774666528069729000 count: 1
+STM stdout: W @ 0 -> 196
+STM stdout: ! id: 169 timestamp: 1774666528069832000 count: 1
+STM stdout: W @ 0 -> 169
+STM stdout: ! id: 358 timestamp: 1774666528069911000 count: 1
+STM stdout: W @ 0 -> 358
+STM stdout: ! id: 244 timestamp: 1774666528069972000 count: 1
+STM stdout: W @ 0 -> 244
+STM stdout: ! id: 143 timestamp: 1774666528070042000 count: 1
+STM stdout: W @ 0 -> 143
+STM stdout: ! id: 218 timestamp: 1774666528070111000 count: 1
+STM stdout: W @ 0 -> 218
+STM stdout: ! id: 205 timestamp: 1774666528070175000 count: 1
+STM stdout: W @ 0 -> 205
+STM stdout: ! id: 136 timestamp: 1774666528070247000 count: 1
+STM stdout: W @ 0 -> 136
+STM stdout: ! id: 247 timestamp: 1774666528070314000 count: 1
+STM stdout: W @ 0 -> 247
+STM stdout: ! id: 261 timestamp: 1774666528070376000 count: 1
+STM stdout: W @ 0 -> 261
+STM stdout: ! id: 267 timestamp: 1774666528070449000 count: 1
+STM stdout: W @ 0 -> 267
+STM stdout: ! id: 250 timestamp: 1774666528070552000 count: 1
+STM stdout: W @ 0 -> 250
+STM stdout: ! id: 123 timestamp: 1774666528070653000 count: 1
+STM stdout: W @ 0 -> 123
+STM stdout: ! id: 157 timestamp: 1774666528070745000 count: 1
+STM stdout: W @ 0 -> 157
+STM stdout: ! id: 163 timestamp: 1774666528070850000 count: 1
+STM stdout: W @ 0 -> 163
+STM stdout: ! id: 162 timestamp: 1774666528070934000 count: 1
+STM stdout: W @ 0 -> 162
+STM stdout: ! id: 237 timestamp: 1774666528071017000 count: 1
+STM stdout: W @ 0 -> 237
+STM stdout: ! id: 201 timestamp: 1774666528071095000 count: 1
+STM stdout: W @ 0 -> 201
+STM stdout: ! id: 155 timestamp: 1774666528071182000 count: 1
+STM stdout: W @ 0 -> 155
+STM stdout: ! id: 188 timestamp: 1774666528071276000 count: 1
+STM stdout: W @ 0 -> 188
+STM stdout: ! id: 113 timestamp: 1774666528071364000 count: 1
+STM stdout: W @ 0 -> 113
+STM stdout: ! id: 220 timestamp: 1774666528071439000 count: 1
+STM stdout: W @ 0 -> 220
+STM stdout: ! id: 282 timestamp: 1774666528071527000 count: 1
+STM stdout: W @ 0 -> 282
+STM stdout: ! id: 178 timestamp: 1774666528071602000 count: 1
+STM stdout: W @ 0 -> 178
+STM stdout: ! id: 140 timestamp: 1774666528071677000 count: 1
+STM stdout: W @ 0 -> 140
+STM stdout: ! id: 191 timestamp: 1774666528071754000 count: 1
+STM stdout: W @ 0 -> 191
+STM stdout: ! id: 172 timestamp: 1774666528071837000 count: 1
+STM stdout: W @ 0 -> 172
+STM stdout: ! id: 390 timestamp: 1774666528071918000 count: 1
+STM stdout: W @ 0 -> 390
+STM stdout: ! id: 228 timestamp: 1774666528072000000 count: 1
+STM stdout: W @ 0 -> 228
+STM stdout: ! id: 64 timestamp: 1774666528072081000 count: 1
+STM stdout: W @ 0 -> 64
+STM stdout: ! id: 168 timestamp: 1774666528072161000 count: 1
+STM stdout: W @ 0 -> 168
+STM stdout: ! id: 96 timestamp: 1774666528072243000 count: 1
+STM stdout: W @ 0 -> 96
+STM stdout: ! id: 269 timestamp: 1774666528072325000 count: 1
+STM stdout: W @ 0 -> 269
+STM stdout: ! id: 10 timestamp: 1774666528072397000 count: 1
+STM stdout: W @ 0 -> 10
+STM stdout: ! id: 314 timestamp: 1774666528072483000 count: 1
+STM stdout: W @ 0 -> 314
+STM stdout: ! id: 299 timestamp: 1774666528072564000 count: 1
+STM stdout: W @ 0 -> 299
+STM stdout: ! id: 345 timestamp: 1774666528072647000 count: 1
+STM stdout: W @ 0 -> 345
+STM stdout: ! id: 293 timestamp: 1774666528072733000 count: 1
+STM stdout: W @ 0 -> 293
+STM stdout: ! id: 279 timestamp: 1774666528072806000 count: 1
+STM stdout: W @ 0 -> 279
+STM stdout: ! id: 187 timestamp: 1774666528072876000 count: 1
+STM stdout: W @ 0 -> 187
+STM stdout: ! id: 194 timestamp: 1774666528072956000 count: 1
+STM stdout: W @ 0 -> 194
+STM stdout: ! id: 219 timestamp: 1774666528073031000 count: 1
+STM stdout: W @ 0 -> 219
+STM stdout: ! id: 331 timestamp: 1774666528073095000 count: 1
+STM stdout: W @ 0 -> 331
+STM stdout: ! id: 226 timestamp: 1774666528073183000 count: 1
+STM stdout: W @ 0 -> 226
+STM stdout: ! id: 278 timestamp: 1774666528073275000 count: 1
+STM stdout: W @ 0 -> 278
+STM stdout: ! id: 128 timestamp: 1774666528073359000 count: 1
+STM stdout: W @ 0 -> 128
+STM stdout: ! id: 204 timestamp: 1774666528073442000 count: 1
+STM stdout: W @ 0 -> 204
+STM stdout: ! id: 301 timestamp: 1774666528073525000 count: 1
+STM stdout: W @ 0 -> 301
+STM stdout: ! id: 142 timestamp: 1774666528073595000 count: 1
+STM stdout: W @ 0 -> 142
+STM stdout: ! id: 252 timestamp: 1774666528073669000 count: 1
+STM stdout: W @ 0 -> 252
+STM stdout: ! id: 145 timestamp: 1774666528073745000 count: 1
+STM stdout: W @ 0 -> 145
+STM stdout: ! id: 377 timestamp: 1774666528073824000 count: 1
+STM stdout: W @ 0 -> 377
+STM stdout: ! id: 258 timestamp: 1774666528073905000 count: 1
+STM stdout: W @ 0 -> 258
+STM stdout: ! id: 409 timestamp: 1774666528073995000 count: 1
+STM stdout: W @ 0 -> 409
+STM stdout: ! id: 160 timestamp: 1774666528074075000 count: 1
+STM stdout: W @ 0 -> 160
+STM stdout: ! id: 236 timestamp: 1774666528074151000 count: 1
+STM stdout: W @ 0 -> 236
+STM stdout: ! id: 251 timestamp: 1774666528074229000 count: 1
+STM stdout: W @ 0 -> 251
+STM stdout: ! id: 310 timestamp: 1774666528074305000 count: 1
+STM stdout: W @ 0 -> 310
+STM stdout: ! id: 233 timestamp: 1774666528074376000 count: 1
+STM stdout: W @ 0 -> 233
+STM stdout: ! id: 112 timestamp: 1774666528074457000 count: 1
+STM stdout: W @ 0 -> 112
+STM stdout: ! id: 42 timestamp: 1774666528074520000 count: 1
+STM stdout: W @ 0 -> 42
+STM stdout: ! id: 311 timestamp: 1774666528074592000 count: 1
+STM stdout: W @ 0 -> 311
+STM stdout: ! id: 189 timestamp: 1774666528074666000 count: 1
+STM stdout: W @ 0 -> 189
+STM stdout: ! id: 200 timestamp: 1774666528074723000 count: 1
+STM stdout: W @ 0 -> 200
+STM stdout: ! id: 333 timestamp: 1774666528074790000 count: 1
+STM stdout: W @ 0 -> 333
+STM stdout: ! id: 325 timestamp: 1774666528074869000 count: 1
+STM stdout: W @ 0 -> 325
+STM stdout: ! id: 290 timestamp: 1774666528074942000 count: 1
+STM stdout: W @ 0 -> 290
+STM stdout: ! id: 441 timestamp: 1774666528075018000 count: 1
+STM stdout: W @ 0 -> 441
+STM stdout: ! id: 343 timestamp: 1774666528075078000 count: 1
+STM stdout: W @ 0 -> 343
+STM stdout: ! id: 223 timestamp: 1774666528075141000 count: 1
+STM stdout: W @ 0 -> 223
+STM stdout: ! id: 195 timestamp: 1774666528075210000 count: 1
+STM stdout: W @ 0 -> 195
+STM stdout: ! id: 283 timestamp: 1774666528075674000 count: 1
+STM stdout: W @ 0 -> 283
+STM stdout: ! id: 255 timestamp: 1774666528075904000 count: 1
+STM stdout: W @ 0 -> 255
+STM stdout: ! id: 227 timestamp: 1774666528075972000 count: 1
+STM stdout: W @ 0 -> 227
+STM stdout: ! id: 144 timestamp: 1774666528076047000 count: 1
+STM stdout: W @ 0 -> 144
+STM stdout: ! id: 175 timestamp: 1774666528076108000 count: 1
+STM stdout: W @ 0 -> 175
+STM stdout: ! id: 473 timestamp: 1774666528076185000 count: 1
+STM stdout: W @ 0 -> 473
+STM stdout: ! id: 346 timestamp: 1774666528076251000 count: 1
+STM stdout: W @ 0 -> 346
+STM stdout: ! id: 357 timestamp: 1774666528076314000 count: 1
+STM stdout: W @ 0 -> 357
+STM stdout: ! id: 315 timestamp: 1774666528076380000 count: 1
+STM stdout: W @ 0 -> 315
+STM stdout: ! id: 177 timestamp: 1774666528076451000 count: 1
+STM stdout: W @ 0 -> 177
+STM stdout: ! id: 347 timestamp: 1774666528076524000 count: 1
+STM stdout: W @ 0 -> 347
+STM stdout: ! id: 505 timestamp: 1774666528076588000 count: 1
+STM stdout: W @ 0 -> 505
+STM stdout: ! id: 210 timestamp: 1774666528076658000 count: 1
+STM stdout: W @ 0 -> 210
+STM stdout: ! id: 260 timestamp: 1774666528076738000 count: 1
+STM stdout: W @ 0 -> 260
+STM stdout: ! id: 209 timestamp: 1774666528076816000 count: 1
+STM stdout: W @ 0 -> 209
+STM stdout: ! id: 135 timestamp: 1774666528076888000 count: 1
+STM stdout: W @ 0 -> 135
+STM stdout: ! id: 149 timestamp: 1774666528076941000 count: 1
+STM stdout: W @ 0 -> 149
+STM stdout: ! id: 242 timestamp: 1774666528077009000 count: 1
+STM stdout: W @ 0 -> 242
+STM stdout: ! id: 167 timestamp: 1774666528077072000 count: 1
+STM stdout: W @ 0 -> 167
+STM stdout: ! id: 363 timestamp: 1774666528077127000 count: 1
+STM stdout: W @ 0 -> 363
+STM stdout: ! id: 232 timestamp: 1774666528077206000 count: 1
+STM stdout: W @ 0 -> 232
+STM stdout: ! id: 199 timestamp: 1774666528077278000 count: 1
+STM stdout: W @ 0 -> 199
+STM stdout: ! id: 181 timestamp: 1774666528077347000 count: 1
+STM stdout: W @ 0 -> 181
+STM stdout: ! id: 284 timestamp: 1774666528077415000 count: 1
+STM stdout: W @ 0 -> 284
+STM stdout: ! id: 259 timestamp: 1774666528077486000 count: 1
+STM stdout: W @ 0 -> 259
+STM stdout: ! id: 342 timestamp: 1774666528077547000 count: 1
+STM stdout: W @ 0 -> 342
+STM stdout: ! id: 221 timestamp: 1774666528077607000 count: 1
+STM stdout: W @ 0 -> 221
+STM stdout: ! id: 174 timestamp: 1774666528077672000 count: 1
+STM stdout: W @ 0 -> 174
+STM stdout: ! id: 379 timestamp: 1774666528077739000 count: 1
+STM stdout: W @ 0 -> 379
+STM stdout: ! id: 264 timestamp: 1774666528077798000 count: 1
+STM stdout: W @ 0 -> 264
+STM stdout: ! id: 115 timestamp: 1774666528077863000 count: 1
+STM stdout: W @ 0 -> 115
+STM stdout: ! id: 411 timestamp: 1774666528077922000 count: 1
+STM stdout: W @ 0 -> 411
+STM stdout: ! id: 291 timestamp: 1774666528077981000 count: 1
+STM stdout: W @ 0 -> 291
+STM stdout: ! id: 213 timestamp: 1774666528078041000 count: 1
+STM stdout: W @ 0 -> 213
+STM stdout: ! id: 395 timestamp: 1774666528078107000 count: 1
+STM stdout: W @ 0 -> 395
+STM stdout: ! id: 268 timestamp: 1774666528078176000 count: 1
+STM stdout: W @ 0 -> 268
+STM stdout: ! id: 422 timestamp: 1774666528078232000 count: 1
+STM stdout: W @ 0 -> 422
+STM stdout: ! id: 276 timestamp: 1774666528078298000 count: 1
+STM stdout: W @ 0 -> 276
+STM stdout: ! id: 265 timestamp: 1774666528078354000 count: 1
+STM stdout: W @ 0 -> 265
+STM stdout: ! id: 374 timestamp: 1774666528078418000 count: 1
+STM stdout: W @ 0 -> 374
+STM stdout: ! id: 254 timestamp: 1774666528078487000 count: 1
+STM stdout: W @ 0 -> 254
+STM stdout: ! id: 292 timestamp: 1774666528078555000 count: 1
+STM stdout: W @ 0 -> 292
+STM stdout: ! id: 286 timestamp: 1774666528078618000 count: 1
+STM stdout: W @ 0 -> 286
+STM stdout: ! id: 537 timestamp: 1774666528078694000 count: 1
+STM stdout: W @ 0 -> 537
+STM stdout: ! id: 192 timestamp: 1774666528078754000 count: 1
+STM stdout: W @ 0 -> 192
+STM stdout: ! id: 308 timestamp: 1774666528078814000 count: 1
+STM stdout: W @ 0 -> 308
+STM stdout: ! id: 129 timestamp: 1774666528078886000 count: 1
+STM stdout: W @ 0 -> 129
+STM stdout: ! id: 274 timestamp: 1774666528078950000 count: 1
+STM stdout: W @ 0 -> 274
+STM stdout: ! id: 406 timestamp: 1774666528079011000 count: 1
+STM stdout: W @ 0 -> 406
+STM stdout: ! id: 224 timestamp: 1774666528079081000 count: 1
+STM stdout: W @ 0 -> 224
+STM stdout: ! id: 316 timestamp: 1774666528079154000 count: 1
+STM stdout: W @ 0 -> 316
+STM stdout: ! id: 241 timestamp: 1774666528079220000 count: 1
+STM stdout: W @ 0 -> 241
+STM stdout: ! id: 147 timestamp: 1774666528079285000 count: 1
+STM stdout: W @ 0 -> 147
+STM stdout: ! id: 273 timestamp: 1774666528079352000 count: 1
+STM stdout: W @ 0 -> 273
+STM stdout: ! id: 206 timestamp: 1774666528079411000 count: 1
+STM stdout: W @ 0 -> 206
+STM stdout: ! id: 318 timestamp: 1774666528079472000 count: 1
+STM stdout: W @ 0 -> 318
+STM stdout: ! id: 454 timestamp: 1774666528079540000 count: 1
+STM stdout: W @ 0 -> 454
+STM stdout: ! id: 350 timestamp: 1774666528079600000 count: 1
+STM stdout: W @ 0 -> 350
+STM stdout: ! id: 184 timestamp: 1774666528079680000 count: 1
+STM stdout: W @ 0 -> 184
+STM stdout: ! id: 365 timestamp: 1774666528079747000 count: 1
+STM stdout: W @ 0 -> 365
+STM stdout: ! id: 305 timestamp: 1774666528079810000 count: 1
+STM stdout: W @ 0 -> 305
+STM stdout: ! id: 74 timestamp: 1774666528079876000 count: 1
+STM stdout: W @ 0 -> 74
+STM stdout: ! id: 397 timestamp: 1774666528079941000 count: 1
+STM stdout: W @ 0 -> 397
+STM stdout: ! id: 106 timestamp: 1774666528080009000 count: 1
+STM stdout: W @ 0 -> 106
+STM stdout: ! id: 443 timestamp: 1774666528080078000 count: 1
+STM stdout: W @ 0 -> 443
+STM stdout: ! id: 245 timestamp: 1774666528080138000 count: 1
+STM stdout: W @ 0 -> 245
+STM stdout: ! id: 375 timestamp: 1774666528080205000 count: 1
+STM stdout: W @ 0 -> 375
+STM stdout: ! id: 277 timestamp: 1774666528080276000 count: 1
+STM stdout: W @ 0 -> 277
+STM stdout: ! id: 486 timestamp: 1774666528080336000 count: 1
+STM stdout: W @ 0 -> 486
+STM stdout: ! id: 382 timestamp: 1774666528080394000 count: 1
+STM stdout: W @ 0 -> 382
+STM stdout: ! id: 340 timestamp: 1774666528080448000 count: 1
+STM stdout: W @ 0 -> 340
+STM stdout: ! id: 438 timestamp: 1774666528080500000 count: 1
+STM stdout: W @ 0 -> 438
+STM stdout: ! id: 372 timestamp: 1774666528080551000 count: 1
+STM stdout: W @ 0 -> 372
+STM stdout: ! id: 470 timestamp: 1774666528080604000 count: 1
+STM stdout: W @ 0 -> 470
+STM stdout: ! id: 207 timestamp: 1774666528080665000 count: 1
+STM stdout: W @ 0 -> 207
+STM stdout: ! id: 429 timestamp: 1774666528080722000 count: 1
+STM stdout: W @ 0 -> 429
+STM stdout: ! id: 138 timestamp: 1774666528080778000 count: 1
+STM stdout: W @ 0 -> 138
+STM stdout: ! id: 323 timestamp: 1774666528080834000 count: 1
+STM stdout: W @ 0 -> 323
+STM stdout: ! id: 324 timestamp: 1774666528080896000 count: 1
+STM stdout: W @ 0 -> 324
+STM stdout: ! id: 502 timestamp: 1774666528080952000 count: 1
+STM stdout: W @ 0 -> 502
+STM stdout: ! id: 356 timestamp: 1774666528081008000 count: 1
+STM stdout: W @ 0 -> 356
+STM stdout: ! id: 461 timestamp: 1774666528081061000 count: 1
+STM stdout: W @ 0 -> 461
+STM stdout: ! id: 534 timestamp: 1774666528081117000 count: 1
+STM stdout: W @ 0 -> 534
+STM stdout: ! id: 238 timestamp: 1774666528081171000 count: 1
+STM stdout: W @ 0 -> 238
+STM stdout: ! id: 322 timestamp: 1774666528081219000 count: 1
+STM stdout: W @ 0 -> 322
+STM stdout: ! id: 404 timestamp: 1774666528081270000 count: 1
+STM stdout: W @ 0 -> 404
+STM stdout: ! id: 354 timestamp: 1774666528081317000 count: 1
+STM stdout: W @ 0 -> 354
+STM stdout: ! id: 161 timestamp: 1774666528081380000 count: 1
+STM stdout: W @ 0 -> 161
+STM stdout: ! id: 436 timestamp: 1774666528081431000 count: 1
+STM stdout: W @ 0 -> 436
+STM stdout: ! id: 256 timestamp: 1774666528081491000 count: 1
+STM stdout: W @ 0 -> 256
+STM stdout: ! id: 309 timestamp: 1774666528081559000 count: 1
+STM stdout: W @ 0 -> 309
+STM stdout: ! id: 388 timestamp: 1774666528081619000 count: 1
+STM stdout: W @ 0 -> 388
+STM stdout: ! id: 216 timestamp: 1774666528081680000 count: 1
+STM stdout: W @ 0 -> 216
+STM stdout: ! id: 468 timestamp: 1774666528081732000 count: 1
+STM stdout: W @ 0 -> 468
+STM stdout: ! id: 407 timestamp: 1774666528081782000 count: 1
+STM stdout: W @ 0 -> 407
+STM stdout: ! id: 300 timestamp: 1774666528081837000 count: 1
+STM stdout: W @ 0 -> 300
+STM stdout: ! id: 270 timestamp: 1774666528081897000 count: 1
+STM stdout: W @ 0 -> 270
+STM stdout: ! id: 439 timestamp: 1774666528081946000 count: 1
+STM stdout: W @ 0 -> 439
+STM stdout: ! id: 253 timestamp: 1774666528082001000 count: 1
+STM stdout: W @ 0 -> 253
+STM stdout: ! id: 471 timestamp: 1774666528082064000 count: 1
+STM stdout: W @ 0 -> 471
+STM stdout: ! id: 493 timestamp: 1774666528082124000 count: 1
+STM stdout: W @ 0 -> 493
+STM stdout: ! id: 297 timestamp: 1774666528082177000 count: 1
+STM stdout: W @ 0 -> 297
+STM stdout: ! id: 239 timestamp: 1774666528082233000 count: 1
+STM stdout: W @ 0 -> 239
+STM stdout: ! id: 386 timestamp: 1774666528082285000 count: 1
+STM stdout: W @ 0 -> 386
+STM stdout: ! id: 306 timestamp: 1774666528082343000 count: 1
+STM stdout: W @ 0 -> 306
+STM stdout: ! id: 193 timestamp: 1774666528082398000 count: 1
+STM stdout: W @ 0 -> 193
+STM stdout: ! id: 338 timestamp: 1774666528082453000 count: 1
+STM stdout: W @ 0 -> 338
+STM stdout: ! id: 225 timestamp: 1774666528082507000 count: 1
+STM stdout: W @ 0 -> 225
+STM stdout: ! id: 566 timestamp: 1774666528082566000 count: 1
+STM stdout: W @ 0 -> 566
+STM stdout: ! id: 288 timestamp: 1774666528082617000 count: 1
+STM stdout: W @ 0 -> 288
+STM stdout: ! id: 332 timestamp: 1774666528082676000 count: 1
+STM stdout: W @ 0 -> 332
+STM stdout: ! id: 389 timestamp: 1774666528082734000 count: 1
+STM stdout: W @ 0 -> 389
+STM stdout: ! id: 341 timestamp: 1774666528082787000 count: 1
+STM stdout: W @ 0 -> 341
+STM stdout: ! id: 176 timestamp: 1774666528082856000 count: 1
+STM stdout: W @ 0 -> 176
+STM stdout: ! id: 355 timestamp: 1774666528082910000 count: 1
+STM stdout: W @ 0 -> 355
+STM stdout: ! id: 525 timestamp: 1774666528082970000 count: 1
+STM stdout: W @ 0 -> 525
+STM stdout: ! id: 287 timestamp: 1774666528083017000 count: 1
+STM stdout: W @ 0 -> 287
+STM stdout: ! id: 320 timestamp: 1774666528083083000 count: 1
+STM stdout: W @ 0 -> 320
+STM stdout: ! id: 271 timestamp: 1774666528083133000 count: 1
+STM stdout: W @ 0 -> 271
+STM stdout: ! id: 319 timestamp: 1774666528083191000 count: 1
+STM stdout: W @ 0 -> 319
+STM stdout: ! id: 378 timestamp: 1774666528083245000 count: 1
+STM stdout: W @ 0 -> 378
+STM stdout: ! id: 352 timestamp: 1774666528083297000 count: 1
+STM stdout: W @ 0 -> 352
+STM stdout: ! id: 421 timestamp: 1774666528083344000 count: 1
+STM stdout: W @ 0 -> 421
+STM stdout: ! id: 348 timestamp: 1774666528083397000 count: 1
+STM stdout: W @ 0 -> 348
+STM stdout: ! id: 231 timestamp: 1774666528083445000 count: 1
+STM stdout: W @ 0 -> 231
+STM stdout: ! id: 453 timestamp: 1774666528083517000 count: 1
+STM stdout: W @ 0 -> 453
+STM stdout: ! id: 302 timestamp: 1774666528083571000 count: 1
+STM stdout: W @ 0 -> 302
+STM stdout: ! id: 351 timestamp: 1774666528083626000 count: 1
+STM stdout: W @ 0 -> 351
+STM stdout: ! id: 373 timestamp: 1774666528083688000 count: 1
+STM stdout: W @ 0 -> 373
+STM stdout: ! id: 380 timestamp: 1774666528083738000 count: 1
+STM stdout: W @ 0 -> 380
+STM stdout: ! id: 569 timestamp: 1774666528083794000 count: 1
+STM stdout: W @ 0 -> 569
+STM stdout: ! id: 387 timestamp: 1774666528083850000 count: 1
+STM stdout: W @ 0 -> 387
+STM stdout: ! id: 179 timestamp: 1774666528083912000 count: 1
+STM stdout: W @ 0 -> 179
+STM stdout: ! id: 364 timestamp: 1774666528083960000 count: 1
+STM stdout: W @ 0 -> 364
+STM stdout: ! id: 296 timestamp: 1774666528084010000 count: 1
+STM stdout: W @ 0 -> 296
+STM stdout: ! id: 334 timestamp: 1774666528084061000 count: 1
+STM stdout: W @ 0 -> 334
+STM stdout: ! id: 248 timestamp: 1774666528084115000 count: 1
+STM stdout: W @ 0 -> 248
+STM stdout: ! id: 383 timestamp: 1774666528084173000 count: 1
+STM stdout: W @ 0 -> 383
+STM stdout: ! id: 208 timestamp: 1774666528084226000 count: 1
+STM stdout: W @ 0 -> 208
+STM stdout: ! id: 485 timestamp: 1774666528084282000 count: 1
+STM stdout: W @ 0 -> 485
+STM stdout: ! id: 240 timestamp: 1774666528084344000 count: 1
+STM stdout: W @ 0 -> 240
+STM stdout: ! id: 366 timestamp: 1774666528084397000 count: 1
+STM stdout: W @ 0 -> 366
+STM stdout: ! id: 503 timestamp: 1774666528084451000 count: 1
+STM stdout: W @ 0 -> 503
+STM stdout: ! id: 257 timestamp: 1774666528084505000 count: 1
+STM stdout: W @ 0 -> 257
+STM stdout: ! id: 601 timestamp: 1774666528084561000 count: 1
+STM stdout: W @ 0 -> 601
+STM stdout: ! id: 289 timestamp: 1774666528084610000 count: 1
+STM stdout: W @ 0 -> 289
+STM stdout: ! id: 517 timestamp: 1774666528084668000 count: 1
+STM stdout: W @ 0 -> 517
+STM stdout: ! id: 384 timestamp: 1774666528084729000 count: 1
+STM stdout: W @ 0 -> 384
+STM stdout: ! id: 170 timestamp: 1774666528084780000 count: 1
+STM stdout: W @ 0 -> 170
+STM stdout: ! id: 405 timestamp: 1774666528084835000 count: 1
+STM stdout: W @ 0 -> 405
+STM stdout: ! id: 598 timestamp: 1774666528084894000 count: 1
+STM stdout: W @ 0 -> 598
+STM stdout: ! id: 285 timestamp: 1774666528084952000 count: 1
+STM stdout: W @ 0 -> 285
+STM stdout: ! id: 418 timestamp: 1774666528085005000 count: 1
+STM stdout: W @ 0 -> 418
+STM stdout: ! id: 412 timestamp: 1774666528085059000 count: 1
+STM stdout: W @ 0 -> 412
+STM stdout: ! id: 557 timestamp: 1774666528085109000 count: 1
+STM stdout: W @ 0 -> 557
+STM stdout: ! id: 303 timestamp: 1774666528085167000 count: 1
+STM stdout: W @ 0 -> 303
+STM stdout: ! id: 427 timestamp: 1774666528085223000 count: 1
+STM stdout: W @ 0 -> 427
+STM stdout: ! id: 328 timestamp: 1774666528085287000 count: 1
+STM stdout: W @ 0 -> 328
+STM stdout: ! id: 398 timestamp: 1774666528085352000 count: 1
+STM stdout: W @ 0 -> 398
+STM stdout: ! id: 437 timestamp: 1774666528085419000 count: 1
+STM stdout: W @ 0 -> 437
+STM stdout: ! id: 420 timestamp: 1774666528085479000 count: 1
+STM stdout: W @ 0 -> 420
+STM stdout: ! id: 475 timestamp: 1774666528085526000 count: 1
+STM stdout: W @ 0 -> 475
+STM stdout: ! id: 549 timestamp: 1774666528085583000 count: 1
+STM stdout: W @ 0 -> 549
+STM stdout: ! id: 370 timestamp: 1774666528085638000 count: 1
+STM stdout: W @ 0 -> 370
+STM stdout: ! id: 263 timestamp: 1774666528085688000 count: 1
+STM stdout: W @ 0 -> 263
+STM stdout: ! id: 535 timestamp: 1774666528085747000 count: 1
+STM stdout: W @ 0 -> 535
+STM stdout: ! id: 450 timestamp: 1774666528085810000 count: 1
+STM stdout: W @ 0 -> 450
+STM stdout: ! id: 581 timestamp: 1774666528085871000 count: 1
+STM stdout: W @ 0 -> 581
+STM stdout: ! id: 500 timestamp: 1774666528085933000 count: 1
+STM stdout: W @ 0 -> 500
+STM stdout: ! id: 329 timestamp: 1774666528085985000 count: 1
+STM stdout: W @ 0 -> 329
+STM stdout: ! id: 396 timestamp: 1774666528086044000 count: 1
+STM stdout: W @ 0 -> 396
+STM stdout: ! id: 280 timestamp: 1774666528086102000 count: 1
+STM stdout: W @ 0 -> 280
+STM stdout: ! id: 613 timestamp: 1774666528086162000 count: 1
+STM stdout: W @ 0 -> 613
+STM stdout: ! id: 414 timestamp: 1774666528086216000 count: 1
+STM stdout: W @ 0 -> 414
+STM stdout: ! id: 402 timestamp: 1774666528086272000 count: 1
+STM stdout: W @ 0 -> 402
+STM stdout: ! id: 645 timestamp: 1774666528086325000 count: 1
+STM stdout: W @ 0 -> 645
+STM stdout: ! id: 469 timestamp: 1774666528086371000 count: 1
+STM stdout: W @ 0 -> 469
+STM stdout: ! id: 211 timestamp: 1774666528086412000 count: 1
+STM stdout: W @ 0 -> 211
+STM stdout: ! id: 507 timestamp: 1774666528086462000 count: 1
+STM stdout: W @ 0 -> 507
+STM stdout: ! id: 243 timestamp: 1774666528086505000 count: 1
+STM stdout: W @ 0 -> 243
+STM stdout: ! id: 361 timestamp: 1774666528086555000 count: 1
+STM stdout: W @ 0 -> 361
+STM stdout: ! id: 428 timestamp: 1774666528086604000 count: 1
+STM stdout: W @ 0 -> 428
+STM stdout: ! id: 360 timestamp: 1774666528086658000 count: 1
+STM stdout: W @ 0 -> 360
+STM stdout: ! id: 460 timestamp: 1774666528086710000 count: 1
+STM stdout: W @ 0 -> 460
+STM stdout: ! id: 430 timestamp: 1774666528086761000 count: 1
+STM stdout: W @ 0 -> 430
+STM stdout: ! id: 446 timestamp: 1774666528086812000 count: 1
+STM stdout: W @ 0 -> 446
+STM stdout: ! id: 335 timestamp: 1774666528086866000 count: 1
+STM stdout: W @ 0 -> 335
+STM stdout: ! id: 482 timestamp: 1774666528086911000 count: 1
+STM stdout: W @ 0 -> 482
+STM stdout: ! id: 367 timestamp: 1774666528086964000 count: 1
+STM stdout: W @ 0 -> 367
+STM stdout: ! id: 419 timestamp: 1774666528087018000 count: 1
+STM stdout: W @ 0 -> 419
+STM stdout: ! id: 532 timestamp: 1774666528087066000 count: 1
+STM stdout: W @ 0 -> 532
+STM stdout: ! id: 459 timestamp: 1774666528087112000 count: 1
+STM stdout: W @ 0 -> 459
+STM stdout: ! id: 539 timestamp: 1774666528087165000 count: 1
+STM stdout: W @ 0 -> 539
+STM stdout: ! id: 312 timestamp: 1774666528087215000 count: 1
+STM stdout: W @ 0 -> 312
+STM stdout: ! id: 518 timestamp: 1774666528087267000 count: 1
+STM stdout: W @ 0 -> 518
+STM stdout: ! id: 492 timestamp: 1774666528087321000 count: 1
+STM stdout: W @ 0 -> 492
+STM stdout: ! id: 630 timestamp: 1774666528087366000 count: 1
+STM stdout: W @ 0 -> 630
+STM stdout: ! id: 317 timestamp: 1774666528087410000 count: 1
+STM stdout: W @ 0 -> 317
+STM stdout: ! id: 550 timestamp: 1774666528087464000 count: 1
+STM stdout: W @ 0 -> 550
+STM stdout: ! id: 344 timestamp: 1774666528087524000 count: 1
+STM stdout: W @ 0 -> 344
+STM stdout: ! id: 272 timestamp: 1774666528087582000 count: 1
+STM stdout: W @ 0 -> 272
+STM stdout: ! id: 337 timestamp: 1774666528087638000 count: 1
+STM stdout: W @ 0 -> 337
+STM stdout: ! id: 275 timestamp: 1774666528087688000 count: 1
+STM stdout: W @ 0 -> 275
+STM stdout: ! id: 393 timestamp: 1774666528087738000 count: 1
+STM stdout: W @ 0 -> 393
+STM stdout: ! id: 399 timestamp: 1774666528087790000 count: 1
+STM stdout: W @ 0 -> 399
+STM stdout: ! id: 434 timestamp: 1774666528087845000 count: 1
+STM stdout: W @ 0 -> 434
+STM stdout: ! id: 524 timestamp: 1774666528087892000 count: 1
+STM stdout: W @ 0 -> 524
+STM stdout: ! id: 466 timestamp: 1774666528087937000 count: 1
+STM stdout: W @ 0 -> 466
+STM stdout: ! id: 633 timestamp: 1774666528087979000 count: 1
+STM stdout: W @ 0 -> 633
+STM stdout: ! id: 410 timestamp: 1774666528088027000 count: 1
+STM stdout: W @ 0 -> 410
+STM stdout: ! id: 451 timestamp: 1774666528088076000 count: 1
+STM stdout: W @ 0 -> 451
+STM stdout: ! id: 452 timestamp: 1774666528088127000 count: 1
+STM stdout: W @ 0 -> 452
+STM stdout: ! id: 416 timestamp: 1774666528088172000 count: 1
+STM stdout: W @ 0 -> 416
+STM stdout: ! id: 589 timestamp: 1774666528088225000 count: 1
+STM stdout: W @ 0 -> 589
+STM stdout: ! id: 442 timestamp: 1774666528088273000 count: 1
+STM stdout: W @ 0 -> 442
+STM stdout: ! id: 556 timestamp: 1774666528088322000 count: 1
+STM stdout: W @ 0 -> 556
+STM stdout: ! id: 425 timestamp: 1774666528088373000 count: 1
+STM stdout: W @ 0 -> 425
+STM stdout: ! id: 444 timestamp: 1774666528088418000 count: 1
+STM stdout: W @ 0 -> 444
+STM stdout: ! id: 588 timestamp: 1774666528088470000 count: 1
+STM stdout: W @ 0 -> 588
+STM stdout: ! id: 662 timestamp: 1774666528088526000 count: 1
+STM stdout: W @ 0 -> 662
+STM stdout: ! id: 295 timestamp: 1774666528088575000 count: 1
+STM stdout: W @ 0 -> 295
+STM stdout: ! id: 484 timestamp: 1774666528088619000 count: 1
+STM stdout: W @ 0 -> 484
+STM stdout: ! id: 677 timestamp: 1774666528088667000 count: 1
+STM stdout: W @ 0 -> 677
+STM stdout: ! id: 478 timestamp: 1774666528088716000 count: 1
+STM stdout: W @ 0 -> 478
+STM stdout: ! id: 571 timestamp: 1774666528088772000 count: 1
+STM stdout: W @ 0 -> 571
+STM stdout: ! id: 474 timestamp: 1774666528088820000 count: 1
+STM stdout: W @ 0 -> 474
+STM stdout: ! id: 694 timestamp: 1774666528088867000 count: 1
+STM stdout: W @ 0 -> 694
+STM stdout: ! id: 603 timestamp: 1774666528088914000 count: 1
+STM stdout: W @ 0 -> 603
+STM stdout: ! id: 506 timestamp: 1774666528088959000 count: 1
+STM stdout: W @ 0 -> 506
+STM stdout: ! id: 462 timestamp: 1774666528089013000 count: 1
+STM stdout: W @ 0 -> 462
+STM stdout: ! id: 304 timestamp: 1774666528089069000 count: 1
+STM stdout: W @ 0 -> 304
+STM stdout: ! id: 307 timestamp: 1774666528089118000 count: 1
+STM stdout: W @ 0 -> 307
+STM stdout: ! id: 516 timestamp: 1774666528089170000 count: 1
+STM stdout: W @ 0 -> 516
+STM stdout: ! id: 339 timestamp: 1774666528089215000 count: 1
+STM stdout: W @ 0 -> 339
+STM stdout: ! id: 494 timestamp: 1774666528089270000 count: 1
+STM stdout: W @ 0 -> 494
+STM stdout: ! id: 510 timestamp: 1774666528089321000 count: 1
+STM stdout: W @ 0 -> 510
+STM stdout: ! id: 582 timestamp: 1774666528089374000 count: 1
+STM stdout: W @ 0 -> 582
+STM stdout: ! id: 635 timestamp: 1774666528089424000 count: 1
+STM stdout: W @ 0 -> 635
+STM stdout: ! id: 538 timestamp: 1774666528089482000 count: 1
+STM stdout: W @ 0 -> 538
+STM stdout: ! id: 564 timestamp: 1774666528089529000 count: 1
+STM stdout: W @ 0 -> 564
+STM stdout: ! id: 415 timestamp: 1774666528089577000 count: 1
+STM stdout: W @ 0 -> 415
+STM stdout: ! id: 596 timestamp: 1774666528089623000 count: 1
+STM stdout: W @ 0 -> 596
+STM stdout: ! id: 327 timestamp: 1774666528089667000 count: 1
+STM stdout: W @ 0 -> 327
+STM stdout: ! id: 628 timestamp: 1774666528089712000 count: 1
+STM stdout: W @ 0 -> 628
+STM stdout: ! id: 667 timestamp: 1774666528089765000 count: 1
+STM stdout: W @ 0 -> 667
+STM stdout: ! id: 665 timestamp: 1774666528089809000 count: 1
+STM stdout: W @ 0 -> 665
+STM stdout: ! id: 491 timestamp: 1774666528089866000 count: 1
+STM stdout: W @ 0 -> 491
+STM stdout: ! id: 448 timestamp: 1774666528089918000 count: 1
+STM stdout: W @ 0 -> 448
+STM stdout: ! id: 431 timestamp: 1774666528089969000 count: 1
+STM stdout: W @ 0 -> 431
+STM stdout: ! id: 359 timestamp: 1774666528090017000 count: 1
+STM stdout: W @ 0 -> 359
+STM stdout: ! id: 457 timestamp: 1774666528090060000 count: 1
+STM stdout: W @ 0 -> 457
+STM stdout: ! id: 371 timestamp: 1774666528090107000 count: 1
+STM stdout: W @ 0 -> 371
+STM stdout: ! id: 570 timestamp: 1774666528090154000 count: 1
+STM stdout: W @ 0 -> 570
+STM stdout: ! id: 403 timestamp: 1774666528090208000 count: 1
+STM stdout: W @ 0 -> 403
+STM stdout: ! id: 392 timestamp: 1774666528090257000 count: 1
+STM stdout: W @ 0 -> 392
+STM stdout: ! id: 542 timestamp: 1774666528090304000 count: 1
+STM stdout: W @ 0 -> 542
+STM stdout: ! id: 620 timestamp: 1774666528090353000 count: 1
+STM stdout: W @ 0 -> 620
+STM stdout: ! id: 369 timestamp: 1774666528090405000 count: 1
+STM stdout: W @ 0 -> 369
+STM stdout: ! id: 567 timestamp: 1774666528090456000 count: 1
+STM stdout: W @ 0 -> 567
+STM stdout: ! id: 726 timestamp: 1774666528090501000 count: 1
+STM stdout: W @ 0 -> 726
+STM stdout: ! id: 376 timestamp: 1774666528090560000 count: 1
+STM stdout: W @ 0 -> 376
+STM stdout: ! id: 614 timestamp: 1774666528090608000 count: 1
+STM stdout: W @ 0 -> 614
+STM stdout: ! id: 408 timestamp: 1774666528090660000 count: 1
+STM stdout: W @ 0 -> 408
+STM stdout: ! id: 526 timestamp: 1774666528090704000 count: 1
+STM stdout: W @ 0 -> 526
+STM stdout: ! id: 440 timestamp: 1774666528090753000 count: 1
+STM stdout: W @ 0 -> 440
+STM stdout: ! id: 498 timestamp: 1774666528090805000 count: 1
+STM stdout: W @ 0 -> 498
+STM stdout: ! id: 476 timestamp: 1774666528090851000 count: 1
+STM stdout: W @ 0 -> 476
+STM stdout: ! id: 489 timestamp: 1774666528090901000 count: 1
+STM stdout: W @ 0 -> 489
+STM stdout: ! id: 321 timestamp: 1774666528090955000 count: 1
+STM stdout: W @ 0 -> 321
+STM stdout: ! id: 758 timestamp: 1774666528091000000 count: 1
+STM stdout: W @ 0 -> 758
+STM stdout: ! id: 353 timestamp: 1774666528091047000 count: 1
+STM stdout: W @ 0 -> 353
+STM stdout: ! id: 514 timestamp: 1774666528091093000 count: 1
+STM stdout: W @ 0 -> 514
+STM stdout: ! id: 202 timestamp: 1774666528091136000 count: 1
+STM stdout: W @ 0 -> 202
+STM stdout: ! id: 336 timestamp: 1774666528091186000 count: 1
+STM stdout: W @ 0 -> 336
+STM stdout: ! id: 424 timestamp: 1774666528091238000 count: 1
+STM stdout: W @ 0 -> 424
+STM stdout: ! id: 697 timestamp: 1774666528091288000 count: 1
+STM stdout: W @ 0 -> 697
+STM stdout: ! id: 652 timestamp: 1774666528091339000 count: 1
+STM stdout: W @ 0 -> 652
+STM stdout: ! id: 602 timestamp: 1774666528091386000 count: 1
+STM stdout: W @ 0 -> 602
+STM stdout: ! id: 435 timestamp: 1774666528091434000 count: 1
+STM stdout: W @ 0 -> 435
+STM stdout: ! id: 546 timestamp: 1774666528091479000 count: 1
+STM stdout: W @ 0 -> 546
+STM stdout: ! id: 234 timestamp: 1774666528091527000 count: 1
+STM stdout: W @ 0 -> 234
+STM stdout: ! id: 578 timestamp: 1774666528091572000 count: 1
+STM stdout: W @ 0 -> 578
+STM stdout: ! id: 709 timestamp: 1774666528091624000 count: 1
+STM stdout: W @ 0 -> 709
+STM stdout: ! id: 610 timestamp: 1774666528091675000 count: 1
+STM stdout: W @ 0 -> 610
+STM stdout: ! id: 368 timestamp: 1774666528091726000 count: 1
+STM stdout: W @ 0 -> 368
+STM stdout: ! id: 530 timestamp: 1774666528091777000 count: 1
+STM stdout: W @ 0 -> 530
+STM stdout: ! id: 523 timestamp: 1774666528091822000 count: 1
+STM stdout: W @ 0 -> 523
+STM stdout: ! id: 401 timestamp: 1774666528091872000 count: 1
+STM stdout: W @ 0 -> 401
+STM stdout: ! id: 741 timestamp: 1774666528091915000 count: 1
+STM stdout: W @ 0 -> 741
+STM stdout: ! id: 574 timestamp: 1774666528091964000 count: 1
+STM stdout: W @ 0 -> 574
+STM stdout: ! id: 391 timestamp: 1774666528092014000 count: 1
+STM stdout: W @ 0 -> 391
+STM stdout: ! id: 729 timestamp: 1774666528092060000 count: 1
+STM stdout: W @ 0 -> 729
+STM stdout: ! id: 521 timestamp: 1774666528092104000 count: 1
+STM stdout: W @ 0 -> 521
+STM stdout: ! id: 447 timestamp: 1774666528092150000 count: 1
+STM stdout: W @ 0 -> 447
+STM stdout: ! id: 660 timestamp: 1774666528092197000 count: 1
+STM stdout: W @ 0 -> 660
+STM stdout: ! id: 266 timestamp: 1774666528092247000 count: 1
+STM stdout: W @ 0 -> 266
+STM stdout: ! id: 501 timestamp: 1774666528092289000 count: 1
+STM stdout: W @ 0 -> 501
+STM stdout: ! id: 646 timestamp: 1774666528092334000 count: 1
+STM stdout: W @ 0 -> 646
+STM stdout: ! id: 483 timestamp: 1774666528092381000 count: 1
+STM stdout: W @ 0 -> 483
+STM stdout: ! id: 634 timestamp: 1774666528092420000 count: 1
+STM stdout: W @ 0 -> 634
+STM stdout: ! id: 515 timestamp: 1774666528092470000 count: 1
+STM stdout: W @ 0 -> 515
+STM stdout: ! id: 508 timestamp: 1774666528092517000 count: 1
+STM stdout: W @ 0 -> 508
+STM stdout: ! id: 761 timestamp: 1774666528092567000 count: 1
+STM stdout: W @ 0 -> 761
+STM stdout: ! id: 692 timestamp: 1774666528092613000 count: 1
+STM stdout: W @ 0 -> 692
+STM stdout: ! id: 456 timestamp: 1774666528092657000 count: 1
+STM stdout: W @ 0 -> 456
+STM stdout: ! id: 773 timestamp: 1774666528092707000 count: 1
+STM stdout: W @ 0 -> 773
+STM stdout: ! id: 472 timestamp: 1774666528092754000 count: 1
+STM stdout: W @ 0 -> 472
+STM stdout: ! id: 553 timestamp: 1774666528092988000 count: 1
+STM stdout: W @ 0 -> 553
+STM stdout: ! id: 547 timestamp: 1774666528093163000 count: 1
+STM stdout: W @ 0 -> 547
+STM stdout: ! id: 555 timestamp: 1774666528093208000 count: 1
+STM stdout: W @ 0 -> 555
+STM stdout: ! id: 579 timestamp: 1774666528093257000 count: 1
+STM stdout: W @ 0 -> 579
+STM stdout: ! id: 400 timestamp: 1774666528093300000 count: 1
+STM stdout: W @ 0 -> 400
+STM stdout: ! id: 621 timestamp: 1774666528093342000 count: 1
+STM stdout: W @ 0 -> 621
+STM stdout: ! id: 678 timestamp: 1774666528093386000 count: 1
+STM stdout: W @ 0 -> 678
+STM stdout: ! id: 349 timestamp: 1774666528093430000 count: 1
+STM stdout: W @ 0 -> 349
+STM stdout: ! id: 793 timestamp: 1774666528093482000 count: 1
+STM stdout: W @ 0 -> 793
+STM stdout: ! id: 298 timestamp: 1774666528093522000 count: 1
+STM stdout: W @ 0 -> 298
+STM stdout: ! id: 825 timestamp: 1774666528093566000 count: 1
+STM stdout: W @ 0 -> 825
+STM stdout: ! id: 480 timestamp: 1774666528093613000 count: 1
+STM stdout: W @ 0 -> 480
+STM stdout: ! id: 599 timestamp: 1774666528093650000 count: 1
+STM stdout: W @ 0 -> 599
+STM stdout: ! id: 467 timestamp: 1774666528093693000 count: 1
+STM stdout: W @ 0 -> 467
+STM stdout: ! id: 385 timestamp: 1774666528093734000 count: 1
+STM stdout: W @ 0 -> 385
+STM stdout: ! id: 499 timestamp: 1774666528093782000 count: 1
+STM stdout: W @ 0 -> 499
+STM stdout: ! id: 790 timestamp: 1774666528093831000 count: 1
+STM stdout: W @ 0 -> 790
+STM stdout: ! id: 805 timestamp: 1774666528093888000 count: 1
+STM stdout: W @ 0 -> 805
+STM stdout: ! id: 488 timestamp: 1774666528093932000 count: 1
+STM stdout: W @ 0 -> 488
+STM stdout: ! id: 504 timestamp: 1774666528093976000 count: 1
+STM stdout: W @ 0 -> 504
+STM stdout: ! id: 710 timestamp: 1774666528094017000 count: 1
+STM stdout: W @ 0 -> 710
+STM stdout: ! id: 822 timestamp: 1774666528094060000 count: 1
+STM stdout: W @ 0 -> 822
+STM stdout: ! id: 533 timestamp: 1774666528094108000 count: 1
+STM stdout: W @ 0 -> 533
+STM stdout: ! id: 666 timestamp: 1774666528094149000 count: 1
+STM stdout: W @ 0 -> 666
+STM stdout: ! id: 433 timestamp: 1774666528094201000 count: 1
+STM stdout: W @ 0 -> 433
+STM stdout: ! id: 540 timestamp: 1774666528094244000 count: 1
+STM stdout: W @ 0 -> 540
+STM stdout: ! id: 837 timestamp: 1774666528094287000 count: 1
+STM stdout: W @ 0 -> 837
+STM stdout: ! id: 536 timestamp: 1774666528094338000 count: 1
+STM stdout: W @ 0 -> 536
+STM stdout: ! id: 565 timestamp: 1774666528094378000 count: 1
+STM stdout: W @ 0 -> 565
+STM stdout: ! id: 558 timestamp: 1774666528094427000 count: 1
+STM stdout: W @ 0 -> 558
+STM stdout: ! id: 857 timestamp: 1774666528094470000 count: 1
+STM stdout: W @ 0 -> 857
+STM stdout: ! id: 854 timestamp: 1774666528094509000 count: 1
+STM stdout: W @ 0 -> 854
+STM stdout: ! id: 512 timestamp: 1774666528094550000 count: 1
+STM stdout: W @ 0 -> 512
+STM stdout: ! id: 548 timestamp: 1774666528094587000 count: 1
+STM stdout: W @ 0 -> 548
+STM stdout: ! id: 642 timestamp: 1774666528094626000 count: 1
+STM stdout: W @ 0 -> 642
+STM stdout: ! id: 432 timestamp: 1774666528094670000 count: 1
+STM stdout: W @ 0 -> 432
+STM stdout: ! id: 653 timestamp: 1774666528094714000 count: 1
+STM stdout: W @ 0 -> 653
+STM stdout: ! id: 381 timestamp: 1774666528094767000 count: 1
+STM stdout: W @ 0 -> 381
+STM stdout: ! id: 423 timestamp: 1774666528094818000 count: 1
+STM stdout: W @ 0 -> 423
+STM stdout: ! id: 479 timestamp: 1774666528094854000 count: 1
+STM stdout: W @ 0 -> 479
+STM stdout: ! id: 889 timestamp: 1774666528094901000 count: 1
+STM stdout: W @ 0 -> 889
+STM stdout: ! id: 742 timestamp: 1774666528094942000 count: 1
+STM stdout: W @ 0 -> 742
+STM stdout: ! id: 597 timestamp: 1774666528094985000 count: 1
+STM stdout: W @ 0 -> 597
+STM stdout: ! id: 562 timestamp: 1774666528095029000 count: 1
+STM stdout: W @ 0 -> 562
+STM stdout: ! id: 465 timestamp: 1774666528095078000 count: 1
+STM stdout: W @ 0 -> 465
+STM stdout: ! id: 886 timestamp: 1774666528095120000 count: 1
+STM stdout: W @ 0 -> 886
+STM stdout: ! id: 568 timestamp: 1774666528095159000 count: 1
+STM stdout: W @ 0 -> 568
+STM stdout: ! id: 918 timestamp: 1774666528095204000 count: 1
+STM stdout: W @ 0 -> 918
+STM stdout: ! id: 585 timestamp: 1774666528095255000 count: 1
+STM stdout: W @ 0 -> 585
+STM stdout: ! id: 631 timestamp: 1774666528095296000 count: 1
+STM stdout: W @ 0 -> 631
+STM stdout: ! id: 464 timestamp: 1774666528095337000 count: 1
+STM stdout: W @ 0 -> 464
+STM stdout: ! id: 685 timestamp: 1774666528095383000 count: 1
+STM stdout: W @ 0 -> 685
+STM stdout: ! id: 611 timestamp: 1774666528095428000 count: 1
+STM stdout: W @ 0 -> 611
+STM stdout: ! id: 580 timestamp: 1774666528095473000 count: 1
+STM stdout: W @ 0 -> 580
+STM stdout: ! id: 590 timestamp: 1774666528095521000 count: 1
+STM stdout: W @ 0 -> 590
+STM stdout: ! id: 587 timestamp: 1774666528095560000 count: 1
+STM stdout: W @ 0 -> 587
+STM stdout: ! id: 699 timestamp: 1774666528095602000 count: 1
+STM stdout: W @ 0 -> 699
+STM stdout: ! id: 330 timestamp: 1774666528095652000 count: 1
+STM stdout: W @ 0 -> 330
+STM stdout: ! id: 717 timestamp: 1774666528095705000 count: 1
+STM stdout: W @ 0 -> 717
+STM stdout: ! id: 617 timestamp: 1774666528095755000 count: 1
+STM stdout: W @ 0 -> 617
+STM stdout: ! id: 413 timestamp: 1774666528095807000 count: 1
+STM stdout: W @ 0 -> 413
+STM stdout: ! id: 362 timestamp: 1774666528095851000 count: 1
+STM stdout: W @ 0 -> 362
+STM stdout: ! id: 455 timestamp: 1774666528095899000 count: 1
+STM stdout: W @ 0 -> 455
+STM stdout: ! id: 496 timestamp: 1774666528095946000 count: 1
+STM stdout: W @ 0 -> 496
+STM stdout: ! id: 619 timestamp: 1774666528095989000 count: 1
+STM stdout: W @ 0 -> 619
+STM stdout: ! id: 629 timestamp: 1774666528096032000 count: 1
+STM stdout: W @ 0 -> 629
+STM stdout: ! id: 950 timestamp: 1774666528096075000 count: 1
+STM stdout: W @ 0 -> 950
+STM stdout: ! id: 869 timestamp: 1774666528096116000 count: 1
+STM stdout: W @ 0 -> 869
+STM stdout: ! id: 497 timestamp: 1774666528096168000 count: 1
+STM stdout: W @ 0 -> 497
+STM stdout: ! id: 511 timestamp: 1774666528096210000 count: 1
+STM stdout: W @ 0 -> 511
+STM stdout: ! id: 622 timestamp: 1774666528096253000 count: 1
+STM stdout: W @ 0 -> 622
+STM stdout: ! id: 606 timestamp: 1774666528096299000 count: 1
+STM stdout: W @ 0 -> 606
+STM stdout: ! id: 731 timestamp: 1774666528096340000 count: 1
+STM stdout: W @ 0 -> 731
+STM stdout: ! id: 651 timestamp: 1774666528096384000 count: 1
+STM stdout: W @ 0 -> 651
+STM stdout: ! id: 520 timestamp: 1774666528096423000 count: 1
+STM stdout: W @ 0 -> 520
+STM stdout: ! id: 531 timestamp: 1774666528096465000 count: 1
+STM stdout: W @ 0 -> 531
+STM stdout: ! id: 552 timestamp: 1774666528096515000 count: 1
+STM stdout: W @ 0 -> 552
+STM stdout: ! id: 661 timestamp: 1774666528096558000 count: 1
+STM stdout: W @ 0 -> 661
+STM stdout: ! id: 663 timestamp: 1774666528096597000 count: 1
+STM stdout: W @ 0 -> 663
+STM stdout: ! id: 487 timestamp: 1774666528096634000 count: 1
+STM stdout: W @ 0 -> 487
+STM stdout: ! id: 684 timestamp: 1774666528096678000 count: 1
+STM stdout: W @ 0 -> 684
+STM stdout: ! id: 528 timestamp: 1774666528096722000 count: 1
+STM stdout: W @ 0 -> 528
+STM stdout: ! id: 612 timestamp: 1774666528096767000 count: 1
+STM stdout: W @ 0 -> 612
+STM stdout: ! id: 584 timestamp: 1774666528096808000 count: 1
+STM stdout: W @ 0 -> 584
+STM stdout: ! id: 683 timestamp: 1774666528096851000 count: 1
+STM stdout: W @ 0 -> 683
+STM stdout: ! id: 644 timestamp: 1774666528096897000 count: 1
+STM stdout: W @ 0 -> 644
+STM stdout: ! id: 674 timestamp: 1774666528096948000 count: 1
+STM stdout: W @ 0 -> 674
+STM stdout: ! id: 463 timestamp: 1774666528096994000 count: 1
+STM stdout: W @ 0 -> 463
+STM stdout: ! id: 749 timestamp: 1774666528097037000 count: 1
+STM stdout: W @ 0 -> 749
+STM stdout: ! id: 654 timestamp: 1774666528097086000 count: 1
+STM stdout: W @ 0 -> 654
+STM stdout: ! id: 563 timestamp: 1774666528097135000 count: 1
+STM stdout: W @ 0 -> 563
+STM stdout: ! id: 763 timestamp: 1774666528097180000 count: 1
+STM stdout: W @ 0 -> 763
+STM stdout: ! id: 693 timestamp: 1774666528097230000 count: 1
+STM stdout: W @ 0 -> 693
+STM stdout: ! id: 544 timestamp: 1774666528097274000 count: 1
+STM stdout: W @ 0 -> 544
+STM stdout: ! id: 676 timestamp: 1774666528097320000 count: 1
+STM stdout: W @ 0 -> 676
+STM stdout: ! id: 638 timestamp: 1774666528097364000 count: 1
+STM stdout: W @ 0 -> 638
+STM stdout: ! id: 724 timestamp: 1774666528097409000 count: 1
+STM stdout: W @ 0 -> 724
+STM stdout: ! id: 795 timestamp: 1774666528097460000 count: 1
+STM stdout: W @ 0 -> 795
+STM stdout: ! id: 715 timestamp: 1774666528097503000 count: 1
+STM stdout: W @ 0 -> 715
+STM stdout: ! id: 921 timestamp: 1774666528097552000 count: 1
+STM stdout: W @ 0 -> 921
+STM stdout: ! id: 747 timestamp: 1774666528097598000 count: 1
+STM stdout: W @ 0 -> 747
+STM stdout: ! id: 394 timestamp: 1774666528097638000 count: 1
+STM stdout: W @ 0 -> 394
+STM stdout: ! id: 756 timestamp: 1774666528097683000 count: 1
+STM stdout: W @ 0 -> 756
+STM stdout: ! id: 827 timestamp: 1774666528097733000 count: 1
+STM stdout: W @ 0 -> 827
+STM stdout: ! id: 686 timestamp: 1774666528097781000 count: 1
+STM stdout: W @ 0 -> 686
+STM stdout: ! id: 725 timestamp: 1774666528097825000 count: 1
+STM stdout: W @ 0 -> 725
+STM stdout: ! id: 708 timestamp: 1774666528097867000 count: 1
+STM stdout: W @ 0 -> 708
+STM stdout: ! id: 417 timestamp: 1774666528097910000 count: 1
+STM stdout: W @ 0 -> 417
+STM stdout: ! id: 616 timestamp: 1774666528097949000 count: 1
+STM stdout: W @ 0 -> 616
+STM stdout: ! id: 543 timestamp: 1774666528098001000 count: 1
+STM stdout: W @ 0 -> 543
+STM stdout: ! id: 594 timestamp: 1774666528098060000 count: 1
+STM stdout: W @ 0 -> 594
+STM stdout: ! id: 670 timestamp: 1774666528098106000 count: 1
+STM stdout: W @ 0 -> 670
+STM stdout: ! id: 649 timestamp: 1774666528098160000 count: 1
+STM stdout: W @ 0 -> 649
+STM stdout: ! id: 953 timestamp: 1774666528098204000 count: 1
+STM stdout: W @ 0 -> 953
+STM stdout: ! id: 740 timestamp: 1774666528098249000 count: 1
+STM stdout: W @ 0 -> 740
+STM stdout: ! id: 643 timestamp: 1774666528098287000 count: 1
+STM stdout: W @ 0 -> 643
+STM stdout: ! id: 529 timestamp: 1774666528098331000 count: 1
+STM stdout: W @ 0 -> 529
+STM stdout: ! id: 985 timestamp: 1774666528098375000 count: 1
+STM stdout: W @ 0 -> 985
+STM stdout: ! id: 576 timestamp: 1774666528098416000 count: 1
+STM stdout: W @ 0 -> 576
+STM stdout: ! id: 706 timestamp: 1774666528098454000 count: 1
+STM stdout: W @ 0 -> 706
+STM stdout: ! id: 608 timestamp: 1774666528098499000 count: 1
+STM stdout: W @ 0 -> 608
+STM stdout: ! id: 781 timestamp: 1774666528098546000 count: 1
+STM stdout: W @ 0 -> 781
+STM stdout: ! id: 445 timestamp: 1774666528098584000 count: 1
+STM stdout: W @ 0 -> 445
+STM stdout: ! id: 561 timestamp: 1774666528098624000 count: 1
+STM stdout: W @ 0 -> 561
+STM stdout: ! id: 813 timestamp: 1774666528098662000 count: 1
+STM stdout: W @ 0 -> 813
+STM stdout: ! id: 702 timestamp: 1774666528098699000 count: 1
+STM stdout: W @ 0 -> 702
+STM stdout: ! id: 774 timestamp: 1774666528098737000 count: 1
+STM stdout: W @ 0 -> 774
+STM stdout: ! id: 560 timestamp: 1774666528098774000 count: 1
+STM stdout: W @ 0 -> 560
+STM stdout: ! id: 779 timestamp: 1774666528098819000 count: 1
+STM stdout: W @ 0 -> 779
+STM stdout: ! id: 640 timestamp: 1774666528098863000 count: 1
+STM stdout: W @ 0 -> 640
+STM stdout: ! id: 716 timestamp: 1774666528098903000 count: 1
+STM stdout: W @ 0 -> 716
+STM stdout: ! id: 681 timestamp: 1774666528098940000 count: 1
+STM stdout: W @ 0 -> 681
+STM stdout: ! id: 748 timestamp: 1774666528098981000 count: 1
+STM stdout: W @ 0 -> 748
+STM stdout: ! id: 426 timestamp: 1774666528099024000 count: 1
+STM stdout: W @ 0 -> 426
+STM stdout: ! id: 901 timestamp: 1774666528099067000 count: 1
+STM stdout: W @ 0 -> 901
+STM stdout: ! id: 572 timestamp: 1774666528099101000 count: 1
+STM stdout: W @ 0 -> 572
+STM stdout: ! id: 713 timestamp: 1774666528099141000 count: 1
+STM stdout: W @ 0 -> 713
+STM stdout: ! id: 626 timestamp: 1774666528099181000 count: 1
+STM stdout: W @ 0 -> 626
+STM stdout: ! id: 648 timestamp: 1774666528099222000 count: 1
+STM stdout: W @ 0 -> 648
+STM stdout: ! id: 859 timestamp: 1774666528099257000 count: 1
+STM stdout: W @ 0 -> 859
+STM stdout: ! id: 458 timestamp: 1774666528099296000 count: 1
+STM stdout: W @ 0 -> 458
+STM stdout: ! id: 734 timestamp: 1774666528099332000 count: 1
+STM stdout: W @ 0 -> 734
+STM stdout: ! id: 757 timestamp: 1774666528099373000 count: 1
+STM stdout: W @ 0 -> 757
+STM stdout: ! id: 490 timestamp: 1774666528099414000 count: 1
+STM stdout: W @ 0 -> 490
+STM stdout: ! id: 698 timestamp: 1774666528099454000 count: 1
+STM stdout: W @ 0 -> 698
+STM stdout: ! id: 982 timestamp: 1774666528099495000 count: 1
+STM stdout: W @ 0 -> 982
+STM stdout: ! id: 745 timestamp: 1774666528099530000 count: 1
+STM stdout: W @ 0 -> 745
+STM stdout: ! id: 449 timestamp: 1774666528099566000 count: 1
+STM stdout: W @ 0 -> 449
+STM stdout: ! id: 845 timestamp: 1774666528099605000 count: 1
+STM stdout: W @ 0 -> 845
+STM stdout: ! id: 738 timestamp: 1774666528099646000 count: 1
+STM stdout: W @ 0 -> 738
+STM stdout: ! id: 730 timestamp: 1774666528099686000 count: 1
+STM stdout: W @ 0 -> 730
+STM stdout: ! id: 788 timestamp: 1774666528099728000 count: 1
+STM stdout: W @ 0 -> 788
+STM stdout: ! id: 695 timestamp: 1774666528099773000 count: 1
+STM stdout: W @ 0 -> 695
+STM stdout: ! id: 595 timestamp: 1774666528099827000 count: 1
+STM stdout: W @ 0 -> 595
+STM stdout: ! id: 762 timestamp: 1774666528099873000 count: 1
+STM stdout: W @ 0 -> 762
+STM stdout: ! id: 718 timestamp: 1774666528099908000 count: 1
+STM stdout: W @ 0 -> 718
+STM stdout: ! id: 727 timestamp: 1774666528099952000 count: 1
+STM stdout: W @ 0 -> 727
+STM stdout: ! id: 519 timestamp: 1774666528099993000 count: 1
+STM stdout: W @ 0 -> 519
+STM stdout: ! id: 680 timestamp: 1774666528100031000 count: 1
+STM stdout: W @ 0 -> 680
+STM stdout: ! id: 551 timestamp: 1774666528100077000 count: 1
+STM stdout: W @ 0 -> 551
+STM stdout: ! id: 772 timestamp: 1774666528100116000 count: 1
+STM stdout: W @ 0 -> 772
+STM stdout: ! id: 583 timestamp: 1774666528100158000 count: 1
+STM stdout: W @ 0 -> 583
+STM stdout: ! id: 522 timestamp: 1774666528100201000 count: 1
+STM stdout: W @ 0 -> 522
+STM stdout: ! id: 604 timestamp: 1774666528100240000 count: 1
+STM stdout: W @ 0 -> 604
+STM stdout: ! id: 780 timestamp: 1774666528100278000 count: 1
+STM stdout: W @ 0 -> 780
+STM stdout: ! id: 636 timestamp: 1774666528100310000 count: 1
+STM stdout: W @ 0 -> 636
+STM stdout: ! id: 820 timestamp: 1774666528100349000 count: 1
+STM stdout: W @ 0 -> 820
+STM stdout: ! id: 812 timestamp: 1774666528100387000 count: 1
+STM stdout: W @ 0 -> 812
+STM stdout: ! id: 877 timestamp: 1774666528100426000 count: 1
+STM stdout: W @ 0 -> 877
+STM stdout: ! id: 770 timestamp: 1774666528100469000 count: 1
+STM stdout: W @ 0 -> 770
+STM stdout: ! id: 658 timestamp: 1774666528100507000 count: 1
+STM stdout: W @ 0 -> 658
+STM stdout: ! id: 802 timestamp: 1774666528100545000 count: 1
+STM stdout: W @ 0 -> 802
+STM stdout: ! id: 675 timestamp: 1774666528100593000 count: 1
+STM stdout: W @ 0 -> 675
+STM stdout: ! id: 477 timestamp: 1774666528100635000 count: 1
+STM stdout: W @ 0 -> 477
+STM stdout: ! id: 844 timestamp: 1774666528100674000 count: 1
+STM stdout: W @ 0 -> 844
+STM stdout: ! id: 668 timestamp: 1774666528100715000 count: 1
+STM stdout: W @ 0 -> 668
+STM stdout: ! id: 834 timestamp: 1774666528100757000 count: 1
+STM stdout: W @ 0 -> 834
+STM stdout: ! id: 700 timestamp: 1774666528100797000 count: 1
+STM stdout: W @ 0 -> 700
+STM stdout: ! id: 593 timestamp: 1774666528100841000 count: 1
+STM stdout: W @ 0 -> 593
+STM stdout: ! id: 891 timestamp: 1774666528100880000 count: 1
+STM stdout: W @ 0 -> 891
+STM stdout: ! id: 690 timestamp: 1774666528100922000 count: 1
+STM stdout: W @ 0 -> 690
+STM stdout: ! id: 707 timestamp: 1774666528100960000 count: 1
+STM stdout: W @ 0 -> 707
+STM stdout: ! id: 554 timestamp: 1774666528101004000 count: 1
+STM stdout: W @ 0 -> 554
+STM stdout: ! id: 600 timestamp: 1774666528101044000 count: 1
+STM stdout: W @ 0 -> 600
+STM stdout: ! id: 766 timestamp: 1774666528101084000 count: 1
+STM stdout: W @ 0 -> 766
+STM stdout: ! id: 750 timestamp: 1774666528101125000 count: 1
+STM stdout: W @ 0 -> 750
+STM stdout: ! id: 866 timestamp: 1774666528101160000 count: 1
+STM stdout: W @ 0 -> 866
+STM stdout: ! id: 909 timestamp: 1774666528101210000 count: 1
+STM stdout: W @ 0 -> 909
+STM stdout: ! id: 1017 timestamp: 1774666528101255000 count: 1
+STM stdout: W @ 0 -> 1017
+STM stdout: ! id: 632 timestamp: 1774666528101292000 count: 1
+STM stdout: W @ 0 -> 632
+STM stdout: ! id: 933 timestamp: 1774666528101334000 count: 1
+STM stdout: W @ 0 -> 933
+STM stdout: ! id: 732 timestamp: 1774666528101376000 count: 1
+STM stdout: W @ 0 -> 732
+STM stdout: ! id: 625 timestamp: 1774666528101416000 count: 1
+STM stdout: W @ 0 -> 625
+STM stdout: ! id: 764 timestamp: 1774666528101458000 count: 1
+STM stdout: W @ 0 -> 764
+STM stdout: ! id: 722 timestamp: 1774666528101500000 count: 1
+STM stdout: W @ 0 -> 722
+STM stdout: ! id: 876 timestamp: 1774666528101535000 count: 1
+STM stdout: W @ 0 -> 876
+STM stdout: ! id: 586 timestamp: 1774666528101575000 count: 1
+STM stdout: W @ 0 -> 586
+STM stdout: ! id: 754 timestamp: 1774666528101612000 count: 1
+STM stdout: W @ 0 -> 754
+STM stdout: ! id: 782 timestamp: 1774666528101652000 count: 1
+STM stdout: W @ 0 -> 782
+STM stdout: ! id: 495 timestamp: 1774666528101691000 count: 1
+STM stdout: W @ 0 -> 495
+STM stdout: ! id: 1014 timestamp: 1774666528101736000 count: 1
+STM stdout: W @ 0 -> 1014
+STM stdout: ! id: 794 timestamp: 1774666528101788000 count: 1
+STM stdout: W @ 0 -> 794
+STM stdout: ! id: 759 timestamp: 1774666528101823000 count: 1
+STM stdout: W @ 0 -> 759
+STM stdout: ! id: 786 timestamp: 1774666528101862000 count: 1
+STM stdout: W @ 0 -> 786
+STM stdout: ! id: 814 timestamp: 1774666528101893000 count: 1
+STM stdout: W @ 0 -> 814
+STM stdout: ! id: 941 timestamp: 1774666528101927000 count: 1
+STM stdout: W @ 0 -> 941
+STM stdout: ! id: 672 timestamp: 1774666528101968000 count: 1
+STM stdout: W @ 0 -> 672
+STM stdout: ! id: 592 timestamp: 1774666528102009000 count: 1
+STM stdout: W @ 0 -> 592
+STM stdout: ! id: 806 timestamp: 1774666528102045000 count: 1
+STM stdout: W @ 0 -> 806
+STM stdout: ! id: 965 timestamp: 1774666528102094000 count: 1
+STM stdout: W @ 0 -> 965
+STM stdout: ! id: 704 timestamp: 1774666528102134000 count: 1
+STM stdout: W @ 0 -> 704
+STM stdout: ! id: 618 timestamp: 1774666528102169000 count: 1
+STM stdout: W @ 0 -> 618
+STM stdout: ! id: 796 timestamp: 1774666528102206000 count: 1
+STM stdout: W @ 0 -> 796
+STM stdout: ! id: 650 timestamp: 1774666528102245000 count: 1
+STM stdout: W @ 0 -> 650
+STM stdout: ! id: 846 timestamp: 1774666528102274000 count: 1
+STM stdout: W @ 0 -> 846
+STM stdout: ! id: 798 timestamp: 1774666528102320000 count: 1
+STM stdout: W @ 0 -> 798
+STM stdout: ! id: 624 timestamp: 1774666528102357000 count: 1
+STM stdout: W @ 0 -> 624
+STM stdout: ! id: 509 timestamp: 1774666528102399000 count: 1
+STM stdout: W @ 0 -> 509
+STM stdout: ! id: 908 timestamp: 1774666528102441000 count: 1
+STM stdout: W @ 0 -> 908
+STM stdout: ! id: 804 timestamp: 1774666528102482000 count: 1
+STM stdout: W @ 0 -> 804
+STM stdout: ! id: 940 timestamp: 1774666528102519000 count: 1
+STM stdout: W @ 0 -> 940
+STM stdout: ! id: 712 timestamp: 1774666528102554000 count: 1
+STM stdout: W @ 0 -> 712
+STM stdout: ! id: 777 timestamp: 1774666528102593000 count: 1
+STM stdout: W @ 0 -> 777
+STM stdout: ! id: 657 timestamp: 1774666528102632000 count: 1
+STM stdout: W @ 0 -> 657
+STM stdout: ! id: 736 timestamp: 1774666528102669000 count: 1
+STM stdout: W @ 0 -> 736
+STM stdout: ! id: 689 timestamp: 1774666528102710000 count: 1
+STM stdout: W @ 0 -> 689
+STM stdout: ! id: 826 timestamp: 1774666528102751000 count: 1
+STM stdout: W @ 0 -> 826
+STM stdout: ! id: 838 timestamp: 1774666528102786000 count: 1
+STM stdout: W @ 0 -> 838
+STM stdout: ! id: 481 timestamp: 1774666528102821000 count: 1
+STM stdout: W @ 0 -> 481
+STM stdout: ! id: 878 timestamp: 1774666528102863000 count: 1
+STM stdout: W @ 0 -> 878
+STM stdout: ! id: 768 timestamp: 1774666528102899000 count: 1
+STM stdout: W @ 0 -> 768
+STM stdout: ! id: 972 timestamp: 1774666528102935000 count: 1
+STM stdout: W @ 0 -> 972
+STM stdout: ! id: 513 timestamp: 1774666528102973000 count: 1
+STM stdout: W @ 0 -> 513
+STM stdout: ! id: 898 timestamp: 1774666528103010000 count: 1
+STM stdout: W @ 0 -> 898
+STM stdout: ! id: 627 timestamp: 1774666528103050000 count: 1
+STM stdout: W @ 0 -> 627
+STM stdout: ! id: 541 timestamp: 1774666528103086000 count: 1
+STM stdout: W @ 0 -> 541
+STM stdout: ! id: 575 timestamp: 1774666528103128000 count: 1
+STM stdout: W @ 0 -> 575
+STM stdout: ! id: 615 timestamp: 1774666528103163000 count: 1
+STM stdout: W @ 0 -> 615
+STM stdout: ! id: 791 timestamp: 1774666528103199000 count: 1
+STM stdout: W @ 0 -> 791
+STM stdout: ! id: 830 timestamp: 1774666528103234000 count: 1
+STM stdout: W @ 0 -> 830
+STM stdout: ! id: 659 timestamp: 1774666528103268000 count: 1
+STM stdout: W @ 0 -> 659
+STM stdout: ! id: 789 timestamp: 1774666528103302000 count: 1
+STM stdout: W @ 0 -> 789
+STM stdout: ! id: 1004 timestamp: 1774666528103342000 count: 1
+STM stdout: W @ 0 -> 1004
+STM stdout: ! id: 545 timestamp: 1774666528103384000 count: 1
+STM stdout: W @ 0 -> 545
+STM stdout: ! id: 930 timestamp: 1774666528103423000 count: 1
+STM stdout: W @ 0 -> 930
+STM stdout: ! id: 656 timestamp: 1774666528103457000 count: 1
+STM stdout: W @ 0 -> 656
+STM stdout: ! id: 870 timestamp: 1774666528103496000 count: 1
+STM stdout: W @ 0 -> 870
+STM stdout: ! id: 744 timestamp: 1774666528103527000 count: 1
+STM stdout: W @ 0 -> 744
+STM stdout: ! id: 821 timestamp: 1774666528103562000 count: 1
+STM stdout: W @ 0 -> 821
+STM stdout: ! id: 800 timestamp: 1774666528103599000 count: 1
+STM stdout: W @ 0 -> 800
+STM stdout: ! id: 607 timestamp: 1774666528103632000 count: 1
+STM stdout: W @ 0 -> 607
+STM stdout: ! id: 809 timestamp: 1774666528103668000 count: 1
+STM stdout: W @ 0 -> 809
+STM stdout: ! id: 664 timestamp: 1774666528103703000 count: 1
+STM stdout: W @ 0 -> 664
+STM stdout: ! id: 639 timestamp: 1774666528103739000 count: 1
+STM stdout: W @ 0 -> 639
+STM stdout: ! id: 862 timestamp: 1774666528103774000 count: 1
+STM stdout: W @ 0 -> 862
+STM stdout: ! id: 853 timestamp: 1774666528103817000 count: 1
+STM stdout: W @ 0 -> 853
+STM stdout: ! id: 647 timestamp: 1774666528103848000 count: 1
+STM stdout: W @ 0 -> 647
+STM stdout: ! id: 527 timestamp: 1774666528103890000 count: 1
+STM stdout: W @ 0 -> 527
+STM stdout: ! id: 688 timestamp: 1774666528103932000 count: 1
+STM stdout: W @ 0 -> 688
+STM stdout: ! id: 894 timestamp: 1774666528103967000 count: 1
+STM stdout: W @ 0 -> 894
+STM stdout: ! id: 923 timestamp: 1774666528104003000 count: 1
+STM stdout: W @ 0 -> 923
+STM stdout: ! id: 776 timestamp: 1774666528104039000 count: 1
+STM stdout: W @ 0 -> 776
+STM stdout: ! id: 832 timestamp: 1774666528104082000 count: 1
+STM stdout: W @ 0 -> 832
+STM stdout: ! id: 573 timestamp: 1774666528104119000 count: 1
+STM stdout: W @ 0 -> 573
+STM stdout: ! id: 836 timestamp: 1774666528104149000 count: 1
+STM stdout: W @ 0 -> 836
+STM stdout: ! id: 605 timestamp: 1774666528104180000 count: 1
+STM stdout: W @ 0 -> 605
+STM stdout: ! id: 864 timestamp: 1774666528104214000 count: 1
+STM stdout: W @ 0 -> 864
+STM stdout: ! id: 720 timestamp: 1774666528104252000 count: 1
+STM stdout: W @ 0 -> 720
+STM stdout: ! id: 973 timestamp: 1774666528104285000 count: 1
+STM stdout: W @ 0 -> 973
+STM stdout: ! id: 696 timestamp: 1774666528104322000 count: 1
+STM stdout: W @ 0 -> 696
+STM stdout: ! id: 671 timestamp: 1774666528104356000 count: 1
+STM stdout: W @ 0 -> 671
+STM stdout: ! id: 682 timestamp: 1774666528104393000 count: 1
+STM stdout: W @ 0 -> 682
+STM stdout: ! id: 808 timestamp: 1774666528104422000 count: 1
+STM stdout: W @ 0 -> 808
+STM stdout: ! id: 910 timestamp: 1774666528104458000 count: 1
+STM stdout: W @ 0 -> 910
+STM stdout: ! id: 637 timestamp: 1774666528104500000 count: 1
+STM stdout: W @ 0 -> 637
+STM stdout: ! id: 703 timestamp: 1774666528104537000 count: 1
+STM stdout: W @ 0 -> 703
+STM stdout: ! id: 818 timestamp: 1774666528104573000 count: 1
+STM stdout: W @ 0 -> 818
+STM stdout: ! id: 942 timestamp: 1774666528104611000 count: 1
+STM stdout: W @ 0 -> 942
+STM stdout: ! id: 577 timestamp: 1774666528104645000 count: 1
+STM stdout: W @ 0 -> 577
+STM stdout: ! id: 840 timestamp: 1774666528104683000 count: 1
+STM stdout: W @ 0 -> 840
+STM stdout: ! id: 559 timestamp: 1774666528104716000 count: 1
+STM stdout: W @ 0 -> 559
+STM stdout: ! id: 997 timestamp: 1774666528104754000 count: 1
+STM stdout: W @ 0 -> 997
+STM stdout: ! id: 974 timestamp: 1774666528104787000 count: 1
+STM stdout: W @ 0 -> 974
+STM stdout: ! id: 1005 timestamp: 1774666528104819000 count: 1
+STM stdout: W @ 0 -> 1005
+STM stdout: ! id: 669 timestamp: 1774666528104848000 count: 1
+STM stdout: W @ 0 -> 669
+STM stdout: ! id: 955 timestamp: 1774666528104876000 count: 1
+STM stdout: W @ 0 -> 955
+STM stdout: ! id: 679 timestamp: 1774666528104908000 count: 1
+STM stdout: W @ 0 -> 679
+STM stdout: ! id: 701 timestamp: 1774666528104936000 count: 1
+STM stdout: W @ 0 -> 701
+STM stdout: ! id: 609 timestamp: 1774666528104971000 count: 1
+STM stdout: W @ 0 -> 609
+STM stdout: ! id: 811 timestamp: 1774666528104999000 count: 1
+STM stdout: W @ 0 -> 811
+STM stdout: ! id: 728 timestamp: 1774666528105029000 count: 1
+STM stdout: W @ 0 -> 728
+STM stdout: ! id: 841 timestamp: 1774666528105060000 count: 1
+STM stdout: W @ 0 -> 841
+STM stdout: ! id: 711 timestamp: 1774666528105088000 count: 1
+STM stdout: W @ 0 -> 711
+STM stdout: ! id: 873 timestamp: 1774666528105116000 count: 1
+STM stdout: W @ 0 -> 873
+STM stdout: ! id: 858 timestamp: 1774666528105151000 count: 1
+STM stdout: W @ 0 -> 858
+STM stdout: ! id: 739 timestamp: 1774666528105185000 count: 1
+STM stdout: W @ 0 -> 739
+STM stdout: ! id: 721 timestamp: 1774666528105217000 count: 1
+STM stdout: W @ 0 -> 721
+STM stdout: ! id: 691 timestamp: 1774666528105249000 count: 1
+STM stdout: W @ 0 -> 691
+STM stdout: ! id: 905 timestamp: 1774666528105279000 count: 1
+STM stdout: W @ 0 -> 905
+STM stdout: ! id: 743 timestamp: 1774666528105314000 count: 1
+STM stdout: W @ 0 -> 743
+STM stdout: ! id: 843 timestamp: 1774666528105348000 count: 1
+STM stdout: W @ 0 -> 843
+STM stdout: ! id: 987 timestamp: 1774666528105379000 count: 1
+STM stdout: W @ 0 -> 987
+STM stdout: ! id: 591 timestamp: 1774666528105411000 count: 1
+STM stdout: W @ 0 -> 591
+STM stdout: ! id: 1019 timestamp: 1774666528105441000 count: 1
+STM stdout: W @ 0 -> 1019
+STM stdout: ! id: 623 timestamp: 1774666528105475000 count: 1
+STM stdout: W @ 0 -> 623
+STM stdout: ! id: 760 timestamp: 1774666528105510000 count: 1
+STM stdout: W @ 0 -> 760
+STM stdout: ! id: 962 timestamp: 1774666528105540000 count: 1
+STM stdout: W @ 0 -> 962
+STM stdout: ! id: 792 timestamp: 1774666528105571000 count: 1
+STM stdout: W @ 0 -> 792
+STM stdout: ! id: 896 timestamp: 1774666528105801000 count: 1
+STM stdout: W @ 0 -> 896
+STM stdout: ! id: 641 timestamp: 1774666528105835000 count: 1
+STM stdout: W @ 0 -> 641
+STM stdout: ! id: 868 timestamp: 1774666528105866000 count: 1
+STM stdout: W @ 0 -> 868
+STM stdout: ! id: 890 timestamp: 1774666528105890000 count: 1
+STM stdout: W @ 0 -> 890
+STM stdout: ! id: 828 timestamp: 1774666528105922000 count: 1
+STM stdout: W @ 0 -> 828
+STM stdout: ! id: 753 timestamp: 1774666528105958000 count: 1
+STM stdout: W @ 0 -> 753
+STM stdout: ! id: 752 timestamp: 1774666528105987000 count: 1
+STM stdout: W @ 0 -> 752
+STM stdout: ! id: 771 timestamp: 1774666528106019000 count: 1
+STM stdout: W @ 0 -> 771
+STM stdout: ! id: 723 timestamp: 1774666528106047000 count: 1
+STM stdout: W @ 0 -> 723
+STM stdout: ! id: 1006 timestamp: 1774666528106079000 count: 1
+STM stdout: W @ 0 -> 1006
+STM stdout: ! id: 900 timestamp: 1774666528106106000 count: 1
+STM stdout: W @ 0 -> 900
+STM stdout: ! id: 823 timestamp: 1774666528106139000 count: 1
+STM stdout: W @ 0 -> 823
+STM stdout: ! id: 852 timestamp: 1774666528106168000 count: 1
+STM stdout: W @ 0 -> 852
+STM stdout: ! id: 775 timestamp: 1774666528106203000 count: 1
+STM stdout: W @ 0 -> 775
+STM stdout: ! id: 937 timestamp: 1774666528106235000 count: 1
+STM stdout: W @ 0 -> 937
+STM stdout: ! id: 735 timestamp: 1774666528106267000 count: 1
+STM stdout: W @ 0 -> 735
+STM stdout: ! id: 824 timestamp: 1774666528106296000 count: 1
+STM stdout: W @ 0 -> 824
+STM stdout: ! id: 767 timestamp: 1774666528106324000 count: 1
+STM stdout: W @ 0 -> 767
+STM stdout: ! id: 733 timestamp: 1774666528106357000 count: 1
+STM stdout: W @ 0 -> 733
+STM stdout: ! id: 872 timestamp: 1774666528106390000 count: 1
+STM stdout: W @ 0 -> 872
+STM stdout: ! id: 926 timestamp: 1774666528106423000 count: 1
+STM stdout: W @ 0 -> 926
+STM stdout: ! id: 875 timestamp: 1774666528106455000 count: 1
+STM stdout: W @ 0 -> 875
+STM stdout: ! id: 932 timestamp: 1774666528106480000 count: 1
+STM stdout: W @ 0 -> 932
+STM stdout: ! id: 784 timestamp: 1774666528106513000 count: 1
+STM stdout: W @ 0 -> 784
+STM stdout: ! id: 803 timestamp: 1774666528106543000 count: 1
+STM stdout: W @ 0 -> 803
+STM stdout: ! id: 902 timestamp: 1774666528106575000 count: 1
+STM stdout: W @ 0 -> 902
+STM stdout: ! id: 904 timestamp: 1774666528106609000 count: 1
+STM stdout: W @ 0 -> 904
+STM stdout: ! id: 928 timestamp: 1774666528106637000 count: 1
+STM stdout: W @ 0 -> 928
+STM stdout: ! id: 856 timestamp: 1774666528106666000 count: 1
+STM stdout: W @ 0 -> 856
+STM stdout: ! id: 860 timestamp: 1774666528106701000 count: 1
+STM stdout: W @ 0 -> 860
+STM stdout: ! id: 922 timestamp: 1774666528106735000 count: 1
+STM stdout: W @ 0 -> 922
+STM stdout: ! id: 907 timestamp: 1774666528106765000 count: 1
+STM stdout: W @ 0 -> 907
+STM stdout: ! id: 655 timestamp: 1774666528106795000 count: 1
+STM stdout: W @ 0 -> 655
+STM stdout: ! id: 835 timestamp: 1774666528106822000 count: 1
+STM stdout: W @ 0 -> 835
+STM stdout: ! id: 960 timestamp: 1774666528106847000 count: 1
+STM stdout: W @ 0 -> 960
+STM stdout: ! id: 850 timestamp: 1774666528106876000 count: 1
+STM stdout: W @ 0 -> 850
+STM stdout: ! id: 992 timestamp: 1774666528106910000 count: 1
+STM stdout: W @ 0 -> 992
+STM stdout: ! id: 765 timestamp: 1774666528106939000 count: 1
+STM stdout: W @ 0 -> 765
+STM stdout: ! id: 994 timestamp: 1774666528106966000 count: 1
+STM stdout: W @ 0 -> 994
+STM stdout: ! id: 785 timestamp: 1774666528107001000 count: 1
+STM stdout: W @ 0 -> 785
+STM stdout: ! id: 892 timestamp: 1774666528107032000 count: 1
+STM stdout: W @ 0 -> 892
+STM stdout: ! id: 1024 timestamp: 1774666528107064000 count: 1
+STM stdout: W @ 0 -> 1024
+STM stdout: ! id: 673 timestamp: 1774666528107099000 count: 1
+STM stdout: W @ 0 -> 673
+STM stdout: ! id: 958 timestamp: 1774666528107127000 count: 1
+STM stdout: W @ 0 -> 958
+STM stdout: ! id: 799 timestamp: 1774666528107153000 count: 1
+STM stdout: W @ 0 -> 799
+STM stdout: ! id: 885 timestamp: 1774666528107178000 count: 1
+STM stdout: W @ 0 -> 885
+STM stdout: ! id: 964 timestamp: 1774666528107202000 count: 1
+STM stdout: W @ 0 -> 964
+STM stdout: ! id: 934 timestamp: 1774666528107228000 count: 1
+STM stdout: W @ 0 -> 934
+STM stdout: ! id: 816 timestamp: 1774666528107254000 count: 1
+STM stdout: W @ 0 -> 816
+STM stdout: ! id: 939 timestamp: 1774666528107289000 count: 1
+STM stdout: W @ 0 -> 939
+STM stdout: ! id: 917 timestamp: 1774666528107316000 count: 1
+STM stdout: W @ 0 -> 917
+STM stdout: ! id: 884 timestamp: 1774666528107345000 count: 1
+STM stdout: W @ 0 -> 884
+STM stdout: ! id: 888 timestamp: 1774666528107376000 count: 1
+STM stdout: W @ 0 -> 888
+STM stdout: ! id: 817 timestamp: 1774666528107404000 count: 1
+STM stdout: W @ 0 -> 817
+STM stdout: ! id: 687 timestamp: 1774666528107432000 count: 1
+STM stdout: W @ 0 -> 687
+STM stdout: ! id: 849 timestamp: 1774666528107458000 count: 1
+STM stdout: W @ 0 -> 849
+STM stdout: ! id: 971 timestamp: 1774666528107484000 count: 1
+STM stdout: W @ 0 -> 971
+STM stdout: ! id: 916 timestamp: 1774666528107509000 count: 1
+STM stdout: W @ 0 -> 916
+STM stdout: ! id: 855 timestamp: 1774666528107536000 count: 1
+STM stdout: W @ 0 -> 855
+STM stdout: ! id: 969 timestamp: 1774666528107566000 count: 1
+STM stdout: W @ 0 -> 969
+STM stdout: ! id: 954 timestamp: 1774666528107597000 count: 1
+STM stdout: W @ 0 -> 954
+STM stdout: ! id: 848 timestamp: 1774666528107629000 count: 1
+STM stdout: W @ 0 -> 848
+STM stdout: ! id: 1001 timestamp: 1774666528107660000 count: 1
+STM stdout: W @ 0 -> 1001
+STM stdout: ! id: 797 timestamp: 1774666528107683000 count: 1
+STM stdout: W @ 0 -> 797
+STM stdout: ! id: 996 timestamp: 1774666528107720000 count: 1
+STM stdout: W @ 0 -> 996
+STM stdout: ! id: 807 timestamp: 1774666528107749000 count: 1
+STM stdout: W @ 0 -> 807
+STM stdout: ! id: 920 timestamp: 1774666528107776000 count: 1
+STM stdout: W @ 0 -> 920
+STM stdout: ! id: 839 timestamp: 1774666528107807000 count: 1
+STM stdout: W @ 0 -> 839
+STM stdout: ! id: 880 timestamp: 1774666528107831000 count: 1
+STM stdout: W @ 0 -> 880
+STM stdout: ! id: 714 timestamp: 1774666528107861000 count: 1
+STM stdout: W @ 0 -> 714
+STM stdout: ! id: 924 timestamp: 1774666528107889000 count: 1
+STM stdout: W @ 0 -> 924
+STM stdout: ! id: 831 timestamp: 1774666528107914000 count: 1
+STM stdout: W @ 0 -> 831
+STM stdout: ! id: 719 timestamp: 1774666528107939000 count: 1
+STM stdout: W @ 0 -> 719
+STM stdout: ! id: 949 timestamp: 1774666528107970000 count: 1
+STM stdout: W @ 0 -> 949
+STM stdout: ! id: 829 timestamp: 1774666528107992000 count: 1
+STM stdout: W @ 0 -> 829
+STM stdout: ! id: 981 timestamp: 1774666528108023000 count: 1
+STM stdout: W @ 0 -> 981
+STM stdout: ! id: 867 timestamp: 1774666528108050000 count: 1
+STM stdout: W @ 0 -> 867
+STM stdout: ! id: 705 timestamp: 1774666528108078000 count: 1
+STM stdout: W @ 0 -> 705
+STM stdout: ! id: 936 timestamp: 1774666528108109000 count: 1
+STM stdout: W @ 0 -> 936
+STM stdout: ! id: 948 timestamp: 1774666528108139000 count: 1
+STM stdout: W @ 0 -> 948
+STM stdout: ! id: 966 timestamp: 1774666528108162000 count: 1
+STM stdout: W @ 0 -> 966
+STM stdout: ! id: 986 timestamp: 1774666528108190000 count: 1
+STM stdout: W @ 0 -> 986
+STM stdout: ! id: 952 timestamp: 1774666528108218000 count: 1
+STM stdout: W @ 0 -> 952
+STM stdout: ! id: 755 timestamp: 1774666528108246000 count: 1
+STM stdout: W @ 0 -> 755
+STM stdout: ! id: 968 timestamp: 1774666528108272000 count: 1
+STM stdout: W @ 0 -> 968
+STM stdout: ! id: 912 timestamp: 1774666528108301000 count: 1
+STM stdout: W @ 0 -> 912
+STM stdout: ! id: 737 timestamp: 1774666528108326000 count: 1
+STM stdout: W @ 0 -> 737
+STM stdout: ! id: 998 timestamp: 1774666528108360000 count: 1
+STM stdout: W @ 0 -> 998
+STM stdout: ! id: 1000 timestamp: 1774666528108391000 count: 1
+STM stdout: W @ 0 -> 1000
+STM stdout: ! id: 899 timestamp: 1774666528108415000 count: 1
+STM stdout: W @ 0 -> 899
+STM stdout: ! id: 881 timestamp: 1774666528108446000 count: 1
+STM stdout: W @ 0 -> 881
+STM stdout: ! id: 980 timestamp: 1774666528108473000 count: 1
+STM stdout: W @ 0 -> 980
+STM stdout: ! id: 931 timestamp: 1774666528108497000 count: 1
+STM stdout: W @ 0 -> 931
+STM stdout: ! id: 863 timestamp: 1774666528108521000 count: 1
+STM stdout: W @ 0 -> 863
+STM stdout: ! id: 913 timestamp: 1774666528108543000 count: 1
+STM stdout: W @ 0 -> 913
+STM stdout: ! id: 1018 timestamp: 1774666528108570000 count: 1
+STM stdout: W @ 0 -> 1018
+STM stdout: ! id: 944 timestamp: 1774666528108601000 count: 1
+STM stdout: W @ 0 -> 944
+STM stdout: ! id: 984 timestamp: 1774666528108626000 count: 1
+STM stdout: W @ 0 -> 984
+STM stdout: ! id: 751 timestamp: 1774666528108648000 count: 1
+STM stdout: W @ 0 -> 751
+STM stdout: ! id: 1012 timestamp: 1774666528108666000 count: 1
+STM stdout: W @ 0 -> 1012
+STM stdout: ! id: 783 timestamp: 1774666528108692000 count: 1
+STM stdout: W @ 0 -> 783
+STM stdout: ! id: 1016 timestamp: 1774666528108715000 count: 1
+STM stdout: W @ 0 -> 1016
+STM stdout: ! id: 769 timestamp: 1774666528108739000 count: 1
+STM stdout: W @ 0 -> 769
+STM stdout: ! id: 1003 timestamp: 1774666528108763000 count: 1
+STM stdout: W @ 0 -> 1003
+STM stdout: ! id: 976 timestamp: 1774666528108783000 count: 1
+STM stdout: W @ 0 -> 976
+STM stdout: ! id: 956 timestamp: 1774666528108805000 count: 1
+STM stdout: W @ 0 -> 956
+STM stdout: ! id: 945 timestamp: 1774666528108823000 count: 1
+STM stdout: W @ 0 -> 945
+STM stdout: ! id: 882 timestamp: 1774666528108844000 count: 1
+STM stdout: W @ 0 -> 882
+STM stdout: ! id: 963 timestamp: 1774666528108861000 count: 1
+STM stdout: W @ 0 -> 963
+STM stdout: ! id: 887 timestamp: 1774666528108882000 count: 1
+STM stdout: W @ 0 -> 887
+STM stdout: ! id: 746 timestamp: 1774666528108900000 count: 1
+STM stdout: W @ 0 -> 746
+STM stdout: ! id: 1013 timestamp: 1774666528108921000 count: 1
+STM stdout: W @ 0 -> 1013
+STM stdout: ! id: 871 timestamp: 1774666528108943000 count: 1
+STM stdout: W @ 0 -> 871
+STM stdout: ! id: 815 timestamp: 1774666528108964000 count: 1
+STM stdout: W @ 0 -> 815
+STM stdout: ! id: 1008 timestamp: 1774666528108977000 count: 1
+STM stdout: W @ 0 -> 1008
+STM stdout: ! id: 895 timestamp: 1774666528108995000 count: 1
+STM stdout: W @ 0 -> 895
+STM stdout: ! id: 847 timestamp: 1774666528109012000 count: 1
+STM stdout: W @ 0 -> 847
+STM stdout: ! id: 801 timestamp: 1774666528109038000 count: 1
+STM stdout: W @ 0 -> 801
+STM stdout: ! id: 778 timestamp: 1774666528109057000 count: 1
+STM stdout: W @ 0 -> 778
+STM stdout: ! id: 787 timestamp: 1774666528109074000 count: 1
+STM stdout: W @ 0 -> 787
+STM stdout: ! id: 990 timestamp: 1774666528109094000 count: 1
+STM stdout: W @ 0 -> 990
+STM stdout: ! id: 914 timestamp: 1774666528109113000 count: 1
+STM stdout: W @ 0 -> 914
+STM stdout: ! id: 919 timestamp: 1774666528109137000 count: 1
+STM stdout: W @ 0 -> 919
+STM stdout: ! id: 819 timestamp: 1774666528109155000 count: 1
+STM stdout: W @ 0 -> 819
+STM stdout: ! id: 833 timestamp: 1774666528109175000 count: 1
+STM stdout: W @ 0 -> 833
+STM stdout: ! id: 879 timestamp: 1774666528109200000 count: 1
+STM stdout: W @ 0 -> 879
+STM stdout: ! id: 861 timestamp: 1774666528109219000 count: 1
+STM stdout: W @ 0 -> 861
+STM stdout: ! id: 988 timestamp: 1774666528109233000 count: 1
+STM stdout: W @ 0 -> 988
+STM stdout: ! id: 810 timestamp: 1774666528109250000 count: 1
+STM stdout: W @ 0 -> 810
+STM stdout: ! id: 911 timestamp: 1774666528109268000 count: 1
+STM stdout: W @ 0 -> 911
+STM stdout: ! id: 995 timestamp: 1774666528109292000 count: 1
+STM stdout: W @ 0 -> 995
+STM stdout: ! id: 893 timestamp: 1774666528109314000 count: 1
+STM stdout: W @ 0 -> 893
+STM stdout: ! id: 903 timestamp: 1774666528109330000 count: 1
+STM stdout: W @ 0 -> 903
+STM stdout: ! id: 951 timestamp: 1774666528109350000 count: 1
+STM stdout: W @ 0 -> 951
+STM stdout: ! id: 946 timestamp: 1774666528109367000 count: 1
+STM stdout: W @ 0 -> 946
+STM stdout: ! id: 935 timestamp: 1774666528109383000 count: 1
+STM stdout: W @ 0 -> 935
+STM stdout: ! id: 1020 timestamp: 1774666528109400000 count: 1
+STM stdout: W @ 0 -> 1020
+STM stdout: ! id: 842 timestamp: 1774666528109413000 count: 1
+STM stdout: W @ 0 -> 842
+STM stdout: ! id: 977 timestamp: 1774666528109434000 count: 1
+STM stdout: W @ 0 -> 977
+STM stdout: ! id: 927 timestamp: 1774666528109448000 count: 1
+STM stdout: W @ 0 -> 927
+STM stdout: ! id: 1009 timestamp: 1774666528109467000 count: 1
+STM stdout: W @ 0 -> 1009
+STM stdout: ! id: 978 timestamp: 1774666528109479000 count: 1
+STM stdout: W @ 0 -> 978
+STM stdout: ! id: 943 timestamp: 1774666528109494000 count: 1
+STM stdout: W @ 0 -> 943
+STM stdout: ! id: 959 timestamp: 1774666528109508000 count: 1
+STM stdout: W @ 0 -> 959
+STM stdout: ! id: 975 timestamp: 1774666528109529000 count: 1
+STM stdout: W @ 0 -> 975
+STM stdout: ! id: 865 timestamp: 1774666528109541000 count: 1
+STM stdout: W @ 0 -> 865
+STM stdout: ! id: 851 timestamp: 1774666528109557000 count: 1
+STM stdout: W @ 0 -> 851
+STM stdout: ! id: 967 timestamp: 1774666528109576000 count: 1
+STM stdout: W @ 0 -> 967
+STM stdout: ! id: 1007 timestamp: 1774666528109590000 count: 1
+STM stdout: W @ 0 -> 1007
+STM stdout: ! id: 897 timestamp: 1774666528109603000 count: 1
+STM stdout: W @ 0 -> 897
+STM stdout: ! id: 1022 timestamp: 1774666528109619000 count: 1
+STM stdout: W @ 0 -> 1022
+STM stdout: ! id: 991 timestamp: 1774666528109631000 count: 1
+STM stdout: W @ 0 -> 991
+STM stdout: ! id: 999 timestamp: 1774666528109642000 count: 1
+STM stdout: W @ 0 -> 999
+STM stdout: ! id: 1023 timestamp: 1774666528109652000 count: 1
+STM stdout: W @ 0 -> 1023
+STM stdout: ! id: 874 timestamp: 1774666528109663000 count: 1
+STM stdout: W @ 0 -> 874
+STM stdout: ! id: 983 timestamp: 1774666528109674000 count: 1
+STM stdout: W @ 0 -> 983
+STM stdout: ! id: 929 timestamp: 1774666528109688000 count: 1
+STM stdout: W @ 0 -> 929
+STM stdout: ! id: 925 timestamp: 1774666528109704000 count: 1
+STM stdout: W @ 0 -> 925
+STM stdout: ! id: 906 timestamp: 1774666528109714000 count: 1
+STM stdout: W @ 0 -> 906
+STM stdout: ! id: 883 timestamp: 1774666528109725000 count: 1
+STM stdout: W @ 0 -> 883
+STM stdout: ! id: 1015 timestamp: 1774666528109734000 count: 1
+STM stdout: W @ 0 -> 1015
+STM stdout: ! id: 938 timestamp: 1774666528109744000 count: 1
+STM stdout: W @ 0 -> 938
+STM stdout: ! id: 915 timestamp: 1774666528109753000 count: 1
+STM stdout: W @ 0 -> 915
+STM stdout: ! id: 961 timestamp: 1774666528109765000 count: 1
+STM stdout: W @ 0 -> 961
+STM stdout: ! id: 957 timestamp: 1774666528109774000 count: 1
+STM stdout: W @ 0 -> 957
+STM stdout: ! id: 993 timestamp: 1774666528109784000 count: 1
+STM stdout: W @ 0 -> 993
+STM stdout: ! id: 989 timestamp: 1774666528109792000 count: 1
+STM stdout: W @ 0 -> 989
+STM stdout: ! id: 970 timestamp: 1774666528109801000 count: 1
+STM stdout: W @ 0 -> 970
+STM stdout: ! id: 1021 timestamp: 1774666528109807000 count: 1
+STM stdout: W @ 0 -> 1021
+STM stdout: ! id: 1002 timestamp: 1774666528109815000 count: 1
+STM stdout: W @ 0 -> 1002
+STM stdout: ! id: 947 timestamp: 1774666528109820000 count: 1
+STM stdout: W @ 0 -> 947
+STM stdout: ! id: 1010 timestamp: 1774666528109825000 count: 1
+STM stdout: W @ 0 -> 1010
+STM stdout: ! id: 979 timestamp: 1774666528109828000 count: 1
+STM stdout: W @ 0 -> 979
+STM stdout: ! id: 1011 timestamp: 1774666528109834000 count: 1
+STM stdout: W @ 0 -> 1011
+Checking: ! id: 19 timestamp: 1774666528057508000 count: 1
+Checking: W @ 0 -> 19
+Checking: ! id: 24 timestamp: 1774666528057547000 count: 1
+Checking: W @ 0 -> 24
+Checking: ! id: 15 timestamp: 1774666528057581000 count: 1
+Checking: W @ 0 -> 15
+Checking: ! id: 13 timestamp: 1774666528057596000 count: 1
+Checking: W @ 0 -> 13
+Checking: ! id: 12 timestamp: 1774666528057631000 count: 1
+Checking: W @ 0 -> 12
+Checking: ! id: 1 timestamp: 1774666528057682000 count: 1
+Checking: W @ 0 -> 1
+Checking: ! id: 27 timestamp: 1774666528057703000 count: 1
+Checking: W @ 0 -> 27
+Checking: ! id: 29 timestamp: 1774666528057719000 count: 1
+Checking: W @ 0 -> 29
+Checking: ! id: 25 timestamp: 1774666528057772000 count: 1
+Checking: W @ 0 -> 25
+Checking: ! id: 18 timestamp: 1774666528057796000 count: 1
+Checking: W @ 0 -> 18
+Checking: ! id: 6 timestamp: 1774666528057832000 count: 1
+Checking: W @ 0 -> 6
+Checking: ! id: 20 timestamp: 1774666528057898000 count: 1
+Checking: W @ 0 -> 20
+Checking: ! id: 11 timestamp: 1774666528057942000 count: 1
+Checking: W @ 0 -> 11
+Checking: ! id: 9 timestamp: 1774666528057976000 count: 1
+Checking: W @ 0 -> 9
+Checking: ! id: 22 timestamp: 1774666528058024000 count: 1
+Checking: W @ 0 -> 22
+Checking: ! id: 8 timestamp: 1774666528058062000 count: 1
+Checking: W @ 0 -> 8
+Checking: ! id: 5 timestamp: 1774666528058116000 count: 1
+Checking: W @ 0 -> 5
+Checking: ! id: 28 timestamp: 1774666528058148000 count: 1
+Checking: W @ 0 -> 28
+Checking: ! id: 30 timestamp: 1774666528058188000 count: 1
+Checking: W @ 0 -> 30
+Checking: ! id: 16 timestamp: 1774666528058238000 count: 1
+Checking: W @ 0 -> 16
+Checking: ! id: 14 timestamp: 1774666528058268000 count: 1
+Checking: W @ 0 -> 14
+Checking: ! id: 17 timestamp: 1774666528058306000 count: 1
+Checking: W @ 0 -> 17
+Checking: ! id: 23 timestamp: 1774666528058335000 count: 1
+Checking: W @ 0 -> 23
+Checking: ! id: 7 timestamp: 1774666528058376000 count: 1
+Checking: W @ 0 -> 7
+Checking: ! id: 3 timestamp: 1774666528058420000 count: 1
+Checking: W @ 0 -> 3
+Checking: ! id: 38 timestamp: 1774666528058510000 count: 1
+Checking: W @ 0 -> 38
+Checking: ! id: 62 timestamp: 1774666528058574000 count: 1
+Checking: W @ 0 -> 62
+Checking: ! id: 57 timestamp: 1774666528058631000 count: 1
+Checking: W @ 0 -> 57
+Checking: ! id: 50 timestamp: 1774666528058740000 count: 1
+Checking: W @ 0 -> 50
+Checking: ! id: 21 timestamp: 1774666528058810000 count: 1
+Checking: W @ 0 -> 21
+Checking: ! id: 82 timestamp: 1774666528058924000 count: 1
+Checking: W @ 0 -> 82
+Checking: ! id: 49 timestamp: 1774666528059026000 count: 1
+Checking: W @ 0 -> 49
+Checking: ! id: 60 timestamp: 1774666528059139000 count: 1
+Checking: W @ 0 -> 60
+Checking: ! id: 56 timestamp: 1774666528059221000 count: 1
+Checking: W @ 0 -> 56
+Checking: ! id: 35 timestamp: 1774666528059352000 count: 1
+Checking: W @ 0 -> 35
+Checking: ! id: 55 timestamp: 1774666528059449000 count: 1
+Checking: W @ 0 -> 55
+Checking: ! id: 81 timestamp: 1774666528059562000 count: 1
+Checking: W @ 0 -> 81
+Checking: ! id: 41 timestamp: 1774666528059636000 count: 1
+Checking: W @ 0 -> 41
+Checking: ! id: 26 timestamp: 1774666528059727000 count: 1
+Checking: W @ 0 -> 26
+Checking: ! id: 53 timestamp: 1774666528059802000 count: 1
+Checking: W @ 0 -> 53
+Checking: ! id: 58 timestamp: 1774666528059870000 count: 1
+Checking: W @ 0 -> 58
+Checking: ! id: 70 timestamp: 1774666528059977000 count: 1
+Checking: W @ 0 -> 70
+Checking: ! id: 87 timestamp: 1774666528060052000 count: 1
+Checking: W @ 0 -> 87
+Checking: ! id: 114 timestamp: 1774666528060133000 count: 1
+Checking: W @ 0 -> 114
+Checking: ! id: 67 timestamp: 1774666528060217000 count: 1
+Checking: W @ 0 -> 67
+Checking: ! id: 47 timestamp: 1774666528060327000 count: 1
+Checking: W @ 0 -> 47
+Checking: ! id: 94 timestamp: 1774666528060405000 count: 1
+Checking: W @ 0 -> 94
+Checking: ! id: 31 timestamp: 1774666528060500000 count: 1
+Checking: W @ 0 -> 31
+Checking: ! id: 54 timestamp: 1774666528060579000 count: 1
+Checking: W @ 0 -> 54
+Checking: ! id: 46 timestamp: 1774666528060689000 count: 1
+Checking: W @ 0 -> 46
+Checking: ! id: 63 timestamp: 1774666528060769000 count: 1
+Checking: W @ 0 -> 63
+Checking: ! id: 40 timestamp: 1774666528060854000 count: 1
+Checking: W @ 0 -> 40
+Checking: ! id: 2 timestamp: 1774666528060944000 count: 1
+Checking: W @ 0 -> 2
+Checking: ! id: 92 timestamp: 1774666528061029000 count: 1
+Checking: W @ 0 -> 92
+Checking: ! id: 45 timestamp: 1774666528061131000 count: 1
+Checking: W @ 0 -> 45
+Checking: ! id: 89 timestamp: 1774666528061232000 count: 1
+Checking: W @ 0 -> 89
+Checking: ! id: 77 timestamp: 1774666528061311000 count: 1
+Checking: W @ 0 -> 77
+Checking: ! id: 34 timestamp: 1774666528061422000 count: 1
+Checking: W @ 0 -> 34
+Checking: ! id: 43 timestamp: 1774666528061532000 count: 1
+Checking: W @ 0 -> 43
+Checking: ! id: 79 timestamp: 1774666528061608000 count: 1
+Checking: W @ 0 -> 79
+Checking: ! id: 86 timestamp: 1774666528061713000 count: 1
+Checking: W @ 0 -> 86
+Checking: ! id: 37 timestamp: 1774666528061785000 count: 1
+Checking: W @ 0 -> 37
+Checking: ! id: 102 timestamp: 1774666528061854000 count: 1
+Checking: W @ 0 -> 102
+Checking: ! id: 118 timestamp: 1774666528061930000 count: 1
+Checking: W @ 0 -> 118
+Checking: ! id: 73 timestamp: 1774666528062037000 count: 1
+Checking: W @ 0 -> 73
+Checking: ! id: 39 timestamp: 1774666528062118000 count: 1
+Checking: W @ 0 -> 39
+Checking: ! id: 126 timestamp: 1774666528062198000 count: 1
+Checking: W @ 0 -> 126
+Checking: ! id: 61 timestamp: 1774666528062272000 count: 1
+Checking: W @ 0 -> 61
+Checking: ! id: 90 timestamp: 1774666528062356000 count: 1
+Checking: W @ 0 -> 90
+Checking: ! id: 88 timestamp: 1774666528062425000 count: 1
+Checking: W @ 0 -> 88
+Checking: ! id: 52 timestamp: 1774666528062495000 count: 1
+Checking: W @ 0 -> 52
+Checking: ! id: 105 timestamp: 1774666528062569000 count: 1
+Checking: W @ 0 -> 105
+Checking: ! id: 71 timestamp: 1774666528062645000 count: 1
+Checking: W @ 0 -> 71
+Checking: ! id: 75 timestamp: 1774666528062722000 count: 1
+Checking: W @ 0 -> 75
+Checking: ! id: 134 timestamp: 1774666528062804000 count: 1
+Checking: W @ 0 -> 134
+Checking: ! id: 78 timestamp: 1774666528062878000 count: 1
+Checking: W @ 0 -> 78
+Checking: ! id: 48 timestamp: 1774666528062966000 count: 1
+Checking: W @ 0 -> 48
+Checking: ! id: 121 timestamp: 1774666528063034000 count: 1
+Checking: W @ 0 -> 121
+Checking: ! id: 95 timestamp: 1774666528063105000 count: 1
+Checking: W @ 0 -> 95
+Checking: ! id: 69 timestamp: 1774666528063184000 count: 1
+Checking: W @ 0 -> 69
+Checking: ! id: 166 timestamp: 1774666528063266000 count: 1
+Checking: W @ 0 -> 166
+Checking: ! id: 84 timestamp: 1774666528063367000 count: 1
+Checking: W @ 0 -> 84
+Checking: ! id: 150 timestamp: 1774666528063439000 count: 1
+Checking: W @ 0 -> 150
+Checking: ! id: 72 timestamp: 1774666528063506000 count: 1
+Checking: W @ 0 -> 72
+Checking: ! id: 182 timestamp: 1774666528063579000 count: 1
+Checking: W @ 0 -> 182
+Checking: ! id: 122 timestamp: 1774666528063657000 count: 1
+Checking: W @ 0 -> 122
+Checking: ! id: 4 timestamp: 1774666528063741000 count: 1
+Checking: W @ 0 -> 4
+Checking: ! id: 32 timestamp: 1774666528063828000 count: 1
+Checking: W @ 0 -> 32
+Checking: ! id: 66 timestamp: 1774666528063895000 count: 1
+Checking: W @ 0 -> 66
+Checking: ! id: 101 timestamp: 1774666528063969000 count: 1
+Checking: W @ 0 -> 101
+Checking: ! id: 111 timestamp: 1774666528064059000 count: 1
+Checking: W @ 0 -> 111
+Checking: ! id: 116 timestamp: 1774666528064156000 count: 1
+Checking: W @ 0 -> 116
+Checking: ! id: 154 timestamp: 1774666528064234000 count: 1
+Checking: W @ 0 -> 154
+Checking: ! id: 158 timestamp: 1774666528064314000 count: 1
+Checking: W @ 0 -> 158
+Checking: ! id: 148 timestamp: 1774666528064403000 count: 1
+Checking: W @ 0 -> 148
+Checking: ! id: 107 timestamp: 1774666528064488000 count: 1
+Checking: W @ 0 -> 107
+Checking: ! id: 214 timestamp: 1774666528064582000 count: 1
+Checking: W @ 0 -> 214
+Checking: ! id: 51 timestamp: 1774666528064664000 count: 1
+Checking: W @ 0 -> 51
+Checking: ! id: 119 timestamp: 1774666528064758000 count: 1
+Checking: W @ 0 -> 119
+Checking: ! id: 153 timestamp: 1774666528064841000 count: 1
+Checking: W @ 0 -> 153
+Checking: ! id: 198 timestamp: 1774666528064924000 count: 1
+Checking: W @ 0 -> 198
+Checking: ! id: 137 timestamp: 1774666528065003000 count: 1
+Checking: W @ 0 -> 137
+Checking: ! id: 230 timestamp: 1774666528065105000 count: 1
+Checking: W @ 0 -> 230
+Checking: ! id: 133 timestamp: 1774666528065180000 count: 1
+Checking: W @ 0 -> 133
+Checking: ! id: 262 timestamp: 1774666528065250000 count: 1
+Checking: W @ 0 -> 262
+Checking: ! id: 33 timestamp: 1774666528065320000 count: 1
+Checking: W @ 0 -> 33
+Checking: ! id: 103 timestamp: 1774666528065393000 count: 1
+Checking: W @ 0 -> 103
+Checking: ! id: 109 timestamp: 1774666528065467000 count: 1
+Checking: W @ 0 -> 109
+Checking: ! id: 124 timestamp: 1774666528065547000 count: 1
+Checking: W @ 0 -> 124
+Checking: ! id: 139 timestamp: 1774666528065615000 count: 1
+Checking: W @ 0 -> 139
+Checking: ! id: 98 timestamp: 1774666528065690000 count: 1
+Checking: W @ 0 -> 98
+Checking: ! id: 65 timestamp: 1774666528065762000 count: 1
+Checking: W @ 0 -> 65
+Checking: ! id: 151 timestamp: 1774666528065832000 count: 1
+Checking: W @ 0 -> 151
+Checking: ! id: 185 timestamp: 1774666528065893000 count: 1
+Checking: W @ 0 -> 185
+Checking: ! id: 99 timestamp: 1774666528065965000 count: 1
+Checking: W @ 0 -> 99
+Checking: ! id: 156 timestamp: 1774666528066036000 count: 1
+Checking: W @ 0 -> 156
+Checking: ! id: 36 timestamp: 1774666528066106000 count: 1
+Checking: W @ 0 -> 36
+Checking: ! id: 127 timestamp: 1774666528066170000 count: 1
+Checking: W @ 0 -> 127
+Checking: ! id: 68 timestamp: 1774666528066240000 count: 1
+Checking: W @ 0 -> 68
+Checking: ! id: 217 timestamp: 1774666528066319000 count: 1
+Checking: W @ 0 -> 217
+Checking: ! id: 190 timestamp: 1774666528066390000 count: 1
+Checking: W @ 0 -> 190
+Checking: ! id: 44 timestamp: 1774666528066455000 count: 1
+Checking: W @ 0 -> 44
+Checking: ! id: 183 timestamp: 1774666528066524000 count: 1
+Checking: W @ 0 -> 183
+Checking: ! id: 100 timestamp: 1774666528066619000 count: 1
+Checking: W @ 0 -> 100
+Checking: ! id: 249 timestamp: 1774666528066694000 count: 1
+Checking: W @ 0 -> 249
+Checking: ! id: 97 timestamp: 1774666528066754000 count: 1
+Checking: W @ 0 -> 97
+Checking: ! id: 165 timestamp: 1774666528066869000 count: 1
+Checking: W @ 0 -> 165
+Checking: ! id: 281 timestamp: 1774666528066957000 count: 1
+Checking: W @ 0 -> 281
+Checking: ! id: 76 timestamp: 1774666528067027000 count: 1
+Checking: W @ 0 -> 76
+Checking: ! id: 85 timestamp: 1774666528067112000 count: 1
+Checking: W @ 0 -> 85
+Checking: ! id: 120 timestamp: 1774666528067175000 count: 1
+Checking: W @ 0 -> 120
+Checking: ! id: 186 timestamp: 1774666528067248000 count: 1
+Checking: W @ 0 -> 186
+Checking: ! id: 197 timestamp: 1774666528067329000 count: 1
+Checking: W @ 0 -> 197
+Checking: ! id: 152 timestamp: 1774666528067395000 count: 1
+Checking: W @ 0 -> 152
+Checking: ! id: 130 timestamp: 1774666528067462000 count: 1
+Checking: W @ 0 -> 130
+Checking: ! id: 180 timestamp: 1774666528067534000 count: 1
+Checking: W @ 0 -> 180
+Checking: ! id: 171 timestamp: 1774666528067607000 count: 1
+Checking: W @ 0 -> 171
+Checking: ! id: 294 timestamp: 1774666528067696000 count: 1
+Checking: W @ 0 -> 294
+Checking: ! id: 93 timestamp: 1774666528067767000 count: 1
+Checking: W @ 0 -> 93
+Checking: ! id: 132 timestamp: 1774666528067843000 count: 1
+Checking: W @ 0 -> 132
+Checking: ! id: 146 timestamp: 1774666528067912000 count: 1
+Checking: W @ 0 -> 146
+Checking: ! id: 59 timestamp: 1774666528067986000 count: 1
+Checking: W @ 0 -> 59
+Checking: ! id: 164 timestamp: 1774666528068060000 count: 1
+Checking: W @ 0 -> 164
+Checking: ! id: 83 timestamp: 1774666528068132000 count: 1
+Checking: W @ 0 -> 83
+Checking: ! id: 326 timestamp: 1774666528068221000 count: 1
+Checking: W @ 0 -> 326
+Checking: ! id: 110 timestamp: 1774666528068320000 count: 1
+Checking: W @ 0 -> 110
+Checking: ! id: 159 timestamp: 1774666528068389000 count: 1
+Checking: W @ 0 -> 159
+Checking: ! id: 222 timestamp: 1774666528068455000 count: 1
+Checking: W @ 0 -> 222
+Checking: ! id: 212 timestamp: 1774666528068557000 count: 1
+Checking: W @ 0 -> 212
+Checking: ! id: 91 timestamp: 1774666528068636000 count: 1
+Checking: W @ 0 -> 91
+Checking: ! id: 141 timestamp: 1774666528068700000 count: 1
+Checking: W @ 0 -> 141
+Checking: ! id: 104 timestamp: 1774666528068773000 count: 1
+Checking: W @ 0 -> 104
+Checking: ! id: 246 timestamp: 1774666528068860000 count: 1
+Checking: W @ 0 -> 246
+Checking: ! id: 108 timestamp: 1774666528068936000 count: 1
+Checking: W @ 0 -> 108
+Checking: ! id: 173 timestamp: 1774666528068998000 count: 1
+Checking: W @ 0 -> 173
+Checking: ! id: 203 timestamp: 1774666528069065000 count: 1
+Checking: W @ 0 -> 203
+Checking: ! id: 313 timestamp: 1774666528069138000 count: 1
+Checking: W @ 0 -> 313
+Checking: ! id: 235 timestamp: 1774666528069205000 count: 1
+Checking: W @ 0 -> 235
+Checking: ! id: 117 timestamp: 1774666528069274000 count: 1
+Checking: W @ 0 -> 117
+Checking: ! id: 131 timestamp: 1774666528069331000 count: 1
+Checking: W @ 0 -> 131
+Checking: ! id: 215 timestamp: 1774666528069405000 count: 1
+Checking: W @ 0 -> 215
+Checking: ! id: 229 timestamp: 1774666528069474000 count: 1
+Checking: W @ 0 -> 229
+Checking: ! id: 125 timestamp: 1774666528069536000 count: 1
+Checking: W @ 0 -> 125
+Checking: ! id: 80 timestamp: 1774666528069610000 count: 1
+Checking: W @ 0 -> 80
+Checking: ! id: 196 timestamp: 1774666528069729000 count: 1
+Checking: W @ 0 -> 196
+Checking: ! id: 169 timestamp: 1774666528069832000 count: 1
+Checking: W @ 0 -> 169
+Checking: ! id: 358 timestamp: 1774666528069911000 count: 1
+Checking: W @ 0 -> 358
+Checking: ! id: 244 timestamp: 1774666528069972000 count: 1
+Checking: W @ 0 -> 244
+Checking: ! id: 143 timestamp: 1774666528070042000 count: 1
+Checking: W @ 0 -> 143
+Checking: ! id: 218 timestamp: 1774666528070111000 count: 1
+Checking: W @ 0 -> 218
+Checking: ! id: 205 timestamp: 1774666528070175000 count: 1
+Checking: W @ 0 -> 205
+Checking: ! id: 136 timestamp: 1774666528070247000 count: 1
+Checking: W @ 0 -> 136
+Checking: ! id: 247 timestamp: 1774666528070314000 count: 1
+Checking: W @ 0 -> 247
+Checking: ! id: 261 timestamp: 1774666528070376000 count: 1
+Checking: W @ 0 -> 261
+Checking: ! id: 267 timestamp: 1774666528070449000 count: 1
+Checking: W @ 0 -> 267
+Checking: ! id: 250 timestamp: 1774666528070552000 count: 1
+Checking: W @ 0 -> 250
+Checking: ! id: 123 timestamp: 1774666528070653000 count: 1
+Checking: W @ 0 -> 123
+Checking: ! id: 157 timestamp: 1774666528070745000 count: 1
+Checking: W @ 0 -> 157
+Checking: ! id: 163 timestamp: 1774666528070850000 count: 1
+Checking: W @ 0 -> 163
+Checking: ! id: 162 timestamp: 1774666528070934000 count: 1
+Checking: W @ 0 -> 162
+Checking: ! id: 237 timestamp: 1774666528071017000 count: 1
+Checking: W @ 0 -> 237
+Checking: ! id: 201 timestamp: 1774666528071095000 count: 1
+Checking: W @ 0 -> 201
+Checking: ! id: 155 timestamp: 1774666528071182000 count: 1
+Checking: W @ 0 -> 155
+Checking: ! id: 188 timestamp: 1774666528071276000 count: 1
+Checking: W @ 0 -> 188
+Checking: ! id: 113 timestamp: 1774666528071364000 count: 1
+Checking: W @ 0 -> 113
+Checking: ! id: 220 timestamp: 1774666528071439000 count: 1
+Checking: W @ 0 -> 220
+Checking: ! id: 282 timestamp: 1774666528071527000 count: 1
+Checking: W @ 0 -> 282
+Checking: ! id: 178 timestamp: 1774666528071602000 count: 1
+Checking: W @ 0 -> 178
+Checking: ! id: 140 timestamp: 1774666528071677000 count: 1
+Checking: W @ 0 -> 140
+Checking: ! id: 191 timestamp: 1774666528071754000 count: 1
+Checking: W @ 0 -> 191
+Checking: ! id: 172 timestamp: 1774666528071837000 count: 1
+Checking: W @ 0 -> 172
+Checking: ! id: 390 timestamp: 1774666528071918000 count: 1
+Checking: W @ 0 -> 390
+Checking: ! id: 228 timestamp: 1774666528072000000 count: 1
+Checking: W @ 0 -> 228
+Checking: ! id: 64 timestamp: 1774666528072081000 count: 1
+Checking: W @ 0 -> 64
+Checking: ! id: 168 timestamp: 1774666528072161000 count: 1
+Checking: W @ 0 -> 168
+Checking: ! id: 96 timestamp: 1774666528072243000 count: 1
+Checking: W @ 0 -> 96
+Checking: ! id: 269 timestamp: 1774666528072325000 count: 1
+Checking: W @ 0 -> 269
+Checking: ! id: 10 timestamp: 1774666528072397000 count: 1
+Checking: W @ 0 -> 10
+Checking: ! id: 314 timestamp: 1774666528072483000 count: 1
+Checking: W @ 0 -> 314
+Checking: ! id: 299 timestamp: 1774666528072564000 count: 1
+Checking: W @ 0 -> 299
+Checking: ! id: 345 timestamp: 1774666528072647000 count: 1
+Checking: W @ 0 -> 345
+Checking: ! id: 293 timestamp: 1774666528072733000 count: 1
+Checking: W @ 0 -> 293
+Checking: ! id: 279 timestamp: 1774666528072806000 count: 1
+Checking: W @ 0 -> 279
+Checking: ! id: 187 timestamp: 1774666528072876000 count: 1
+Checking: W @ 0 -> 187
+Checking: ! id: 194 timestamp: 1774666528072956000 count: 1
+Checking: W @ 0 -> 194
+Checking: ! id: 219 timestamp: 1774666528073031000 count: 1
+Checking: W @ 0 -> 219
+Checking: ! id: 331 timestamp: 1774666528073095000 count: 1
+Checking: W @ 0 -> 331
+Checking: ! id: 226 timestamp: 1774666528073183000 count: 1
+Checking: W @ 0 -> 226
+Checking: ! id: 278 timestamp: 1774666528073275000 count: 1
+Checking: W @ 0 -> 278
+Checking: ! id: 128 timestamp: 1774666528073359000 count: 1
+Checking: W @ 0 -> 128
+Checking: ! id: 204 timestamp: 1774666528073442000 count: 1
+Checking: W @ 0 -> 204
+Checking: ! id: 301 timestamp: 1774666528073525000 count: 1
+Checking: W @ 0 -> 301
+Checking: ! id: 142 timestamp: 1774666528073595000 count: 1
+Checking: W @ 0 -> 142
+Checking: ! id: 252 timestamp: 1774666528073669000 count: 1
+Checking: W @ 0 -> 252
+Checking: ! id: 145 timestamp: 1774666528073745000 count: 1
+Checking: W @ 0 -> 145
+Checking: ! id: 377 timestamp: 1774666528073824000 count: 1
+Checking: W @ 0 -> 377
+Checking: ! id: 258 timestamp: 1774666528073905000 count: 1
+Checking: W @ 0 -> 258
+Checking: ! id: 409 timestamp: 1774666528073995000 count: 1
+Checking: W @ 0 -> 409
+Checking: ! id: 160 timestamp: 1774666528074075000 count: 1
+Checking: W @ 0 -> 160
+Checking: ! id: 236 timestamp: 1774666528074151000 count: 1
+Checking: W @ 0 -> 236
+Checking: ! id: 251 timestamp: 1774666528074229000 count: 1
+Checking: W @ 0 -> 251
+Checking: ! id: 310 timestamp: 1774666528074305000 count: 1
+Checking: W @ 0 -> 310
+Checking: ! id: 233 timestamp: 1774666528074376000 count: 1
+Checking: W @ 0 -> 233
+Checking: ! id: 112 timestamp: 1774666528074457000 count: 1
+Checking: W @ 0 -> 112
+Checking: ! id: 42 timestamp: 1774666528074520000 count: 1
+Checking: W @ 0 -> 42
+Checking: ! id: 311 timestamp: 1774666528074592000 count: 1
+Checking: W @ 0 -> 311
+Checking: ! id: 189 timestamp: 1774666528074666000 count: 1
+Checking: W @ 0 -> 189
+Checking: ! id: 200 timestamp: 1774666528074723000 count: 1
+Checking: W @ 0 -> 200
+Checking: ! id: 333 timestamp: 1774666528074790000 count: 1
+Checking: W @ 0 -> 333
+Checking: ! id: 325 timestamp: 1774666528074869000 count: 1
+Checking: W @ 0 -> 325
+Checking: ! id: 290 timestamp: 1774666528074942000 count: 1
+Checking: W @ 0 -> 290
+Checking: ! id: 441 timestamp: 1774666528075018000 count: 1
+Checking: W @ 0 -> 441
+Checking: ! id: 343 timestamp: 1774666528075078000 count: 1
+Checking: W @ 0 -> 343
+Checking: ! id: 223 timestamp: 1774666528075141000 count: 1
+Checking: W @ 0 -> 223
+Checking: ! id: 195 timestamp: 1774666528075210000 count: 1
+Checking: W @ 0 -> 195
+Checking: ! id: 283 timestamp: 1774666528075674000 count: 1
+Checking: W @ 0 -> 283
+Checking: ! id: 255 timestamp: 1774666528075904000 count: 1
+Checking: W @ 0 -> 255
+Checking: ! id: 227 timestamp: 1774666528075972000 count: 1
+Checking: W @ 0 -> 227
+Checking: ! id: 144 timestamp: 1774666528076047000 count: 1
+Checking: W @ 0 -> 144
+Checking: ! id: 175 timestamp: 1774666528076108000 count: 1
+Checking: W @ 0 -> 175
+Checking: ! id: 473 timestamp: 1774666528076185000 count: 1
+Checking: W @ 0 -> 473
+Checking: ! id: 346 timestamp: 1774666528076251000 count: 1
+Checking: W @ 0 -> 346
+Checking: ! id: 357 timestamp: 1774666528076314000 count: 1
+Checking: W @ 0 -> 357
+Checking: ! id: 315 timestamp: 1774666528076380000 count: 1
+Checking: W @ 0 -> 315
+Checking: ! id: 177 timestamp: 1774666528076451000 count: 1
+Checking: W @ 0 -> 177
+Checking: ! id: 347 timestamp: 1774666528076524000 count: 1
+Checking: W @ 0 -> 347
+Checking: ! id: 505 timestamp: 1774666528076588000 count: 1
+Checking: W @ 0 -> 505
+Checking: ! id: 210 timestamp: 1774666528076658000 count: 1
+Checking: W @ 0 -> 210
+Checking: ! id: 260 timestamp: 1774666528076738000 count: 1
+Checking: W @ 0 -> 260
+Checking: ! id: 209 timestamp: 1774666528076816000 count: 1
+Checking: W @ 0 -> 209
+Checking: ! id: 135 timestamp: 1774666528076888000 count: 1
+Checking: W @ 0 -> 135
+Checking: ! id: 149 timestamp: 1774666528076941000 count: 1
+Checking: W @ 0 -> 149
+Checking: ! id: 242 timestamp: 1774666528077009000 count: 1
+Checking: W @ 0 -> 242
+Checking: ! id: 167 timestamp: 1774666528077072000 count: 1
+Checking: W @ 0 -> 167
+Checking: ! id: 363 timestamp: 1774666528077127000 count: 1
+Checking: W @ 0 -> 363
+Checking: ! id: 232 timestamp: 1774666528077206000 count: 1
+Checking: W @ 0 -> 232
+Checking: ! id: 199 timestamp: 1774666528077278000 count: 1
+Checking: W @ 0 -> 199
+Checking: ! id: 181 timestamp: 1774666528077347000 count: 1
+Checking: W @ 0 -> 181
+Checking: ! id: 284 timestamp: 1774666528077415000 count: 1
+Checking: W @ 0 -> 284
+Checking: ! id: 259 timestamp: 1774666528077486000 count: 1
+Checking: W @ 0 -> 259
+Checking: ! id: 342 timestamp: 1774666528077547000 count: 1
+Checking: W @ 0 -> 342
+Checking: ! id: 221 timestamp: 1774666528077607000 count: 1
+Checking: W @ 0 -> 221
+Checking: ! id: 174 timestamp: 1774666528077672000 count: 1
+Checking: W @ 0 -> 174
+Checking: ! id: 379 timestamp: 1774666528077739000 count: 1
+Checking: W @ 0 -> 379
+Checking: ! id: 264 timestamp: 1774666528077798000 count: 1
+Checking: W @ 0 -> 264
+Checking: ! id: 115 timestamp: 1774666528077863000 count: 1
+Checking: W @ 0 -> 115
+Checking: ! id: 411 timestamp: 1774666528077922000 count: 1
+Checking: W @ 0 -> 411
+Checking: ! id: 291 timestamp: 1774666528077981000 count: 1
+Checking: W @ 0 -> 291
+Checking: ! id: 213 timestamp: 1774666528078041000 count: 1
+Checking: W @ 0 -> 213
+Checking: ! id: 395 timestamp: 1774666528078107000 count: 1
+Checking: W @ 0 -> 395
+Checking: ! id: 268 timestamp: 1774666528078176000 count: 1
+Checking: W @ 0 -> 268
+Checking: ! id: 422 timestamp: 1774666528078232000 count: 1
+Checking: W @ 0 -> 422
+Checking: ! id: 276 timestamp: 1774666528078298000 count: 1
+Checking: W @ 0 -> 276
+Checking: ! id: 265 timestamp: 1774666528078354000 count: 1
+Checking: W @ 0 -> 265
+Checking: ! id: 374 timestamp: 1774666528078418000 count: 1
+Checking: W @ 0 -> 374
+Checking: ! id: 254 timestamp: 1774666528078487000 count: 1
+Checking: W @ 0 -> 254
+Checking: ! id: 292 timestamp: 1774666528078555000 count: 1
+Checking: W @ 0 -> 292
+Checking: ! id: 286 timestamp: 1774666528078618000 count: 1
+Checking: W @ 0 -> 286
+Checking: ! id: 537 timestamp: 1774666528078694000 count: 1
+Checking: W @ 0 -> 537
+Checking: ! id: 192 timestamp: 1774666528078754000 count: 1
+Checking: W @ 0 -> 192
+Checking: ! id: 308 timestamp: 1774666528078814000 count: 1
+Checking: W @ 0 -> 308
+Checking: ! id: 129 timestamp: 1774666528078886000 count: 1
+Checking: W @ 0 -> 129
+Checking: ! id: 274 timestamp: 1774666528078950000 count: 1
+Checking: W @ 0 -> 274
+Checking: ! id: 406 timestamp: 1774666528079011000 count: 1
+Checking: W @ 0 -> 406
+Checking: ! id: 224 timestamp: 1774666528079081000 count: 1
+Checking: W @ 0 -> 224
+Checking: ! id: 316 timestamp: 1774666528079154000 count: 1
+Checking: W @ 0 -> 316
+Checking: ! id: 241 timestamp: 1774666528079220000 count: 1
+Checking: W @ 0 -> 241
+Checking: ! id: 147 timestamp: 1774666528079285000 count: 1
+Checking: W @ 0 -> 147
+Checking: ! id: 273 timestamp: 1774666528079352000 count: 1
+Checking: W @ 0 -> 273
+Checking: ! id: 206 timestamp: 1774666528079411000 count: 1
+Checking: W @ 0 -> 206
+Checking: ! id: 318 timestamp: 1774666528079472000 count: 1
+Checking: W @ 0 -> 318
+Checking: ! id: 454 timestamp: 1774666528079540000 count: 1
+Checking: W @ 0 -> 454
+Checking: ! id: 350 timestamp: 1774666528079600000 count: 1
+Checking: W @ 0 -> 350
+Checking: ! id: 184 timestamp: 1774666528079680000 count: 1
+Checking: W @ 0 -> 184
+Checking: ! id: 365 timestamp: 1774666528079747000 count: 1
+Checking: W @ 0 -> 365
+Checking: ! id: 305 timestamp: 1774666528079810000 count: 1
+Checking: W @ 0 -> 305
+Checking: ! id: 74 timestamp: 1774666528079876000 count: 1
+Checking: W @ 0 -> 74
+Checking: ! id: 397 timestamp: 1774666528079941000 count: 1
+Checking: W @ 0 -> 397
+Checking: ! id: 106 timestamp: 1774666528080009000 count: 1
+Checking: W @ 0 -> 106
+Checking: ! id: 443 timestamp: 1774666528080078000 count: 1
+Checking: W @ 0 -> 443
+Checking: ! id: 245 timestamp: 1774666528080138000 count: 1
+Checking: W @ 0 -> 245
+Checking: ! id: 375 timestamp: 1774666528080205000 count: 1
+Checking: W @ 0 -> 375
+Checking: ! id: 277 timestamp: 1774666528080276000 count: 1
+Checking: W @ 0 -> 277
+Checking: ! id: 486 timestamp: 1774666528080336000 count: 1
+Checking: W @ 0 -> 486
+Checking: ! id: 382 timestamp: 1774666528080394000 count: 1
+Checking: W @ 0 -> 382
+Checking: ! id: 340 timestamp: 1774666528080448000 count: 1
+Checking: W @ 0 -> 340
+Checking: ! id: 438 timestamp: 1774666528080500000 count: 1
+Checking: W @ 0 -> 438
+Checking: ! id: 372 timestamp: 1774666528080551000 count: 1
+Checking: W @ 0 -> 372
+Checking: ! id: 470 timestamp: 1774666528080604000 count: 1
+Checking: W @ 0 -> 470
+Checking: ! id: 207 timestamp: 1774666528080665000 count: 1
+Checking: W @ 0 -> 207
+Checking: ! id: 429 timestamp: 1774666528080722000 count: 1
+Checking: W @ 0 -> 429
+Checking: ! id: 138 timestamp: 1774666528080778000 count: 1
+Checking: W @ 0 -> 138
+Checking: ! id: 323 timestamp: 1774666528080834000 count: 1
+Checking: W @ 0 -> 323
+Checking: ! id: 324 timestamp: 1774666528080896000 count: 1
+Checking: W @ 0 -> 324
+Checking: ! id: 502 timestamp: 1774666528080952000 count: 1
+Checking: W @ 0 -> 502
+Checking: ! id: 356 timestamp: 1774666528081008000 count: 1
+Checking: W @ 0 -> 356
+Checking: ! id: 461 timestamp: 1774666528081061000 count: 1
+Checking: W @ 0 -> 461
+Checking: ! id: 534 timestamp: 1774666528081117000 count: 1
+Checking: W @ 0 -> 534
+Checking: ! id: 238 timestamp: 1774666528081171000 count: 1
+Checking: W @ 0 -> 238
+Checking: ! id: 322 timestamp: 1774666528081219000 count: 1
+Checking: W @ 0 -> 322
+Checking: ! id: 404 timestamp: 1774666528081270000 count: 1
+Checking: W @ 0 -> 404
+Checking: ! id: 354 timestamp: 1774666528081317000 count: 1
+Checking: W @ 0 -> 354
+Checking: ! id: 161 timestamp: 1774666528081380000 count: 1
+Checking: W @ 0 -> 161
+Checking: ! id: 436 timestamp: 1774666528081431000 count: 1
+Checking: W @ 0 -> 436
+Checking: ! id: 256 timestamp: 1774666528081491000 count: 1
+Checking: W @ 0 -> 256
+Checking: ! id: 309 timestamp: 1774666528081559000 count: 1
+Checking: W @ 0 -> 309
+Checking: ! id: 388 timestamp: 1774666528081619000 count: 1
+Checking: W @ 0 -> 388
+Checking: ! id: 216 timestamp: 1774666528081680000 count: 1
+Checking: W @ 0 -> 216
+Checking: ! id: 468 timestamp: 1774666528081732000 count: 1
+Checking: W @ 0 -> 468
+Checking: ! id: 407 timestamp: 1774666528081782000 count: 1
+Checking: W @ 0 -> 407
+Checking: ! id: 300 timestamp: 1774666528081837000 count: 1
+Checking: W @ 0 -> 300
+Checking: ! id: 270 timestamp: 1774666528081897000 count: 1
+Checking: W @ 0 -> 270
+Checking: ! id: 439 timestamp: 1774666528081946000 count: 1
+Checking: W @ 0 -> 439
+Checking: ! id: 253 timestamp: 1774666528082001000 count: 1
+Checking: W @ 0 -> 253
+Checking: ! id: 471 timestamp: 1774666528082064000 count: 1
+Checking: W @ 0 -> 471
+Checking: ! id: 493 timestamp: 1774666528082124000 count: 1
+Checking: W @ 0 -> 493
+Checking: ! id: 297 timestamp: 1774666528082177000 count: 1
+Checking: W @ 0 -> 297
+Checking: ! id: 239 timestamp: 1774666528082233000 count: 1
+Checking: W @ 0 -> 239
+Checking: ! id: 386 timestamp: 1774666528082285000 count: 1
+Checking: W @ 0 -> 386
+Checking: ! id: 306 timestamp: 1774666528082343000 count: 1
+Checking: W @ 0 -> 306
+Checking: ! id: 193 timestamp: 1774666528082398000 count: 1
+Checking: W @ 0 -> 193
+Checking: ! id: 338 timestamp: 1774666528082453000 count: 1
+Checking: W @ 0 -> 338
+Checking: ! id: 225 timestamp: 1774666528082507000 count: 1
+Checking: W @ 0 -> 225
+Checking: ! id: 566 timestamp: 1774666528082566000 count: 1
+Checking: W @ 0 -> 566
+Checking: ! id: 288 timestamp: 1774666528082617000 count: 1
+Checking: W @ 0 -> 288
+Checking: ! id: 332 timestamp: 1774666528082676000 count: 1
+Checking: W @ 0 -> 332
+Checking: ! id: 389 timestamp: 1774666528082734000 count: 1
+Checking: W @ 0 -> 389
+Checking: ! id: 341 timestamp: 1774666528082787000 count: 1
+Checking: W @ 0 -> 341
+Checking: ! id: 176 timestamp: 1774666528082856000 count: 1
+Checking: W @ 0 -> 176
+Checking: ! id: 355 timestamp: 1774666528082910000 count: 1
+Checking: W @ 0 -> 355
+Checking: ! id: 525 timestamp: 1774666528082970000 count: 1
+Checking: W @ 0 -> 525
+Checking: ! id: 287 timestamp: 1774666528083017000 count: 1
+Checking: W @ 0 -> 287
+Checking: ! id: 320 timestamp: 1774666528083083000 count: 1
+Checking: W @ 0 -> 320
+Checking: ! id: 271 timestamp: 1774666528083133000 count: 1
+Checking: W @ 0 -> 271
+Checking: ! id: 319 timestamp: 1774666528083191000 count: 1
+Checking: W @ 0 -> 319
+Checking: ! id: 378 timestamp: 1774666528083245000 count: 1
+Checking: W @ 0 -> 378
+Checking: ! id: 352 timestamp: 1774666528083297000 count: 1
+Checking: W @ 0 -> 352
+Checking: ! id: 421 timestamp: 1774666528083344000 count: 1
+Checking: W @ 0 -> 421
+Checking: ! id: 348 timestamp: 1774666528083397000 count: 1
+Checking: W @ 0 -> 348
+Checking: ! id: 231 timestamp: 1774666528083445000 count: 1
+Checking: W @ 0 -> 231
+Checking: ! id: 453 timestamp: 1774666528083517000 count: 1
+Checking: W @ 0 -> 453
+Checking: ! id: 302 timestamp: 1774666528083571000 count: 1
+Checking: W @ 0 -> 302
+Checking: ! id: 351 timestamp: 1774666528083626000 count: 1
+Checking: W @ 0 -> 351
+Checking: ! id: 373 timestamp: 1774666528083688000 count: 1
+Checking: W @ 0 -> 373
+Checking: ! id: 380 timestamp: 1774666528083738000 count: 1
+Checking: W @ 0 -> 380
+Checking: ! id: 569 timestamp: 1774666528083794000 count: 1
+Checking: W @ 0 -> 569
+Checking: ! id: 387 timestamp: 1774666528083850000 count: 1
+Checking: W @ 0 -> 387
+Checking: ! id: 179 timestamp: 1774666528083912000 count: 1
+Checking: W @ 0 -> 179
+Checking: ! id: 364 timestamp: 1774666528083960000 count: 1
+Checking: W @ 0 -> 364
+Checking: ! id: 296 timestamp: 1774666528084010000 count: 1
+Checking: W @ 0 -> 296
+Checking: ! id: 334 timestamp: 1774666528084061000 count: 1
+Checking: W @ 0 -> 334
+Checking: ! id: 248 timestamp: 1774666528084115000 count: 1
+Checking: W @ 0 -> 248
+Checking: ! id: 383 timestamp: 1774666528084173000 count: 1
+Checking: W @ 0 -> 383
+Checking: ! id: 208 timestamp: 1774666528084226000 count: 1
+Checking: W @ 0 -> 208
+Checking: ! id: 485 timestamp: 1774666528084282000 count: 1
+Checking: W @ 0 -> 485
+Checking: ! id: 240 timestamp: 1774666528084344000 count: 1
+Checking: W @ 0 -> 240
+Checking: ! id: 366 timestamp: 1774666528084397000 count: 1
+Checking: W @ 0 -> 366
+Checking: ! id: 503 timestamp: 1774666528084451000 count: 1
+Checking: W @ 0 -> 503
+Checking: ! id: 257 timestamp: 1774666528084505000 count: 1
+Checking: W @ 0 -> 257
+Checking: ! id: 601 timestamp: 1774666528084561000 count: 1
+Checking: W @ 0 -> 601
+Checking: ! id: 289 timestamp: 1774666528084610000 count: 1
+Checking: W @ 0 -> 289
+Checking: ! id: 517 timestamp: 1774666528084668000 count: 1
+Checking: W @ 0 -> 517
+Checking: ! id: 384 timestamp: 1774666528084729000 count: 1
+Checking: W @ 0 -> 384
+Checking: ! id: 170 timestamp: 1774666528084780000 count: 1
+Checking: W @ 0 -> 170
+Checking: ! id: 405 timestamp: 1774666528084835000 count: 1
+Checking: W @ 0 -> 405
+Checking: ! id: 598 timestamp: 1774666528084894000 count: 1
+Checking: W @ 0 -> 598
+Checking: ! id: 285 timestamp: 1774666528084952000 count: 1
+Checking: W @ 0 -> 285
+Checking: ! id: 418 timestamp: 1774666528085005000 count: 1
+Checking: W @ 0 -> 418
+Checking: ! id: 412 timestamp: 1774666528085059000 count: 1
+Checking: W @ 0 -> 412
+Checking: ! id: 557 timestamp: 1774666528085109000 count: 1
+Checking: W @ 0 -> 557
+Checking: ! id: 303 timestamp: 1774666528085167000 count: 1
+Checking: W @ 0 -> 303
+Checking: ! id: 427 timestamp: 1774666528085223000 count: 1
+Checking: W @ 0 -> 427
+Checking: ! id: 328 timestamp: 1774666528085287000 count: 1
+Checking: W @ 0 -> 328
+Checking: ! id: 398 timestamp: 1774666528085352000 count: 1
+Checking: W @ 0 -> 398
+Checking: ! id: 437 timestamp: 1774666528085419000 count: 1
+Checking: W @ 0 -> 437
+Checking: ! id: 420 timestamp: 1774666528085479000 count: 1
+Checking: W @ 0 -> 420
+Checking: ! id: 475 timestamp: 1774666528085526000 count: 1
+Checking: W @ 0 -> 475
+Checking: ! id: 549 timestamp: 1774666528085583000 count: 1
+Checking: W @ 0 -> 549
+Checking: ! id: 370 timestamp: 1774666528085638000 count: 1
+Checking: W @ 0 -> 370
+Checking: ! id: 263 timestamp: 1774666528085688000 count: 1
+Checking: W @ 0 -> 263
+Checking: ! id: 535 timestamp: 1774666528085747000 count: 1
+Checking: W @ 0 -> 535
+Checking: ! id: 450 timestamp: 1774666528085810000 count: 1
+Checking: W @ 0 -> 450
+Checking: ! id: 581 timestamp: 1774666528085871000 count: 1
+Checking: W @ 0 -> 581
+Checking: ! id: 500 timestamp: 1774666528085933000 count: 1
+Checking: W @ 0 -> 500
+Checking: ! id: 329 timestamp: 1774666528085985000 count: 1
+Checking: W @ 0 -> 329
+Checking: ! id: 396 timestamp: 1774666528086044000 count: 1
+Checking: W @ 0 -> 396
+Checking: ! id: 280 timestamp: 1774666528086102000 count: 1
+Checking: W @ 0 -> 280
+Checking: ! id: 613 timestamp: 1774666528086162000 count: 1
+Checking: W @ 0 -> 613
+Checking: ! id: 414 timestamp: 1774666528086216000 count: 1
+Checking: W @ 0 -> 414
+Checking: ! id: 402 timestamp: 1774666528086272000 count: 1
+Checking: W @ 0 -> 402
+Checking: ! id: 645 timestamp: 1774666528086325000 count: 1
+Checking: W @ 0 -> 645
+Checking: ! id: 469 timestamp: 1774666528086371000 count: 1
+Checking: W @ 0 -> 469
+Checking: ! id: 211 timestamp: 1774666528086412000 count: 1
+Checking: W @ 0 -> 211
+Checking: ! id: 507 timestamp: 1774666528086462000 count: 1
+Checking: W @ 0 -> 507
+Checking: ! id: 243 timestamp: 1774666528086505000 count: 1
+Checking: W @ 0 -> 243
+Checking: ! id: 361 timestamp: 1774666528086555000 count: 1
+Checking: W @ 0 -> 361
+Checking: ! id: 428 timestamp: 1774666528086604000 count: 1
+Checking: W @ 0 -> 428
+Checking: ! id: 360 timestamp: 1774666528086658000 count: 1
+Checking: W @ 0 -> 360
+Checking: ! id: 460 timestamp: 1774666528086710000 count: 1
+Checking: W @ 0 -> 460
+Checking: ! id: 430 timestamp: 1774666528086761000 count: 1
+Checking: W @ 0 -> 430
+Checking: ! id: 446 timestamp: 1774666528086812000 count: 1
+Checking: W @ 0 -> 446
+Checking: ! id: 335 timestamp: 1774666528086866000 count: 1
+Checking: W @ 0 -> 335
+Checking: ! id: 482 timestamp: 1774666528086911000 count: 1
+Checking: W @ 0 -> 482
+Checking: ! id: 367 timestamp: 1774666528086964000 count: 1
+Checking: W @ 0 -> 367
+Checking: ! id: 419 timestamp: 1774666528087018000 count: 1
+Checking: W @ 0 -> 419
+Checking: ! id: 532 timestamp: 1774666528087066000 count: 1
+Checking: W @ 0 -> 532
+Checking: ! id: 459 timestamp: 1774666528087112000 count: 1
+Checking: W @ 0 -> 459
+Checking: ! id: 539 timestamp: 1774666528087165000 count: 1
+Checking: W @ 0 -> 539
+Checking: ! id: 312 timestamp: 1774666528087215000 count: 1
+Checking: W @ 0 -> 312
+Checking: ! id: 518 timestamp: 1774666528087267000 count: 1
+Checking: W @ 0 -> 518
+Checking: ! id: 492 timestamp: 1774666528087321000 count: 1
+Checking: W @ 0 -> 492
+Checking: ! id: 630 timestamp: 1774666528087366000 count: 1
+Checking: W @ 0 -> 630
+Checking: ! id: 317 timestamp: 1774666528087410000 count: 1
+Checking: W @ 0 -> 317
+Checking: ! id: 550 timestamp: 1774666528087464000 count: 1
+Checking: W @ 0 -> 550
+Checking: ! id: 344 timestamp: 1774666528087524000 count: 1
+Checking: W @ 0 -> 344
+Checking: ! id: 272 timestamp: 1774666528087582000 count: 1
+Checking: W @ 0 -> 272
+Checking: ! id: 337 timestamp: 1774666528087638000 count: 1
+Checking: W @ 0 -> 337
+Checking: ! id: 275 timestamp: 1774666528087688000 count: 1
+Checking: W @ 0 -> 275
+Checking: ! id: 393 timestamp: 1774666528087738000 count: 1
+Checking: W @ 0 -> 393
+Checking: ! id: 399 timestamp: 1774666528087790000 count: 1
+Checking: W @ 0 -> 399
+Checking: ! id: 434 timestamp: 1774666528087845000 count: 1
+Checking: W @ 0 -> 434
+Checking: ! id: 524 timestamp: 1774666528087892000 count: 1
+Checking: W @ 0 -> 524
+Checking: ! id: 466 timestamp: 1774666528087937000 count: 1
+Checking: W @ 0 -> 466
+Checking: ! id: 633 timestamp: 1774666528087979000 count: 1
+Checking: W @ 0 -> 633
+Checking: ! id: 410 timestamp: 1774666528088027000 count: 1
+Checking: W @ 0 -> 410
+Checking: ! id: 451 timestamp: 1774666528088076000 count: 1
+Checking: W @ 0 -> 451
+Checking: ! id: 452 timestamp: 1774666528088127000 count: 1
+Checking: W @ 0 -> 452
+Checking: ! id: 416 timestamp: 1774666528088172000 count: 1
+Checking: W @ 0 -> 416
+Checking: ! id: 589 timestamp: 1774666528088225000 count: 1
+Checking: W @ 0 -> 589
+Checking: ! id: 442 timestamp: 1774666528088273000 count: 1
+Checking: W @ 0 -> 442
+Checking: ! id: 556 timestamp: 1774666528088322000 count: 1
+Checking: W @ 0 -> 556
+Checking: ! id: 425 timestamp: 1774666528088373000 count: 1
+Checking: W @ 0 -> 425
+Checking: ! id: 444 timestamp: 1774666528088418000 count: 1
+Checking: W @ 0 -> 444
+Checking: ! id: 588 timestamp: 1774666528088470000 count: 1
+Checking: W @ 0 -> 588
+Checking: ! id: 662 timestamp: 1774666528088526000 count: 1
+Checking: W @ 0 -> 662
+Checking: ! id: 295 timestamp: 1774666528088575000 count: 1
+Checking: W @ 0 -> 295
+Checking: ! id: 484 timestamp: 1774666528088619000 count: 1
+Checking: W @ 0 -> 484
+Checking: ! id: 677 timestamp: 1774666528088667000 count: 1
+Checking: W @ 0 -> 677
+Checking: ! id: 478 timestamp: 1774666528088716000 count: 1
+Checking: W @ 0 -> 478
+Checking: ! id: 571 timestamp: 1774666528088772000 count: 1
+Checking: W @ 0 -> 571
+Checking: ! id: 474 timestamp: 1774666528088820000 count: 1
+Checking: W @ 0 -> 474
+Checking: ! id: 694 timestamp: 1774666528088867000 count: 1
+Checking: W @ 0 -> 694
+Checking: ! id: 603 timestamp: 1774666528088914000 count: 1
+Checking: W @ 0 -> 603
+Checking: ! id: 506 timestamp: 1774666528088959000 count: 1
+Checking: W @ 0 -> 506
+Checking: ! id: 462 timestamp: 1774666528089013000 count: 1
+Checking: W @ 0 -> 462
+Checking: ! id: 304 timestamp: 1774666528089069000 count: 1
+Checking: W @ 0 -> 304
+Checking: ! id: 307 timestamp: 1774666528089118000 count: 1
+Checking: W @ 0 -> 307
+Checking: ! id: 516 timestamp: 1774666528089170000 count: 1
+Checking: W @ 0 -> 516
+Checking: ! id: 339 timestamp: 1774666528089215000 count: 1
+Checking: W @ 0 -> 339
+Checking: ! id: 494 timestamp: 1774666528089270000 count: 1
+Checking: W @ 0 -> 494
+Checking: ! id: 510 timestamp: 1774666528089321000 count: 1
+Checking: W @ 0 -> 510
+Checking: ! id: 582 timestamp: 1774666528089374000 count: 1
+Checking: W @ 0 -> 582
+Checking: ! id: 635 timestamp: 1774666528089424000 count: 1
+Checking: W @ 0 -> 635
+Checking: ! id: 538 timestamp: 1774666528089482000 count: 1
+Checking: W @ 0 -> 538
+Checking: ! id: 564 timestamp: 1774666528089529000 count: 1
+Checking: W @ 0 -> 564
+Checking: ! id: 415 timestamp: 1774666528089577000 count: 1
+Checking: W @ 0 -> 415
+Checking: ! id: 596 timestamp: 1774666528089623000 count: 1
+Checking: W @ 0 -> 596
+Checking: ! id: 327 timestamp: 1774666528089667000 count: 1
+Checking: W @ 0 -> 327
+Checking: ! id: 628 timestamp: 1774666528089712000 count: 1
+Checking: W @ 0 -> 628
+Checking: ! id: 667 timestamp: 1774666528089765000 count: 1
+Checking: W @ 0 -> 667
+Checking: ! id: 665 timestamp: 1774666528089809000 count: 1
+Checking: W @ 0 -> 665
+Checking: ! id: 491 timestamp: 1774666528089866000 count: 1
+Checking: W @ 0 -> 491
+Checking: ! id: 448 timestamp: 1774666528089918000 count: 1
+Checking: W @ 0 -> 448
+Checking: ! id: 431 timestamp: 1774666528089969000 count: 1
+Checking: W @ 0 -> 431
+Checking: ! id: 359 timestamp: 1774666528090017000 count: 1
+Checking: W @ 0 -> 359
+Checking: ! id: 457 timestamp: 1774666528090060000 count: 1
+Checking: W @ 0 -> 457
+Checking: ! id: 371 timestamp: 1774666528090107000 count: 1
+Checking: W @ 0 -> 371
+Checking: ! id: 570 timestamp: 1774666528090154000 count: 1
+Checking: W @ 0 -> 570
+Checking: ! id: 403 timestamp: 1774666528090208000 count: 1
+Checking: W @ 0 -> 403
+Checking: ! id: 392 timestamp: 1774666528090257000 count: 1
+Checking: W @ 0 -> 392
+Checking: ! id: 542 timestamp: 1774666528090304000 count: 1
+Checking: W @ 0 -> 542
+Checking: ! id: 620 timestamp: 1774666528090353000 count: 1
+Checking: W @ 0 -> 620
+Checking: ! id: 369 timestamp: 1774666528090405000 count: 1
+Checking: W @ 0 -> 369
+Checking: ! id: 567 timestamp: 1774666528090456000 count: 1
+Checking: W @ 0 -> 567
+Checking: ! id: 726 timestamp: 1774666528090501000 count: 1
+Checking: W @ 0 -> 726
+Checking: ! id: 376 timestamp: 1774666528090560000 count: 1
+Checking: W @ 0 -> 376
+Checking: ! id: 614 timestamp: 1774666528090608000 count: 1
+Checking: W @ 0 -> 614
+Checking: ! id: 408 timestamp: 1774666528090660000 count: 1
+Checking: W @ 0 -> 408
+Checking: ! id: 526 timestamp: 1774666528090704000 count: 1
+Checking: W @ 0 -> 526
+Checking: ! id: 440 timestamp: 1774666528090753000 count: 1
+Checking: W @ 0 -> 440
+Checking: ! id: 498 timestamp: 1774666528090805000 count: 1
+Checking: W @ 0 -> 498
+Checking: ! id: 476 timestamp: 1774666528090851000 count: 1
+Checking: W @ 0 -> 476
+Checking: ! id: 489 timestamp: 1774666528090901000 count: 1
+Checking: W @ 0 -> 489
+Checking: ! id: 321 timestamp: 1774666528090955000 count: 1
+Checking: W @ 0 -> 321
+Checking: ! id: 758 timestamp: 1774666528091000000 count: 1
+Checking: W @ 0 -> 758
+Checking: ! id: 353 timestamp: 1774666528091047000 count: 1
+Checking: W @ 0 -> 353
+Checking: ! id: 514 timestamp: 1774666528091093000 count: 1
+Checking: W @ 0 -> 514
+Checking: ! id: 202 timestamp: 1774666528091136000 count: 1
+Checking: W @ 0 -> 202
+Checking: ! id: 336 timestamp: 1774666528091186000 count: 1
+Checking: W @ 0 -> 336
+Checking: ! id: 424 timestamp: 1774666528091238000 count: 1
+Checking: W @ 0 -> 424
+Checking: ! id: 697 timestamp: 1774666528091288000 count: 1
+Checking: W @ 0 -> 697
+Checking: ! id: 652 timestamp: 1774666528091339000 count: 1
+Checking: W @ 0 -> 652
+Checking: ! id: 602 timestamp: 1774666528091386000 count: 1
+Checking: W @ 0 -> 602
+Checking: ! id: 435 timestamp: 1774666528091434000 count: 1
+Checking: W @ 0 -> 435
+Checking: ! id: 546 timestamp: 1774666528091479000 count: 1
+Checking: W @ 0 -> 546
+Checking: ! id: 234 timestamp: 1774666528091527000 count: 1
+Checking: W @ 0 -> 234
+Checking: ! id: 578 timestamp: 1774666528091572000 count: 1
+Checking: W @ 0 -> 578
+Checking: ! id: 709 timestamp: 1774666528091624000 count: 1
+Checking: W @ 0 -> 709
+Checking: ! id: 610 timestamp: 1774666528091675000 count: 1
+Checking: W @ 0 -> 610
+Checking: ! id: 368 timestamp: 1774666528091726000 count: 1
+Checking: W @ 0 -> 368
+Checking: ! id: 530 timestamp: 1774666528091777000 count: 1
+Checking: W @ 0 -> 530
+Checking: ! id: 523 timestamp: 1774666528091822000 count: 1
+Checking: W @ 0 -> 523
+Checking: ! id: 401 timestamp: 1774666528091872000 count: 1
+Checking: W @ 0 -> 401
+Checking: ! id: 741 timestamp: 1774666528091915000 count: 1
+Checking: W @ 0 -> 741
+Checking: ! id: 574 timestamp: 1774666528091964000 count: 1
+Checking: W @ 0 -> 574
+Checking: ! id: 391 timestamp: 1774666528092014000 count: 1
+Checking: W @ 0 -> 391
+Checking: ! id: 729 timestamp: 1774666528092060000 count: 1
+Checking: W @ 0 -> 729
+Checking: ! id: 521 timestamp: 1774666528092104000 count: 1
+Checking: W @ 0 -> 521
+Checking: ! id: 447 timestamp: 1774666528092150000 count: 1
+Checking: W @ 0 -> 447
+Checking: ! id: 660 timestamp: 1774666528092197000 count: 1
+Checking: W @ 0 -> 660
+Checking: ! id: 266 timestamp: 1774666528092247000 count: 1
+Checking: W @ 0 -> 266
+Checking: ! id: 501 timestamp: 1774666528092289000 count: 1
+Checking: W @ 0 -> 501
+Checking: ! id: 646 timestamp: 1774666528092334000 count: 1
+Checking: W @ 0 -> 646
+Checking: ! id: 483 timestamp: 1774666528092381000 count: 1
+Checking: W @ 0 -> 483
+Checking: ! id: 634 timestamp: 1774666528092420000 count: 1
+Checking: W @ 0 -> 634
+Checking: ! id: 515 timestamp: 1774666528092470000 count: 1
+Checking: W @ 0 -> 515
+Checking: ! id: 508 timestamp: 1774666528092517000 count: 1
+Checking: W @ 0 -> 508
+Checking: ! id: 761 timestamp: 1774666528092567000 count: 1
+Checking: W @ 0 -> 761
+Checking: ! id: 692 timestamp: 1774666528092613000 count: 1
+Checking: W @ 0 -> 692
+Checking: ! id: 456 timestamp: 1774666528092657000 count: 1
+Checking: W @ 0 -> 456
+Checking: ! id: 773 timestamp: 1774666528092707000 count: 1
+Checking: W @ 0 -> 773
+Checking: ! id: 472 timestamp: 1774666528092754000 count: 1
+Checking: W @ 0 -> 472
+Checking: ! id: 553 timestamp: 1774666528092988000 count: 1
+Checking: W @ 0 -> 553
+Checking: ! id: 547 timestamp: 1774666528093163000 count: 1
+Checking: W @ 0 -> 547
+Checking: ! id: 555 timestamp: 1774666528093208000 count: 1
+Checking: W @ 0 -> 555
+Checking: ! id: 579 timestamp: 1774666528093257000 count: 1
+Checking: W @ 0 -> 579
+Checking: ! id: 400 timestamp: 1774666528093300000 count: 1
+Checking: W @ 0 -> 400
+Checking: ! id: 621 timestamp: 1774666528093342000 count: 1
+Checking: W @ 0 -> 621
+Checking: ! id: 678 timestamp: 1774666528093386000 count: 1
+Checking: W @ 0 -> 678
+Checking: ! id: 349 timestamp: 1774666528093430000 count: 1
+Checking: W @ 0 -> 349
+Checking: ! id: 793 timestamp: 1774666528093482000 count: 1
+Checking: W @ 0 -> 793
+Checking: ! id: 298 timestamp: 1774666528093522000 count: 1
+Checking: W @ 0 -> 298
+Checking: ! id: 825 timestamp: 1774666528093566000 count: 1
+Checking: W @ 0 -> 825
+Checking: ! id: 480 timestamp: 1774666528093613000 count: 1
+Checking: W @ 0 -> 480
+Checking: ! id: 599 timestamp: 1774666528093650000 count: 1
+Checking: W @ 0 -> 599
+Checking: ! id: 467 timestamp: 1774666528093693000 count: 1
+Checking: W @ 0 -> 467
+Checking: ! id: 385 timestamp: 1774666528093734000 count: 1
+Checking: W @ 0 -> 385
+Checking: ! id: 499 timestamp: 1774666528093782000 count: 1
+Checking: W @ 0 -> 499
+Checking: ! id: 790 timestamp: 1774666528093831000 count: 1
+Checking: W @ 0 -> 790
+Checking: ! id: 805 timestamp: 1774666528093888000 count: 1
+Checking: W @ 0 -> 805
+Checking: ! id: 488 timestamp: 1774666528093932000 count: 1
+Checking: W @ 0 -> 488
+Checking: ! id: 504 timestamp: 1774666528093976000 count: 1
+Checking: W @ 0 -> 504
+Checking: ! id: 710 timestamp: 1774666528094017000 count: 1
+Checking: W @ 0 -> 710
+Checking: ! id: 822 timestamp: 1774666528094060000 count: 1
+Checking: W @ 0 -> 822
+Checking: ! id: 533 timestamp: 1774666528094108000 count: 1
+Checking: W @ 0 -> 533
+Checking: ! id: 666 timestamp: 1774666528094149000 count: 1
+Checking: W @ 0 -> 666
+Checking: ! id: 433 timestamp: 1774666528094201000 count: 1
+Checking: W @ 0 -> 433
+Checking: ! id: 540 timestamp: 1774666528094244000 count: 1
+Checking: W @ 0 -> 540
+Checking: ! id: 837 timestamp: 1774666528094287000 count: 1
+Checking: W @ 0 -> 837
+Checking: ! id: 536 timestamp: 1774666528094338000 count: 1
+Checking: W @ 0 -> 536
+Checking: ! id: 565 timestamp: 1774666528094378000 count: 1
+Checking: W @ 0 -> 565
+Checking: ! id: 558 timestamp: 1774666528094427000 count: 1
+Checking: W @ 0 -> 558
+Checking: ! id: 857 timestamp: 1774666528094470000 count: 1
+Checking: W @ 0 -> 857
+Checking: ! id: 854 timestamp: 1774666528094509000 count: 1
+Checking: W @ 0 -> 854
+Checking: ! id: 512 timestamp: 1774666528094550000 count: 1
+Checking: W @ 0 -> 512
+Checking: ! id: 548 timestamp: 1774666528094587000 count: 1
+Checking: W @ 0 -> 548
+Checking: ! id: 642 timestamp: 1774666528094626000 count: 1
+Checking: W @ 0 -> 642
+Checking: ! id: 432 timestamp: 1774666528094670000 count: 1
+Checking: W @ 0 -> 432
+Checking: ! id: 653 timestamp: 1774666528094714000 count: 1
+Checking: W @ 0 -> 653
+Checking: ! id: 381 timestamp: 1774666528094767000 count: 1
+Checking: W @ 0 -> 381
+Checking: ! id: 423 timestamp: 1774666528094818000 count: 1
+Checking: W @ 0 -> 423
+Checking: ! id: 479 timestamp: 1774666528094854000 count: 1
+Checking: W @ 0 -> 479
+Checking: ! id: 889 timestamp: 1774666528094901000 count: 1
+Checking: W @ 0 -> 889
+Checking: ! id: 742 timestamp: 1774666528094942000 count: 1
+Checking: W @ 0 -> 742
+Checking: ! id: 597 timestamp: 1774666528094985000 count: 1
+Checking: W @ 0 -> 597
+Checking: ! id: 562 timestamp: 1774666528095029000 count: 1
+Checking: W @ 0 -> 562
+Checking: ! id: 465 timestamp: 1774666528095078000 count: 1
+Checking: W @ 0 -> 465
+Checking: ! id: 886 timestamp: 1774666528095120000 count: 1
+Checking: W @ 0 -> 886
+Checking: ! id: 568 timestamp: 1774666528095159000 count: 1
+Checking: W @ 0 -> 568
+Checking: ! id: 918 timestamp: 1774666528095204000 count: 1
+Checking: W @ 0 -> 918
+Checking: ! id: 585 timestamp: 1774666528095255000 count: 1
+Checking: W @ 0 -> 585
+Checking: ! id: 631 timestamp: 1774666528095296000 count: 1
+Checking: W @ 0 -> 631
+Checking: ! id: 464 timestamp: 1774666528095337000 count: 1
+Checking: W @ 0 -> 464
+Checking: ! id: 685 timestamp: 1774666528095383000 count: 1
+Checking: W @ 0 -> 685
+Checking: ! id: 611 timestamp: 1774666528095428000 count: 1
+Checking: W @ 0 -> 611
+Checking: ! id: 580 timestamp: 1774666528095473000 count: 1
+Checking: W @ 0 -> 580
+Checking: ! id: 590 timestamp: 1774666528095521000 count: 1
+Checking: W @ 0 -> 590
+Checking: ! id: 587 timestamp: 1774666528095560000 count: 1
+Checking: W @ 0 -> 587
+Checking: ! id: 699 timestamp: 1774666528095602000 count: 1
+Checking: W @ 0 -> 699
+Checking: ! id: 330 timestamp: 1774666528095652000 count: 1
+Checking: W @ 0 -> 330
+Checking: ! id: 717 timestamp: 1774666528095705000 count: 1
+Checking: W @ 0 -> 717
+Checking: ! id: 617 timestamp: 1774666528095755000 count: 1
+Checking: W @ 0 -> 617
+Checking: ! id: 413 timestamp: 1774666528095807000 count: 1
+Checking: W @ 0 -> 413
+Checking: ! id: 362 timestamp: 1774666528095851000 count: 1
+Checking: W @ 0 -> 362
+Checking: ! id: 455 timestamp: 1774666528095899000 count: 1
+Checking: W @ 0 -> 455
+Checking: ! id: 496 timestamp: 1774666528095946000 count: 1
+Checking: W @ 0 -> 496
+Checking: ! id: 619 timestamp: 1774666528095989000 count: 1
+Checking: W @ 0 -> 619
+Checking: ! id: 629 timestamp: 1774666528096032000 count: 1
+Checking: W @ 0 -> 629
+Checking: ! id: 950 timestamp: 1774666528096075000 count: 1
+Checking: W @ 0 -> 950
+Checking: ! id: 869 timestamp: 1774666528096116000 count: 1
+Checking: W @ 0 -> 869
+Checking: ! id: 497 timestamp: 1774666528096168000 count: 1
+Checking: W @ 0 -> 497
+Checking: ! id: 511 timestamp: 1774666528096210000 count: 1
+Checking: W @ 0 -> 511
+Checking: ! id: 622 timestamp: 1774666528096253000 count: 1
+Checking: W @ 0 -> 622
+Checking: ! id: 606 timestamp: 1774666528096299000 count: 1
+Checking: W @ 0 -> 606
+Checking: ! id: 731 timestamp: 1774666528096340000 count: 1
+Checking: W @ 0 -> 731
+Checking: ! id: 651 timestamp: 1774666528096384000 count: 1
+Checking: W @ 0 -> 651
+Checking: ! id: 520 timestamp: 1774666528096423000 count: 1
+Checking: W @ 0 -> 520
+Checking: ! id: 531 timestamp: 1774666528096465000 count: 1
+Checking: W @ 0 -> 531
+Checking: ! id: 552 timestamp: 1774666528096515000 count: 1
+Checking: W @ 0 -> 552
+Checking: ! id: 661 timestamp: 1774666528096558000 count: 1
+Checking: W @ 0 -> 661
+Checking: ! id: 663 timestamp: 1774666528096597000 count: 1
+Checking: W @ 0 -> 663
+Checking: ! id: 487 timestamp: 1774666528096634000 count: 1
+Checking: W @ 0 -> 487
+Checking: ! id: 684 timestamp: 1774666528096678000 count: 1
+Checking: W @ 0 -> 684
+Checking: ! id: 528 timestamp: 1774666528096722000 count: 1
+Checking: W @ 0 -> 528
+Checking: ! id: 612 timestamp: 1774666528096767000 count: 1
+Checking: W @ 0 -> 612
+Checking: ! id: 584 timestamp: 1774666528096808000 count: 1
+Checking: W @ 0 -> 584
+Checking: ! id: 683 timestamp: 1774666528096851000 count: 1
+Checking: W @ 0 -> 683
+Checking: ! id: 644 timestamp: 1774666528096897000 count: 1
+Checking: W @ 0 -> 644
+Checking: ! id: 674 timestamp: 1774666528096948000 count: 1
+Checking: W @ 0 -> 674
+Checking: ! id: 463 timestamp: 1774666528096994000 count: 1
+Checking: W @ 0 -> 463
+Checking: ! id: 749 timestamp: 1774666528097037000 count: 1
+Checking: W @ 0 -> 749
+Checking: ! id: 654 timestamp: 1774666528097086000 count: 1
+Checking: W @ 0 -> 654
+Checking: ! id: 563 timestamp: 1774666528097135000 count: 1
+Checking: W @ 0 -> 563
+Checking: ! id: 763 timestamp: 1774666528097180000 count: 1
+Checking: W @ 0 -> 763
+Checking: ! id: 693 timestamp: 1774666528097230000 count: 1
+Checking: W @ 0 -> 693
+Checking: ! id: 544 timestamp: 1774666528097274000 count: 1
+Checking: W @ 0 -> 544
+Checking: ! id: 676 timestamp: 1774666528097320000 count: 1
+Checking: W @ 0 -> 676
+Checking: ! id: 638 timestamp: 1774666528097364000 count: 1
+Checking: W @ 0 -> 638
+Checking: ! id: 724 timestamp: 1774666528097409000 count: 1
+Checking: W @ 0 -> 724
+Checking: ! id: 795 timestamp: 1774666528097460000 count: 1
+Checking: W @ 0 -> 795
+Checking: ! id: 715 timestamp: 1774666528097503000 count: 1
+Checking: W @ 0 -> 715
+Checking: ! id: 921 timestamp: 1774666528097552000 count: 1
+Checking: W @ 0 -> 921
+Checking: ! id: 747 timestamp: 1774666528097598000 count: 1
+Checking: W @ 0 -> 747
+Checking: ! id: 394 timestamp: 1774666528097638000 count: 1
+Checking: W @ 0 -> 394
+Checking: ! id: 756 timestamp: 1774666528097683000 count: 1
+Checking: W @ 0 -> 756
+Checking: ! id: 827 timestamp: 1774666528097733000 count: 1
+Checking: W @ 0 -> 827
+Checking: ! id: 686 timestamp: 1774666528097781000 count: 1
+Checking: W @ 0 -> 686
+Checking: ! id: 725 timestamp: 1774666528097825000 count: 1
+Checking: W @ 0 -> 725
+Checking: ! id: 708 timestamp: 1774666528097867000 count: 1
+Checking: W @ 0 -> 708
+Checking: ! id: 417 timestamp: 1774666528097910000 count: 1
+Checking: W @ 0 -> 417
+Checking: ! id: 616 timestamp: 1774666528097949000 count: 1
+Checking: W @ 0 -> 616
+Checking: ! id: 543 timestamp: 1774666528098001000 count: 1
+Checking: W @ 0 -> 543
+Checking: ! id: 594 timestamp: 1774666528098060000 count: 1
+Checking: W @ 0 -> 594
+Checking: ! id: 670 timestamp: 1774666528098106000 count: 1
+Checking: W @ 0 -> 670
+Checking: ! id: 649 timestamp: 1774666528098160000 count: 1
+Checking: W @ 0 -> 649
+Checking: ! id: 953 timestamp: 1774666528098204000 count: 1
+Checking: W @ 0 -> 953
+Checking: ! id: 740 timestamp: 1774666528098249000 count: 1
+Checking: W @ 0 -> 740
+Checking: ! id: 643 timestamp: 1774666528098287000 count: 1
+Checking: W @ 0 -> 643
+Checking: ! id: 529 timestamp: 1774666528098331000 count: 1
+Checking: W @ 0 -> 529
+Checking: ! id: 985 timestamp: 1774666528098375000 count: 1
+Checking: W @ 0 -> 985
+Checking: ! id: 576 timestamp: 1774666528098416000 count: 1
+Checking: W @ 0 -> 576
+Checking: ! id: 706 timestamp: 1774666528098454000 count: 1
+Checking: W @ 0 -> 706
+Checking: ! id: 608 timestamp: 1774666528098499000 count: 1
+Checking: W @ 0 -> 608
+Checking: ! id: 781 timestamp: 1774666528098546000 count: 1
+Checking: W @ 0 -> 781
+Checking: ! id: 445 timestamp: 1774666528098584000 count: 1
+Checking: W @ 0 -> 445
+Checking: ! id: 561 timestamp: 1774666528098624000 count: 1
+Checking: W @ 0 -> 561
+Checking: ! id: 813 timestamp: 1774666528098662000 count: 1
+Checking: W @ 0 -> 813
+Checking: ! id: 702 timestamp: 1774666528098699000 count: 1
+Checking: W @ 0 -> 702
+Checking: ! id: 774 timestamp: 1774666528098737000 count: 1
+Checking: W @ 0 -> 774
+Checking: ! id: 560 timestamp: 1774666528098774000 count: 1
+Checking: W @ 0 -> 560
+Checking: ! id: 779 timestamp: 1774666528098819000 count: 1
+Checking: W @ 0 -> 779
+Checking: ! id: 640 timestamp: 1774666528098863000 count: 1
+Checking: W @ 0 -> 640
+Checking: ! id: 716 timestamp: 1774666528098903000 count: 1
+Checking: W @ 0 -> 716
+Checking: ! id: 681 timestamp: 1774666528098940000 count: 1
+Checking: W @ 0 -> 681
+Checking: ! id: 748 timestamp: 1774666528098981000 count: 1
+Checking: W @ 0 -> 748
+Checking: ! id: 426 timestamp: 1774666528099024000 count: 1
+Checking: W @ 0 -> 426
+Checking: ! id: 901 timestamp: 1774666528099067000 count: 1
+Checking: W @ 0 -> 901
+Checking: ! id: 572 timestamp: 1774666528099101000 count: 1
+Checking: W @ 0 -> 572
+Checking: ! id: 713 timestamp: 1774666528099141000 count: 1
+Checking: W @ 0 -> 713
+Checking: ! id: 626 timestamp: 1774666528099181000 count: 1
+Checking: W @ 0 -> 626
+Checking: ! id: 648 timestamp: 1774666528099222000 count: 1
+Checking: W @ 0 -> 648
+Checking: ! id: 859 timestamp: 1774666528099257000 count: 1
+Checking: W @ 0 -> 859
+Checking: ! id: 458 timestamp: 1774666528099296000 count: 1
+Checking: W @ 0 -> 458
+Checking: ! id: 734 timestamp: 1774666528099332000 count: 1
+Checking: W @ 0 -> 734
+Checking: ! id: 757 timestamp: 1774666528099373000 count: 1
+Checking: W @ 0 -> 757
+Checking: ! id: 490 timestamp: 1774666528099414000 count: 1
+Checking: W @ 0 -> 490
+Checking: ! id: 698 timestamp: 1774666528099454000 count: 1
+Checking: W @ 0 -> 698
+Checking: ! id: 982 timestamp: 1774666528099495000 count: 1
+Checking: W @ 0 -> 982
+Checking: ! id: 745 timestamp: 1774666528099530000 count: 1
+Checking: W @ 0 -> 745
+Checking: ! id: 449 timestamp: 1774666528099566000 count: 1
+Checking: W @ 0 -> 449
+Checking: ! id: 845 timestamp: 1774666528099605000 count: 1
+Checking: W @ 0 -> 845
+Checking: ! id: 738 timestamp: 1774666528099646000 count: 1
+Checking: W @ 0 -> 738
+Checking: ! id: 730 timestamp: 1774666528099686000 count: 1
+Checking: W @ 0 -> 730
+Checking: ! id: 788 timestamp: 1774666528099728000 count: 1
+Checking: W @ 0 -> 788
+Checking: ! id: 695 timestamp: 1774666528099773000 count: 1
+Checking: W @ 0 -> 695
+Checking: ! id: 595 timestamp: 1774666528099827000 count: 1
+Checking: W @ 0 -> 595
+Checking: ! id: 762 timestamp: 1774666528099873000 count: 1
+Checking: W @ 0 -> 762
+Checking: ! id: 718 timestamp: 1774666528099908000 count: 1
+Checking: W @ 0 -> 718
+Checking: ! id: 727 timestamp: 1774666528099952000 count: 1
+Checking: W @ 0 -> 727
+Checking: ! id: 519 timestamp: 1774666528099993000 count: 1
+Checking: W @ 0 -> 519
+Checking: ! id: 680 timestamp: 1774666528100031000 count: 1
+Checking: W @ 0 -> 680
+Checking: ! id: 551 timestamp: 1774666528100077000 count: 1
+Checking: W @ 0 -> 551
+Checking: ! id: 772 timestamp: 1774666528100116000 count: 1
+Checking: W @ 0 -> 772
+Checking: ! id: 583 timestamp: 1774666528100158000 count: 1
+Checking: W @ 0 -> 583
+Checking: ! id: 522 timestamp: 1774666528100201000 count: 1
+Checking: W @ 0 -> 522
+Checking: ! id: 604 timestamp: 1774666528100240000 count: 1
+Checking: W @ 0 -> 604
+Checking: ! id: 780 timestamp: 1774666528100278000 count: 1
+Checking: W @ 0 -> 780
+Checking: ! id: 636 timestamp: 1774666528100310000 count: 1
+Checking: W @ 0 -> 636
+Checking: ! id: 820 timestamp: 1774666528100349000 count: 1
+Checking: W @ 0 -> 820
+Checking: ! id: 812 timestamp: 1774666528100387000 count: 1
+Checking: W @ 0 -> 812
+Checking: ! id: 877 timestamp: 1774666528100426000 count: 1
+Checking: W @ 0 -> 877
+Checking: ! id: 770 timestamp: 1774666528100469000 count: 1
+Checking: W @ 0 -> 770
+Checking: ! id: 658 timestamp: 1774666528100507000 count: 1
+Checking: W @ 0 -> 658
+Checking: ! id: 802 timestamp: 1774666528100545000 count: 1
+Checking: W @ 0 -> 802
+Checking: ! id: 675 timestamp: 1774666528100593000 count: 1
+Checking: W @ 0 -> 675
+Checking: ! id: 477 timestamp: 1774666528100635000 count: 1
+Checking: W @ 0 -> 477
+Checking: ! id: 844 timestamp: 1774666528100674000 count: 1
+Checking: W @ 0 -> 844
+Checking: ! id: 668 timestamp: 1774666528100715000 count: 1
+Checking: W @ 0 -> 668
+Checking: ! id: 834 timestamp: 1774666528100757000 count: 1
+Checking: W @ 0 -> 834
+Checking: ! id: 700 timestamp: 1774666528100797000 count: 1
+Checking: W @ 0 -> 700
+Checking: ! id: 593 timestamp: 1774666528100841000 count: 1
+Checking: W @ 0 -> 593
+Checking: ! id: 891 timestamp: 1774666528100880000 count: 1
+Checking: W @ 0 -> 891
+Checking: ! id: 690 timestamp: 1774666528100922000 count: 1
+Checking: W @ 0 -> 690
+Checking: ! id: 707 timestamp: 1774666528100960000 count: 1
+Checking: W @ 0 -> 707
+Checking: ! id: 554 timestamp: 1774666528101004000 count: 1
+Checking: W @ 0 -> 554
+Checking: ! id: 600 timestamp: 1774666528101044000 count: 1
+Checking: W @ 0 -> 600
+Checking: ! id: 766 timestamp: 1774666528101084000 count: 1
+Checking: W @ 0 -> 766
+Checking: ! id: 750 timestamp: 1774666528101125000 count: 1
+Checking: W @ 0 -> 750
+Checking: ! id: 866 timestamp: 1774666528101160000 count: 1
+Checking: W @ 0 -> 866
+Checking: ! id: 909 timestamp: 1774666528101210000 count: 1
+Checking: W @ 0 -> 909
+Checking: ! id: 1017 timestamp: 1774666528101255000 count: 1
+Checking: W @ 0 -> 1017
+Checking: ! id: 632 timestamp: 1774666528101292000 count: 1
+Checking: W @ 0 -> 632
+Checking: ! id: 933 timestamp: 1774666528101334000 count: 1
+Checking: W @ 0 -> 933
+Checking: ! id: 732 timestamp: 1774666528101376000 count: 1
+Checking: W @ 0 -> 732
+Checking: ! id: 625 timestamp: 1774666528101416000 count: 1
+Checking: W @ 0 -> 625
+Checking: ! id: 764 timestamp: 1774666528101458000 count: 1
+Checking: W @ 0 -> 764
+Checking: ! id: 722 timestamp: 1774666528101500000 count: 1
+Checking: W @ 0 -> 722
+Checking: ! id: 876 timestamp: 1774666528101535000 count: 1
+Checking: W @ 0 -> 876
+Checking: ! id: 586 timestamp: 1774666528101575000 count: 1
+Checking: W @ 0 -> 586
+Checking: ! id: 754 timestamp: 1774666528101612000 count: 1
+Checking: W @ 0 -> 754
+Checking: ! id: 782 timestamp: 1774666528101652000 count: 1
+Checking: W @ 0 -> 782
+Checking: ! id: 495 timestamp: 1774666528101691000 count: 1
+Checking: W @ 0 -> 495
+Checking: ! id: 1014 timestamp: 1774666528101736000 count: 1
+Checking: W @ 0 -> 1014
+Checking: ! id: 794 timestamp: 1774666528101788000 count: 1
+Checking: W @ 0 -> 794
+Checking: ! id: 759 timestamp: 1774666528101823000 count: 1
+Checking: W @ 0 -> 759
+Checking: ! id: 786 timestamp: 1774666528101862000 count: 1
+Checking: W @ 0 -> 786
+Checking: ! id: 814 timestamp: 1774666528101893000 count: 1
+Checking: W @ 0 -> 814
+Checking: ! id: 941 timestamp: 1774666528101927000 count: 1
+Checking: W @ 0 -> 941
+Checking: ! id: 672 timestamp: 1774666528101968000 count: 1
+Checking: W @ 0 -> 672
+Checking: ! id: 592 timestamp: 1774666528102009000 count: 1
+Checking: W @ 0 -> 592
+Checking: ! id: 806 timestamp: 1774666528102045000 count: 1
+Checking: W @ 0 -> 806
+Checking: ! id: 965 timestamp: 1774666528102094000 count: 1
+Checking: W @ 0 -> 965
+Checking: ! id: 704 timestamp: 1774666528102134000 count: 1
+Checking: W @ 0 -> 704
+Checking: ! id: 618 timestamp: 1774666528102169000 count: 1
+Checking: W @ 0 -> 618
+Checking: ! id: 796 timestamp: 1774666528102206000 count: 1
+Checking: W @ 0 -> 796
+Checking: ! id: 650 timestamp: 1774666528102245000 count: 1
+Checking: W @ 0 -> 650
+Checking: ! id: 846 timestamp: 1774666528102274000 count: 1
+Checking: W @ 0 -> 846
+Checking: ! id: 798 timestamp: 1774666528102320000 count: 1
+Checking: W @ 0 -> 798
+Checking: ! id: 624 timestamp: 1774666528102357000 count: 1
+Checking: W @ 0 -> 624
+Checking: ! id: 509 timestamp: 1774666528102399000 count: 1
+Checking: W @ 0 -> 509
+Checking: ! id: 908 timestamp: 1774666528102441000 count: 1
+Checking: W @ 0 -> 908
+Checking: ! id: 804 timestamp: 1774666528102482000 count: 1
+Checking: W @ 0 -> 804
+Checking: ! id: 940 timestamp: 1774666528102519000 count: 1
+Checking: W @ 0 -> 940
+Checking: ! id: 712 timestamp: 1774666528102554000 count: 1
+Checking: W @ 0 -> 712
+Checking: ! id: 777 timestamp: 1774666528102593000 count: 1
+Checking: W @ 0 -> 777
+Checking: ! id: 657 timestamp: 1774666528102632000 count: 1
+Checking: W @ 0 -> 657
+Checking: ! id: 736 timestamp: 1774666528102669000 count: 1
+Checking: W @ 0 -> 736
+Checking: ! id: 689 timestamp: 1774666528102710000 count: 1
+Checking: W @ 0 -> 689
+Checking: ! id: 826 timestamp: 1774666528102751000 count: 1
+Checking: W @ 0 -> 826
+Checking: ! id: 838 timestamp: 1774666528102786000 count: 1
+Checking: W @ 0 -> 838
+Checking: ! id: 481 timestamp: 1774666528102821000 count: 1
+Checking: W @ 0 -> 481
+Checking: ! id: 878 timestamp: 1774666528102863000 count: 1
+Checking: W @ 0 -> 878
+Checking: ! id: 768 timestamp: 1774666528102899000 count: 1
+Checking: W @ 0 -> 768
+Checking: ! id: 972 timestamp: 1774666528102935000 count: 1
+Checking: W @ 0 -> 972
+Checking: ! id: 513 timestamp: 1774666528102973000 count: 1
+Checking: W @ 0 -> 513
+Checking: ! id: 898 timestamp: 1774666528103010000 count: 1
+Checking: W @ 0 -> 898
+Checking: ! id: 627 timestamp: 1774666528103050000 count: 1
+Checking: W @ 0 -> 627
+Checking: ! id: 541 timestamp: 1774666528103086000 count: 1
+Checking: W @ 0 -> 541
+Checking: ! id: 575 timestamp: 1774666528103128000 count: 1
+Checking: W @ 0 -> 575
+Checking: ! id: 615 timestamp: 1774666528103163000 count: 1
+Checking: W @ 0 -> 615
+Checking: ! id: 791 timestamp: 1774666528103199000 count: 1
+Checking: W @ 0 -> 791
+Checking: ! id: 830 timestamp: 1774666528103234000 count: 1
+Checking: W @ 0 -> 830
+Checking: ! id: 659 timestamp: 1774666528103268000 count: 1
+Checking: W @ 0 -> 659
+Checking: ! id: 789 timestamp: 1774666528103302000 count: 1
+Checking: W @ 0 -> 789
+Checking: ! id: 1004 timestamp: 1774666528103342000 count: 1
+Checking: W @ 0 -> 1004
+Checking: ! id: 545 timestamp: 1774666528103384000 count: 1
+Checking: W @ 0 -> 545
+Checking: ! id: 930 timestamp: 1774666528103423000 count: 1
+Checking: W @ 0 -> 930
+Checking: ! id: 656 timestamp: 1774666528103457000 count: 1
+Checking: W @ 0 -> 656
+Checking: ! id: 870 timestamp: 1774666528103496000 count: 1
+Checking: W @ 0 -> 870
+Checking: ! id: 744 timestamp: 1774666528103527000 count: 1
+Checking: W @ 0 -> 744
+Checking: ! id: 821 timestamp: 1774666528103562000 count: 1
+Checking: W @ 0 -> 821
+Checking: ! id: 800 timestamp: 1774666528103599000 count: 1
+Checking: W @ 0 -> 800
+Checking: ! id: 607 timestamp: 1774666528103632000 count: 1
+Checking: W @ 0 -> 607
+Checking: ! id: 809 timestamp: 1774666528103668000 count: 1
+Checking: W @ 0 -> 809
+Checking: ! id: 664 timestamp: 1774666528103703000 count: 1
+Checking: W @ 0 -> 664
+Checking: ! id: 639 timestamp: 1774666528103739000 count: 1
+Checking: W @ 0 -> 639
+Checking: ! id: 862 timestamp: 1774666528103774000 count: 1
+Checking: W @ 0 -> 862
+Checking: ! id: 853 timestamp: 1774666528103817000 count: 1
+Checking: W @ 0 -> 853
+Checking: ! id: 647 timestamp: 1774666528103848000 count: 1
+Checking: W @ 0 -> 647
+Checking: ! id: 527 timestamp: 1774666528103890000 count: 1
+Checking: W @ 0 -> 527
+Checking: ! id: 688 timestamp: 1774666528103932000 count: 1
+Checking: W @ 0 -> 688
+Checking: ! id: 894 timestamp: 1774666528103967000 count: 1
+Checking: W @ 0 -> 894
+Checking: ! id: 923 timestamp: 1774666528104003000 count: 1
+Checking: W @ 0 -> 923
+Checking: ! id: 776 timestamp: 1774666528104039000 count: 1
+Checking: W @ 0 -> 776
+Checking: ! id: 832 timestamp: 1774666528104082000 count: 1
+Checking: W @ 0 -> 832
+Checking: ! id: 573 timestamp: 1774666528104119000 count: 1
+Checking: W @ 0 -> 573
+Checking: ! id: 836 timestamp: 1774666528104149000 count: 1
+Checking: W @ 0 -> 836
+Checking: ! id: 605 timestamp: 1774666528104180000 count: 1
+Checking: W @ 0 -> 605
+Checking: ! id: 864 timestamp: 1774666528104214000 count: 1
+Checking: W @ 0 -> 864
+Checking: ! id: 720 timestamp: 1774666528104252000 count: 1
+Checking: W @ 0 -> 720
+Checking: ! id: 973 timestamp: 1774666528104285000 count: 1
+Checking: W @ 0 -> 973
+Checking: ! id: 696 timestamp: 1774666528104322000 count: 1
+Checking: W @ 0 -> 696
+Checking: ! id: 671 timestamp: 1774666528104356000 count: 1
+Checking: W @ 0 -> 671
+Checking: ! id: 682 timestamp: 1774666528104393000 count: 1
+Checking: W @ 0 -> 682
+Checking: ! id: 808 timestamp: 1774666528104422000 count: 1
+Checking: W @ 0 -> 808
+Checking: ! id: 910 timestamp: 1774666528104458000 count: 1
+Checking: W @ 0 -> 910
+Checking: ! id: 637 timestamp: 1774666528104500000 count: 1
+Checking: W @ 0 -> 637
+Checking: ! id: 703 timestamp: 1774666528104537000 count: 1
+Checking: W @ 0 -> 703
+Checking: ! id: 818 timestamp: 1774666528104573000 count: 1
+Checking: W @ 0 -> 818
+Checking: ! id: 942 timestamp: 1774666528104611000 count: 1
+Checking: W @ 0 -> 942
+Checking: ! id: 577 timestamp: 1774666528104645000 count: 1
+Checking: W @ 0 -> 577
+Checking: ! id: 840 timestamp: 1774666528104683000 count: 1
+Checking: W @ 0 -> 840
+Checking: ! id: 559 timestamp: 1774666528104716000 count: 1
+Checking: W @ 0 -> 559
+Checking: ! id: 997 timestamp: 1774666528104754000 count: 1
+Checking: W @ 0 -> 997
+Checking: ! id: 974 timestamp: 1774666528104787000 count: 1
+Checking: W @ 0 -> 974
+Checking: ! id: 1005 timestamp: 1774666528104819000 count: 1
+Checking: W @ 0 -> 1005
+Checking: ! id: 669 timestamp: 1774666528104848000 count: 1
+Checking: W @ 0 -> 669
+Checking: ! id: 955 timestamp: 1774666528104876000 count: 1
+Checking: W @ 0 -> 955
+Checking: ! id: 679 timestamp: 1774666528104908000 count: 1
+Checking: W @ 0 -> 679
+Checking: ! id: 701 timestamp: 1774666528104936000 count: 1
+Checking: W @ 0 -> 701
+Checking: ! id: 609 timestamp: 1774666528104971000 count: 1
+Checking: W @ 0 -> 609
+Checking: ! id: 811 timestamp: 1774666528104999000 count: 1
+Checking: W @ 0 -> 811
+Checking: ! id: 728 timestamp: 1774666528105029000 count: 1
+Checking: W @ 0 -> 728
+Checking: ! id: 841 timestamp: 1774666528105060000 count: 1
+Checking: W @ 0 -> 841
+Checking: ! id: 711 timestamp: 1774666528105088000 count: 1
+Checking: W @ 0 -> 711
+Checking: ! id: 873 timestamp: 1774666528105116000 count: 1
+Checking: W @ 0 -> 873
+Checking: ! id: 858 timestamp: 1774666528105151000 count: 1
+Checking: W @ 0 -> 858
+Checking: ! id: 739 timestamp: 1774666528105185000 count: 1
+Checking: W @ 0 -> 739
+Checking: ! id: 721 timestamp: 1774666528105217000 count: 1
+Checking: W @ 0 -> 721
+Checking: ! id: 691 timestamp: 1774666528105249000 count: 1
+Checking: W @ 0 -> 691
+Checking: ! id: 905 timestamp: 1774666528105279000 count: 1
+Checking: W @ 0 -> 905
+Checking: ! id: 743 timestamp: 1774666528105314000 count: 1
+Checking: W @ 0 -> 743
+Checking: ! id: 843 timestamp: 1774666528105348000 count: 1
+Checking: W @ 0 -> 843
+Checking: ! id: 987 timestamp: 1774666528105379000 count: 1
+Checking: W @ 0 -> 987
+Checking: ! id: 591 timestamp: 1774666528105411000 count: 1
+Checking: W @ 0 -> 591
+Checking: ! id: 1019 timestamp: 1774666528105441000 count: 1
+Checking: W @ 0 -> 1019
+Checking: ! id: 623 timestamp: 1774666528105475000 count: 1
+Checking: W @ 0 -> 623
+Checking: ! id: 760 timestamp: 1774666528105510000 count: 1
+Checking: W @ 0 -> 760
+Checking: ! id: 962 timestamp: 1774666528105540000 count: 1
+Checking: W @ 0 -> 962
+Checking: ! id: 792 timestamp: 1774666528105571000 count: 1
+Checking: W @ 0 -> 792
+Checking: ! id: 896 timestamp: 1774666528105801000 count: 1
+Checking: W @ 0 -> 896
+Checking: ! id: 641 timestamp: 1774666528105835000 count: 1
+Checking: W @ 0 -> 641
+Checking: ! id: 868 timestamp: 1774666528105866000 count: 1
+Checking: W @ 0 -> 868
+Checking: ! id: 890 timestamp: 1774666528105890000 count: 1
+Checking: W @ 0 -> 890
+Checking: ! id: 828 timestamp: 1774666528105922000 count: 1
+Checking: W @ 0 -> 828
+Checking: ! id: 753 timestamp: 1774666528105958000 count: 1
+Checking: W @ 0 -> 753
+Checking: ! id: 752 timestamp: 1774666528105987000 count: 1
+Checking: W @ 0 -> 752
+Checking: ! id: 771 timestamp: 1774666528106019000 count: 1
+Checking: W @ 0 -> 771
+Checking: ! id: 723 timestamp: 1774666528106047000 count: 1
+Checking: W @ 0 -> 723
+Checking: ! id: 1006 timestamp: 1774666528106079000 count: 1
+Checking: W @ 0 -> 1006
+Checking: ! id: 900 timestamp: 1774666528106106000 count: 1
+Checking: W @ 0 -> 900
+Checking: ! id: 823 timestamp: 1774666528106139000 count: 1
+Checking: W @ 0 -> 823
+Checking: ! id: 852 timestamp: 1774666528106168000 count: 1
+Checking: W @ 0 -> 852
+Checking: ! id: 775 timestamp: 1774666528106203000 count: 1
+Checking: W @ 0 -> 775
+Checking: ! id: 937 timestamp: 1774666528106235000 count: 1
+Checking: W @ 0 -> 937
+Checking: ! id: 735 timestamp: 1774666528106267000 count: 1
+Checking: W @ 0 -> 735
+Checking: ! id: 824 timestamp: 1774666528106296000 count: 1
+Checking: W @ 0 -> 824
+Checking: ! id: 767 timestamp: 1774666528106324000 count: 1
+Checking: W @ 0 -> 767
+Checking: ! id: 733 timestamp: 1774666528106357000 count: 1
+Checking: W @ 0 -> 733
+Checking: ! id: 872 timestamp: 1774666528106390000 count: 1
+Checking: W @ 0 -> 872
+Checking: ! id: 926 timestamp: 1774666528106423000 count: 1
+Checking: W @ 0 -> 926
+Checking: ! id: 875 timestamp: 1774666528106455000 count: 1
+Checking: W @ 0 -> 875
+Checking: ! id: 932 timestamp: 1774666528106480000 count: 1
+Checking: W @ 0 -> 932
+Checking: ! id: 784 timestamp: 1774666528106513000 count: 1
+Checking: W @ 0 -> 784
+Checking: ! id: 803 timestamp: 1774666528106543000 count: 1
+Checking: W @ 0 -> 803
+Checking: ! id: 902 timestamp: 1774666528106575000 count: 1
+Checking: W @ 0 -> 902
+Checking: ! id: 904 timestamp: 1774666528106609000 count: 1
+Checking: W @ 0 -> 904
+Checking: ! id: 928 timestamp: 1774666528106637000 count: 1
+Checking: W @ 0 -> 928
+Checking: ! id: 856 timestamp: 1774666528106666000 count: 1
+Checking: W @ 0 -> 856
+Checking: ! id: 860 timestamp: 1774666528106701000 count: 1
+Checking: W @ 0 -> 860
+Checking: ! id: 922 timestamp: 1774666528106735000 count: 1
+Checking: W @ 0 -> 922
+Checking: ! id: 907 timestamp: 1774666528106765000 count: 1
+Checking: W @ 0 -> 907
+Checking: ! id: 655 timestamp: 1774666528106795000 count: 1
+Checking: W @ 0 -> 655
+Checking: ! id: 835 timestamp: 1774666528106822000 count: 1
+Checking: W @ 0 -> 835
+Checking: ! id: 960 timestamp: 1774666528106847000 count: 1
+Checking: W @ 0 -> 960
+Checking: ! id: 850 timestamp: 1774666528106876000 count: 1
+Checking: W @ 0 -> 850
+Checking: ! id: 992 timestamp: 1774666528106910000 count: 1
+Checking: W @ 0 -> 992
+Checking: ! id: 765 timestamp: 1774666528106939000 count: 1
+Checking: W @ 0 -> 765
+Checking: ! id: 994 timestamp: 1774666528106966000 count: 1
+Checking: W @ 0 -> 994
+Checking: ! id: 785 timestamp: 1774666528107001000 count: 1
+Checking: W @ 0 -> 785
+Checking: ! id: 892 timestamp: 1774666528107032000 count: 1
+Checking: W @ 0 -> 892
+Checking: ! id: 1024 timestamp: 1774666528107064000 count: 1
+Checking: W @ 0 -> 1024
+Checking: ! id: 673 timestamp: 1774666528107099000 count: 1
+Checking: W @ 0 -> 673
+Checking: ! id: 958 timestamp: 1774666528107127000 count: 1
+Checking: W @ 0 -> 958
+Checking: ! id: 799 timestamp: 1774666528107153000 count: 1
+Checking: W @ 0 -> 799
+Checking: ! id: 885 timestamp: 1774666528107178000 count: 1
+Checking: W @ 0 -> 885
+Checking: ! id: 964 timestamp: 1774666528107202000 count: 1
+Checking: W @ 0 -> 964
+Checking: ! id: 934 timestamp: 1774666528107228000 count: 1
+Checking: W @ 0 -> 934
+Checking: ! id: 816 timestamp: 1774666528107254000 count: 1
+Checking: W @ 0 -> 816
+Checking: ! id: 939 timestamp: 1774666528107289000 count: 1
+Checking: W @ 0 -> 939
+Checking: ! id: 917 timestamp: 1774666528107316000 count: 1
+Checking: W @ 0 -> 917
+Checking: ! id: 884 timestamp: 1774666528107345000 count: 1
+Checking: W @ 0 -> 884
+Checking: ! id: 888 timestamp: 1774666528107376000 count: 1
+Checking: W @ 0 -> 888
+Checking: ! id: 817 timestamp: 1774666528107404000 count: 1
+Checking: W @ 0 -> 817
+Checking: ! id: 687 timestamp: 1774666528107432000 count: 1
+Checking: W @ 0 -> 687
+Checking: ! id: 849 timestamp: 1774666528107458000 count: 1
+Checking: W @ 0 -> 849
+Checking: ! id: 971 timestamp: 1774666528107484000 count: 1
+Checking: W @ 0 -> 971
+Checking: ! id: 916 timestamp: 1774666528107509000 count: 1
+Checking: W @ 0 -> 916
+Checking: ! id: 855 timestamp: 1774666528107536000 count: 1
+Checking: W @ 0 -> 855
+Checking: ! id: 969 timestamp: 1774666528107566000 count: 1
+Checking: W @ 0 -> 969
+Checking: ! id: 954 timestamp: 1774666528107597000 count: 1
+Checking: W @ 0 -> 954
+Checking: ! id: 848 timestamp: 1774666528107629000 count: 1
+Checking: W @ 0 -> 848
+Checking: ! id: 1001 timestamp: 1774666528107660000 count: 1
+Checking: W @ 0 -> 1001
+Checking: ! id: 797 timestamp: 1774666528107683000 count: 1
+Checking: W @ 0 -> 797
+Checking: ! id: 996 timestamp: 1774666528107720000 count: 1
+Checking: W @ 0 -> 996
+Checking: ! id: 807 timestamp: 1774666528107749000 count: 1
+Checking: W @ 0 -> 807
+Checking: ! id: 920 timestamp: 1774666528107776000 count: 1
+Checking: W @ 0 -> 920
+Checking: ! id: 839 timestamp: 1774666528107807000 count: 1
+Checking: W @ 0 -> 839
+Checking: ! id: 880 timestamp: 1774666528107831000 count: 1
+Checking: W @ 0 -> 880
+Checking: ! id: 714 timestamp: 1774666528107861000 count: 1
+Checking: W @ 0 -> 714
+Checking: ! id: 924 timestamp: 1774666528107889000 count: 1
+Checking: W @ 0 -> 924
+Checking: ! id: 831 timestamp: 1774666528107914000 count: 1
+Checking: W @ 0 -> 831
+Checking: ! id: 719 timestamp: 1774666528107939000 count: 1
+Checking: W @ 0 -> 719
+Checking: ! id: 949 timestamp: 1774666528107970000 count: 1
+Checking: W @ 0 -> 949
+Checking: ! id: 829 timestamp: 1774666528107992000 count: 1
+Checking: W @ 0 -> 829
+Checking: ! id: 981 timestamp: 1774666528108023000 count: 1
+Checking: W @ 0 -> 981
+Checking: ! id: 867 timestamp: 1774666528108050000 count: 1
+Checking: W @ 0 -> 867
+Checking: ! id: 705 timestamp: 1774666528108078000 count: 1
+Checking: W @ 0 -> 705
+Checking: ! id: 936 timestamp: 1774666528108109000 count: 1
+Checking: W @ 0 -> 936
+Checking: ! id: 948 timestamp: 1774666528108139000 count: 1
+Checking: W @ 0 -> 948
+Checking: ! id: 966 timestamp: 1774666528108162000 count: 1
+Checking: W @ 0 -> 966
+Checking: ! id: 986 timestamp: 1774666528108190000 count: 1
+Checking: W @ 0 -> 986
+Checking: ! id: 952 timestamp: 1774666528108218000 count: 1
+Checking: W @ 0 -> 952
+Checking: ! id: 755 timestamp: 1774666528108246000 count: 1
+Checking: W @ 0 -> 755
+Checking: ! id: 968 timestamp: 1774666528108272000 count: 1
+Checking: W @ 0 -> 968
+Checking: ! id: 912 timestamp: 1774666528108301000 count: 1
+Checking: W @ 0 -> 912
+Checking: ! id: 737 timestamp: 1774666528108326000 count: 1
+Checking: W @ 0 -> 737
+Checking: ! id: 998 timestamp: 1774666528108360000 count: 1
+Checking: W @ 0 -> 998
+Checking: ! id: 1000 timestamp: 1774666528108391000 count: 1
+Checking: W @ 0 -> 1000
+Checking: ! id: 899 timestamp: 1774666528108415000 count: 1
+Checking: W @ 0 -> 899
+Checking: ! id: 881 timestamp: 1774666528108446000 count: 1
+Checking: W @ 0 -> 881
+Checking: ! id: 980 timestamp: 1774666528108473000 count: 1
+Checking: W @ 0 -> 980
+Checking: ! id: 931 timestamp: 1774666528108497000 count: 1
+Checking: W @ 0 -> 931
+Checking: ! id: 863 timestamp: 1774666528108521000 count: 1
+Checking: W @ 0 -> 863
+Checking: ! id: 913 timestamp: 1774666528108543000 count: 1
+Checking: W @ 0 -> 913
+Checking: ! id: 1018 timestamp: 1774666528108570000 count: 1
+Checking: W @ 0 -> 1018
+Checking: ! id: 944 timestamp: 1774666528108601000 count: 1
+Checking: W @ 0 -> 944
+Checking: ! id: 984 timestamp: 1774666528108626000 count: 1
+Checking: W @ 0 -> 984
+Checking: ! id: 751 timestamp: 1774666528108648000 count: 1
+Checking: W @ 0 -> 751
+Checking: ! id: 1012 timestamp: 1774666528108666000 count: 1
+Checking: W @ 0 -> 1012
+Checking: ! id: 783 timestamp: 1774666528108692000 count: 1
+Checking: W @ 0 -> 783
+Checking: ! id: 1016 timestamp: 1774666528108715000 count: 1
+Checking: W @ 0 -> 1016
+Checking: ! id: 769 timestamp: 1774666528108739000 count: 1
+Checking: W @ 0 -> 769
+Checking: ! id: 1003 timestamp: 1774666528108763000 count: 1
+Checking: W @ 0 -> 1003
+Checking: ! id: 976 timestamp: 1774666528108783000 count: 1
+Checking: W @ 0 -> 976
+Checking: ! id: 956 timestamp: 1774666528108805000 count: 1
+Checking: W @ 0 -> 956
+Checking: ! id: 945 timestamp: 1774666528108823000 count: 1
+Checking: W @ 0 -> 945
+Checking: ! id: 882 timestamp: 1774666528108844000 count: 1
+Checking: W @ 0 -> 882
+Checking: ! id: 963 timestamp: 1774666528108861000 count: 1
+Checking: W @ 0 -> 963
+Checking: ! id: 887 timestamp: 1774666528108882000 count: 1
+Checking: W @ 0 -> 887
+Checking: ! id: 746 timestamp: 1774666528108900000 count: 1
+Checking: W @ 0 -> 746
+Checking: ! id: 1013 timestamp: 1774666528108921000 count: 1
+Checking: W @ 0 -> 1013
+Checking: ! id: 871 timestamp: 1774666528108943000 count: 1
+Checking: W @ 0 -> 871
+Checking: ! id: 815 timestamp: 1774666528108964000 count: 1
+Checking: W @ 0 -> 815
+Checking: ! id: 1008 timestamp: 1774666528108977000 count: 1
+Checking: W @ 0 -> 1008
+Checking: ! id: 895 timestamp: 1774666528108995000 count: 1
+Checking: W @ 0 -> 895
+Checking: ! id: 847 timestamp: 1774666528109012000 count: 1
+Checking: W @ 0 -> 847
+Checking: ! id: 801 timestamp: 1774666528109038000 count: 1
+Checking: W @ 0 -> 801
+Checking: ! id: 778 timestamp: 1774666528109057000 count: 1
+Checking: W @ 0 -> 778
+Checking: ! id: 787 timestamp: 1774666528109074000 count: 1
+Checking: W @ 0 -> 787
+Checking: ! id: 990 timestamp: 1774666528109094000 count: 1
+Checking: W @ 0 -> 990
+Checking: ! id: 914 timestamp: 1774666528109113000 count: 1
+Checking: W @ 0 -> 914
+Checking: ! id: 919 timestamp: 1774666528109137000 count: 1
+Checking: W @ 0 -> 919
+Checking: ! id: 819 timestamp: 1774666528109155000 count: 1
+Checking: W @ 0 -> 819
+Checking: ! id: 833 timestamp: 1774666528109175000 count: 1
+Checking: W @ 0 -> 833
+Checking: ! id: 879 timestamp: 1774666528109200000 count: 1
+Checking: W @ 0 -> 879
+Checking: ! id: 861 timestamp: 1774666528109219000 count: 1
+Checking: W @ 0 -> 861
+Checking: ! id: 988 timestamp: 1774666528109233000 count: 1
+Checking: W @ 0 -> 988
+Checking: ! id: 810 timestamp: 1774666528109250000 count: 1
+Checking: W @ 0 -> 810
+Checking: ! id: 911 timestamp: 1774666528109268000 count: 1
+Checking: W @ 0 -> 911
+Checking: ! id: 995 timestamp: 1774666528109292000 count: 1
+Checking: W @ 0 -> 995
+Checking: ! id: 893 timestamp: 1774666528109314000 count: 1
+Checking: W @ 0 -> 893
+Checking: ! id: 903 timestamp: 1774666528109330000 count: 1
+Checking: W @ 0 -> 903
+Checking: ! id: 951 timestamp: 1774666528109350000 count: 1
+Checking: W @ 0 -> 951
+Checking: ! id: 946 timestamp: 1774666528109367000 count: 1
+Checking: W @ 0 -> 946
+Checking: ! id: 935 timestamp: 1774666528109383000 count: 1
+Checking: W @ 0 -> 935
+Checking: ! id: 1020 timestamp: 1774666528109400000 count: 1
+Checking: W @ 0 -> 1020
+Checking: ! id: 842 timestamp: 1774666528109413000 count: 1
+Checking: W @ 0 -> 842
+Checking: ! id: 977 timestamp: 1774666528109434000 count: 1
+Checking: W @ 0 -> 977
+Checking: ! id: 927 timestamp: 1774666528109448000 count: 1
+Checking: W @ 0 -> 927
+Checking: ! id: 1009 timestamp: 1774666528109467000 count: 1
+Checking: W @ 0 -> 1009
+Checking: ! id: 978 timestamp: 1774666528109479000 count: 1
+Checking: W @ 0 -> 978
+Checking: ! id: 943 timestamp: 1774666528109494000 count: 1
+Checking: W @ 0 -> 943
+Checking: ! id: 959 timestamp: 1774666528109508000 count: 1
+Checking: W @ 0 -> 959
+Checking: ! id: 975 timestamp: 1774666528109529000 count: 1
+Checking: W @ 0 -> 975
+Checking: ! id: 865 timestamp: 1774666528109541000 count: 1
+Checking: W @ 0 -> 865
+Checking: ! id: 851 timestamp: 1774666528109557000 count: 1
+Checking: W @ 0 -> 851
+Checking: ! id: 967 timestamp: 1774666528109576000 count: 1
+Checking: W @ 0 -> 967
+Checking: ! id: 1007 timestamp: 1774666528109590000 count: 1
+Checking: W @ 0 -> 1007
+Checking: ! id: 897 timestamp: 1774666528109603000 count: 1
+Checking: W @ 0 -> 897
+Checking: ! id: 1022 timestamp: 1774666528109619000 count: 1
+Checking: W @ 0 -> 1022
+Checking: ! id: 991 timestamp: 1774666528109631000 count: 1
+Checking: W @ 0 -> 991
+Checking: ! id: 999 timestamp: 1774666528109642000 count: 1
+Checking: W @ 0 -> 999
+Checking: ! id: 1023 timestamp: 1774666528109652000 count: 1
+Checking: W @ 0 -> 1023
+Checking: ! id: 874 timestamp: 1774666528109663000 count: 1
+Checking: W @ 0 -> 874
+Checking: ! id: 983 timestamp: 1774666528109674000 count: 1
+Checking: W @ 0 -> 983
+Checking: ! id: 929 timestamp: 1774666528109688000 count: 1
+Checking: W @ 0 -> 929
+Checking: ! id: 925 timestamp: 1774666528109704000 count: 1
+Checking: W @ 0 -> 925
+Checking: ! id: 906 timestamp: 1774666528109714000 count: 1
+Checking: W @ 0 -> 906
+Checking: ! id: 883 timestamp: 1774666528109725000 count: 1
+Checking: W @ 0 -> 883
+Checking: ! id: 1015 timestamp: 1774666528109734000 count: 1
+Checking: W @ 0 -> 1015
+Checking: ! id: 938 timestamp: 1774666528109744000 count: 1
+Checking: W @ 0 -> 938
+Checking: ! id: 915 timestamp: 1774666528109753000 count: 1
+Checking: W @ 0 -> 915
+Checking: ! id: 961 timestamp: 1774666528109765000 count: 1
+Checking: W @ 0 -> 961
+Checking: ! id: 957 timestamp: 1774666528109774000 count: 1
+Checking: W @ 0 -> 957
+Checking: ! id: 993 timestamp: 1774666528109784000 count: 1
+Checking: W @ 0 -> 993
+Checking: ! id: 989 timestamp: 1774666528109792000 count: 1
+Checking: W @ 0 -> 989
+Checking: ! id: 970 timestamp: 1774666528109801000 count: 1
+Checking: W @ 0 -> 970
+Checking: ! id: 1021 timestamp: 1774666528109807000 count: 1
+Checking: W @ 0 -> 1021
+Checking: ! id: 1002 timestamp: 1774666528109815000 count: 1
+Checking: W @ 0 -> 1002
+Checking: ! id: 947 timestamp: 1774666528109820000 count: 1
+Checking: W @ 0 -> 947
+Checking: ! id: 1010 timestamp: 1774666528109825000 count: 1
+Checking: W @ 0 -> 1010
+Checking: ! id: 979 timestamp: 1774666528109828000 count: 1
+Checking: W @ 0 -> 979
+Checking: ! id: 1011 timestamp: 1774666528109834000 count: 1
+Checking: W @ 0 -> 1011
+stm stderr: 
+stm stderr: [33mNumber of goroutines after the engine is shutdown: 2[0m
+stm stderr: [32mgoroutine 1 [running]:
+stm stderr: main.main()
+stm stderr: 	/Users/kenji/Documents/Y3S2/CS3211/cs3211-a2-a2_a0276238w_a0286456n/main/main.go:83 +0x498
+stm stderr: 
+stm stderr: goroutine 34 [syscall]:
+stm stderr: os/signal.signal_recv()
+stm stderr: 	/usr/local/go/src/runtime/sigqueue.go:149 +0x108
+stm stderr: os/signal.loop()
+stm stderr: 	/usr/local/go/src/os/signal/signal_unix.go:23 +0x1c
+stm stderr: created by os/signal.Notify.func1.1 in goroutine 7
+stm stderr: 	/usr/local/go/src/os/signal/signal.go:152 +0x28
+stm stderr: [0mstm stderr closed
+test passed.
+test passed

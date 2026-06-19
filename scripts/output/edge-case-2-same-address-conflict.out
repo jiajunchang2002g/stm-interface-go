@@ -1,0 +1,58 @@
+stm stderr: 
+stm stderr: [33mNumber of goroutines before the engine is initialised: 4[0m
+client thread 0 connected, waiting for others...
+client thread 1 connected, waiting for others...
+client thread 7 connected, waiting for others...
+client thread 3 connected, waiting for others...
+client thread 2 connected, waiting for others...
+client thread 4 connected, waiting for others...
+client thread 5 connected, waiting for others...
+client thread 6 connected, waiting for others...
+STM stdout: ! id: 5 timestamp: 1774666445873333000 count: 1
+STM stdout: W @ 5 -> 600
+STM stdout: ! id: 2 timestamp: 1774666445873506000 count: 1
+STM stdout: W @ 5 -> 300
+STM stdout: ! id: 4 timestamp: 1774666445873546000 count: 1
+STM stdout: W @ 5 -> 500
+STM stdout: ! id: 0 timestamp: 1774666445873593000 count: 1
+STM stdout: W @ 5 -> 100
+STM stdout: ! id: 7 timestamp: 1774666445873627000 count: 1
+STM stdout: W @ 5 -> 800
+STM stdout: ! id: 1 timestamp: 1774666445873653000 count: 1
+STM stdout: W @ 5 -> 200
+STM stdout: ! id: 3 timestamp: 1774666445873669000 count: 1
+STM stdout: W @ 5 -> 400
+STM stdout: ! id: 6 timestamp: 1774666445873674000 count: 1
+STM stdout: W @ 5 -> 700
+Checking: ! id: 5 timestamp: 1774666445873333000 count: 1
+Checking: W @ 5 -> 600
+Checking: ! id: 2 timestamp: 1774666445873506000 count: 1
+Checking: W @ 5 -> 300
+Checking: ! id: 4 timestamp: 1774666445873546000 count: 1
+Checking: W @ 5 -> 500
+Checking: ! id: 0 timestamp: 1774666445873593000 count: 1
+Checking: W @ 5 -> 100
+Checking: ! id: 7 timestamp: 1774666445873627000 count: 1
+Checking: W @ 5 -> 800
+Checking: ! id: 1 timestamp: 1774666445873653000 count: 1
+Checking: W @ 5 -> 200
+Checking: ! id: 3 timestamp: 1774666445873669000 count: 1
+Checking: W @ 5 -> 400
+Checking: ! id: 6 timestamp: 1774666445873674000 count: 1
+Checking: W @ 5 -> 700
+stm stderr: 
+stm stderr: [33mNumber of goroutines after the engine is shutdown: 2[0m
+stm stderr: [32mgoroutine 1 [running]:
+stm stderr: main.main()
+stm stderr: 	/Users/kenji/Documents/Y3S2/CS3211/cs3211-a2-a2_a0276238w_a0286456n/main/main.go:83 +0x498
+stm stderr: 
+stm stderr: goroutine 34 [syscall]:
+stm stderr: os/signal.signal_recv()
+stm stderr: 	/usr/local/go/src/runtime/sigqueue.go:149 +0x108
+stm stderr: os/signal.loop()
+stm stderr: 	/usr/local/go/src/os/signal/signal_unix.go:23 +0x1c
+stm stderr: created by os/signal.Notify.func1.1 in goroutine 7
+stm stderr: 	/usr/local/go/src/os/signal/signal.go:152 +0x28
+stm stderr: [0mstm stderr closed
+test passed.
+test passed

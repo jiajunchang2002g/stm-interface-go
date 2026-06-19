@@ -1,0 +1,31 @@
+# hard-wait-sync-0.in
+4
+0-3 o
+
+# Thread 0 writes a value and commits
+0 S 300
+0 W 50 500
+0 C 300
+
+# Thread 1 WAITS for Thread 0's transaction (300) to commit before starting
+1 w 300
+1 S 301
+1 R 50
+1 C 301
+
+# Barrier: Ensure Threads 0 and 1 are done before moving on
+0,1 .
+
+# Thread 2 overwrites it
+2 S 302
+2 W 50 999
+2 C 302
+
+# Thread 3 WAITS for Thread 2's transaction (302) to commit
+3 w 302
+3 S 303
+3 R 50
+3 C 303
+
+.
+0-3 x

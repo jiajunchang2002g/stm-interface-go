@@ -1,0 +1,178 @@
+stm stderr: 
+stm stderr: [33mNumber of goroutines before the engine is initialised: 4[0m
+client thread 3 connected, waiting for others...
+client thread 8 connected, waiting for others...
+client thread 10 connected, waiting for others...
+client thread 0 connected, waiting for others...
+client thread 9 connected, waiting for others...
+client thread 11 connected, waiting for others...
+client thread 1 connected, waiting for others...
+client thread 5 connected, waiting for others...
+client thread 13 connected, waiting for others...
+client thread 14 connected, waiting for others...
+client thread 4 connected, waiting for others...
+client thread 6 connected, waiting for others...
+client thread 16 connected, waiting for others...
+client thread 15 connected, waiting for others...
+client thread 12 connected, waiting for others...
+client thread 7 connected, waiting for others...
+client thread 19 connected, waiting for others...
+client thread 23 connected, waiting for others...
+client thread 25 connected, waiting for others...
+client thread 22 connected, waiting for others...
+client thread 26 connected, waiting for others...
+client thread 20 connected, waiting for others...
+client thread 28 connected, waiting for others...
+client thread 29 connected, waiting for others...
+client thread 18 connected, waiting for others...
+client thread 17 connected, waiting for others...
+client thread 21 connected, waiting for others...
+client thread 24 connected, waiting for others...
+client thread 31 connected, waiting for others...
+client thread 27 connected, waiting for others...
+client thread 2 connected, waiting for others...
+client thread 30 connected, waiting for others...
+STM stdout: ! id: 21 timestamp: 1774666500364125000 count: 1
+STM stdout: W @ 21 -> 21
+STM stdout: ! id: 17 timestamp: 1774666500364170000 count: 1
+STM stdout: W @ 17 -> 17
+STM stdout: ! id: 28 timestamp: 1774666500364184000 count: 1
+STM stdout: W @ 28 -> 28
+STM stdout: ! id: 27 timestamp: 1774666500364131000 count: 1
+STM stdout: W @ 27 -> 27
+STM stdout: ! id: 29 timestamp: 1774666500364195000 count: 1
+STM stdout: W @ 29 -> 29
+STM stdout: ! id: 30 timestamp: 1774666500364143000 count: 1
+STM stdout: W @ 30 -> 30
+STM stdout: ! id: 24 timestamp: 1774666500364149000 count: 1
+STM stdout: W @ 24 -> 24
+STM stdout: ! id: 18 timestamp: 1774666500364208000 count: 1
+STM stdout: W @ 18 -> 18
+STM stdout: ! id: 20 timestamp: 1774666500364224000 count: 1
+STM stdout: W @ 20 -> 20
+STM stdout: ! id: 5 timestamp: 1774666500364554000 count: 1
+STM stdout: W @ 5 -> 5
+STM stdout: ! id: 15 timestamp: 1774666500364564000 count: 1
+STM stdout: W @ 15 -> 15
+STM stdout: ! id: 11 timestamp: 1774666500364574000 count: 1
+STM stdout: W @ 11 -> 11
+STM stdout: ! id: 9 timestamp: 1774666500364579000 count: 1
+STM stdout: W @ 9 -> 9
+STM stdout: ! id: 4 timestamp: 1774666500364587000 count: 1
+STM stdout: W @ 4 -> 4
+STM stdout: ! id: 13 timestamp: 1774666500364595000 count: 1
+STM stdout: W @ 13 -> 13
+STM stdout: ! id: 2 timestamp: 1774666500364602000 count: 1
+STM stdout: W @ 2 -> 2
+STM stdout: ! id: 12 timestamp: 1774666500364612000 count: 1
+STM stdout: W @ 12 -> 12
+STM stdout: ! id: 6 timestamp: 1774666500364634000 count: 1
+STM stdout: W @ 6 -> 6
+STM stdout: ! id: 16 timestamp: 1774666500364647000 count: 1
+STM stdout: W @ 16 -> 16
+STM stdout: ! id: 26 timestamp: 1774666500364654000 count: 1
+STM stdout: W @ 26 -> 26
+STM stdout: ! id: 0 timestamp: 1774666500364661000 count: 1
+STM stdout: W @ 0 -> 0
+STM stdout: ! id: 23 timestamp: 1774666500364670000 count: 1
+STM stdout: W @ 23 -> 23
+STM stdout: ! id: 22 timestamp: 1774666500364681000 count: 1
+STM stdout: W @ 22 -> 22
+STM stdout: ! id: 8 timestamp: 1774666500364683000 count: 1
+STM stdout: W @ 8 -> 8
+STM stdout: ! id: 10 timestamp: 1774666500364695000 count: 1
+STM stdout: W @ 10 -> 10
+STM stdout: ! id: 1 timestamp: 1774666500364697000 count: 1
+STM stdout: W @ 1 -> 1
+STM stdout: ! id: 3 timestamp: 1774666500364707000 count: 1
+STM stdout: W @ 3 -> 3
+STM stdout: ! id: 14 timestamp: 1774666500364712000 count: 1
+STM stdout: W @ 14 -> 14
+STM stdout: ! id: 25 timestamp: 1774666500364721000 count: 1
+STM stdout: W @ 25 -> 25
+STM stdout: ! id: 19 timestamp: 1774666500364726000 count: 1
+STM stdout: W @ 19 -> 19
+STM stdout: ! id: 7 timestamp: 1774666500364624000 count: 1
+STM stdout: W @ 7 -> 7
+STM stdout: ! id: 31 timestamp: 1774666500364785000 count: 1
+STM stdout: W @ 255 -> 4294967295
+Checking: ! id: 21 timestamp: 1774666500364125000 count: 1
+Checking: W @ 21 -> 21
+Checking: ! id: 27 timestamp: 1774666500364131000 count: 1
+Checking: W @ 27 -> 27
+Checking: ! id: 30 timestamp: 1774666500364143000 count: 1
+Checking: W @ 30 -> 30
+Checking: ! id: 24 timestamp: 1774666500364149000 count: 1
+Checking: W @ 24 -> 24
+Checking: ! id: 17 timestamp: 1774666500364170000 count: 1
+Checking: W @ 17 -> 17
+Checking: ! id: 28 timestamp: 1774666500364184000 count: 1
+Checking: W @ 28 -> 28
+Checking: ! id: 29 timestamp: 1774666500364195000 count: 1
+Checking: W @ 29 -> 29
+Checking: ! id: 18 timestamp: 1774666500364208000 count: 1
+Checking: W @ 18 -> 18
+Checking: ! id: 20 timestamp: 1774666500364224000 count: 1
+Checking: W @ 20 -> 20
+Checking: ! id: 5 timestamp: 1774666500364554000 count: 1
+Checking: W @ 5 -> 5
+Checking: ! id: 15 timestamp: 1774666500364564000 count: 1
+Checking: W @ 15 -> 15
+Checking: ! id: 11 timestamp: 1774666500364574000 count: 1
+Checking: W @ 11 -> 11
+Checking: ! id: 9 timestamp: 1774666500364579000 count: 1
+Checking: W @ 9 -> 9
+Checking: ! id: 4 timestamp: 1774666500364587000 count: 1
+Checking: W @ 4 -> 4
+Checking: ! id: 13 timestamp: 1774666500364595000 count: 1
+Checking: W @ 13 -> 13
+Checking: ! id: 2 timestamp: 1774666500364602000 count: 1
+Checking: W @ 2 -> 2
+Checking: ! id: 12 timestamp: 1774666500364612000 count: 1
+Checking: W @ 12 -> 12
+Checking: ! id: 7 timestamp: 1774666500364624000 count: 1
+Checking: W @ 7 -> 7
+Checking: ! id: 6 timestamp: 1774666500364634000 count: 1
+Checking: W @ 6 -> 6
+Checking: ! id: 16 timestamp: 1774666500364647000 count: 1
+Checking: W @ 16 -> 16
+Checking: ! id: 26 timestamp: 1774666500364654000 count: 1
+Checking: W @ 26 -> 26
+Checking: ! id: 0 timestamp: 1774666500364661000 count: 1
+Checking: W @ 0 -> 0
+Checking: ! id: 23 timestamp: 1774666500364670000 count: 1
+Checking: W @ 23 -> 23
+Checking: ! id: 22 timestamp: 1774666500364681000 count: 1
+Checking: W @ 22 -> 22
+Checking: ! id: 8 timestamp: 1774666500364683000 count: 1
+Checking: W @ 8 -> 8
+Checking: ! id: 10 timestamp: 1774666500364695000 count: 1
+Checking: W @ 10 -> 10
+Checking: ! id: 1 timestamp: 1774666500364697000 count: 1
+Checking: W @ 1 -> 1
+Checking: ! id: 3 timestamp: 1774666500364707000 count: 1
+Checking: W @ 3 -> 3
+Checking: ! id: 14 timestamp: 1774666500364712000 count: 1
+Checking: W @ 14 -> 14
+Checking: ! id: 25 timestamp: 1774666500364721000 count: 1
+Checking: W @ 25 -> 25
+Checking: ! id: 19 timestamp: 1774666500364726000 count: 1
+Checking: W @ 19 -> 19
+Checking: ! id: 31 timestamp: 1774666500364785000 count: 1
+Checking: W @ 255 -> 4294967295
+stm stderr: 
+stm stderr: [33mNumber of goroutines after the engine is shutdown: 2[0m
+stm stderr: [32mgoroutine 1 [running]:
+stm stderr: main.main()
+stm stderr: 	/Users/kenji/Documents/Y3S2/CS3211/cs3211-a2-a2_a0276238w_a0286456n/main/main.go:83 +0x498
+stm stderr: 
+stm stderr: goroutine 34 [syscall]:
+stm stderr: os/signal.signal_recv()
+stm stderr: 	/usr/local/go/src/runtime/sigqueue.go:149 +0x108
+stm stderr: os/signal.loop()
+stm stderr: 	/usr/local/go/src/os/signal/signal_unix.go:23 +0x1c
+stm stderr: created by os/signal.Notify.func1.1 in goroutine 7
+stm stderr: 	/usr/local/go/src/os/signal/signal.go:152 +0x28
+stm stderr: [0mstm stderr closed
+test passed.
+test passed

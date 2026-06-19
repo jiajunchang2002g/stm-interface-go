@@ -1,0 +1,35 @@
+# intermediate-hot-spot-0.in
+4
+0-3 o
+
+# Synchronize all threads to start at the exact same time
+.
+
+# All 4 threads start a transaction
+0 S 100
+1 S 101
+2 S 102
+3 S 103
+
+# All threads read from the highly contested "hot spot" (Address 42)
+0 R 42
+1 R 42
+2 R 42
+3 R 42
+
+# All threads try to write to the hot spot
+0 W 42 10
+1 W 42 20
+2 W 42 30
+3 W 42 40
+
+# All threads attempt to commit simultaneously
+# 3 of these should naturally abort and retry under the hood
+0 C 100
+1 C 101
+2 C 102
+3 C 103
+
+# Wait for everyone to finish
+.
+0-3 x

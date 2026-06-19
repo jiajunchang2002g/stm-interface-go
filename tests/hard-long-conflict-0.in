@@ -1,0 +1,46 @@
+# hard-long-conflict-0.in
+2
+0-1 o
+.
+
+0 S 0
+1 S 1
+
+# Thread 0 does a massive sequential write
+0 W 10 1
+0 W 11 1
+0 W 12 1
+0 W 13 1
+0 W 14 1
+0 W 15 1
+
+# Thread 1 does a massive sequential write in REVERSE order
+# (If your lock sorting is broken, this will cause a deadlock)
+1 W 15 2
+1 W 14 2
+1 W 13 2
+1 W 12 2
+1 W 11 2
+1 W 10 2
+
+# Thread 0 reads everything
+0 R 10
+0 R 11
+0 R 12
+0 R 13
+0 R 14
+0 R 15
+
+# Thread 1 reads everything
+1 R 15
+1 R 14
+1 R 13
+1 R 12
+1 R 11
+1 R 10
+
+0 C 0
+1 C 1
+
+.
+0-1 x

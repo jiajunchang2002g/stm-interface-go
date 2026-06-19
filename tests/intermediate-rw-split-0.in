@@ -1,0 +1,37 @@
+# intermediate-rw-split-0.in
+4
+0-3 o
+.
+
+# Threads 0 and 1 are WRITERS
+0 S 200
+1 S 201
+
+# Threads 2 and 3 are READERS
+2 S 202
+3 S 203
+
+# Writers do their work
+0 W 10 99
+1 W 11 88
+0 W 12 77
+1 W 13 66
+
+# Readers try to read while writers are operating
+2 R 10
+3 R 11
+2 R 12
+3 R 13
+
+# Writers commit
+0 C 200
+1 C 201
+
+# Readers finish reading and commit (Read-only commits)
+2 R 13
+3 R 10
+2 C 202
+3 C 203
+
+.
+0-3 x

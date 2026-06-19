@@ -1,0 +1,583 @@
+stm stderr: 
+stm stderr: [33mNumber of goroutines before the engine is initialised: 4[0m
+client thread 0 connected, waiting for others...
+STM stdout: ! id: 0 timestamp: 1774666559801484000 count: 8
+STM stdout: R @ 86 -> 0
+STM stdout: R @ 182 -> 0
+STM stdout: W @ 238 -> 41
+STM stdout: W @ 131 -> 95
+STM stdout: R @ 232 -> 0
+STM stdout: R @ 29 -> 0
+STM stdout: R @ 75 -> 0
+STM stdout: R @ 238 -> 41
+STM stdout: ! id: 1 timestamp: 1774666559801683000 count: 9
+STM stdout: W @ 29 -> 98
+STM stdout: R @ 167 -> 0
+STM stdout: W @ 78 -> 88
+STM stdout: R @ 98 -> 0
+STM stdout: W @ 213 -> 68
+STM stdout: W @ 56 -> 28
+STM stdout: R @ 223 -> 0
+STM stdout: W @ 159 -> 52
+STM stdout: W @ 157 -> 8
+STM stdout: ! id: 2 timestamp: 1774666559801832000 count: 11
+STM stdout: W @ 11 -> 50
+STM stdout: W @ 59 -> 50
+STM stdout: W @ 109 -> 82
+STM stdout: R @ 124 -> 0
+STM stdout: R @ 13 -> 0
+STM stdout: R @ 82 -> 0
+STM stdout: W @ 237 -> 5
+STM stdout: W @ 118 -> 91
+STM stdout: W @ 80 -> 4
+STM stdout: R @ 175 -> 0
+STM stdout: R @ 197 -> 0
+STM stdout: ! id: 3 timestamp: 1774666559801892000 count: 5
+STM stdout: R @ 6 -> 0
+STM stdout: R @ 172 -> 0
+STM stdout: R @ 231 -> 0
+STM stdout: R @ 101 -> 0
+STM stdout: R @ 41 -> 0
+STM stdout: ! id: 4 timestamp: 1774666559801947000 count: 5
+STM stdout: R @ 66 -> 0
+STM stdout: W @ 64 -> 40
+STM stdout: W @ 165 -> 5
+STM stdout: R @ 117 -> 0
+STM stdout: W @ 180 -> 75
+STM stdout: ! id: 5 timestamp: 1774666559801996000 count: 3
+STM stdout: R @ 8 -> 0
+STM stdout: R @ 122 -> 0
+STM stdout: R @ 12 -> 0
+STM stdout: ! id: 6 timestamp: 1774666559802045000 count: 6
+STM stdout: R @ 13 -> 0
+STM stdout: W @ 109 -> 14
+STM stdout: W @ 231 -> 88
+STM stdout: W @ 194 -> 88
+STM stdout: R @ 152 -> 0
+STM stdout: R @ 129 -> 0
+STM stdout: ! id: 7 timestamp: 1774666559802088000 count: 4
+STM stdout: W @ 2 -> 28
+STM stdout: W @ 230 -> 75
+STM stdout: W @ 111 -> 99
+STM stdout: R @ 246 -> 0
+STM stdout: ! id: 8 timestamp: 1774666559802133000 count: 4
+STM stdout: R @ 209 -> 0
+STM stdout: R @ 242 -> 0
+STM stdout: R @ 203 -> 0
+STM stdout: W @ 241 -> 32
+STM stdout: ! id: 9 timestamp: 1774666559802177000 count: 6
+STM stdout: W @ 91 -> 45
+STM stdout: R @ 139 -> 0
+STM stdout: W @ 101 -> 25
+STM stdout: W @ 9 -> 13
+STM stdout: W @ 45 -> 47
+STM stdout: W @ 105 -> 36
+STM stdout: ! id: 10 timestamp: 1774666559802229000 count: 3
+STM stdout: R @ 178 -> 0
+STM stdout: W @ 16 -> 6
+STM stdout: R @ 82 -> 0
+STM stdout: ! id: 11 timestamp: 1774666559802305000 count: 10
+STM stdout: R @ 159 -> 52
+STM stdout: R @ 157 -> 8
+STM stdout: W @ 176 -> 75
+STM stdout: W @ 2 -> 38
+STM stdout: R @ 115 -> 0
+STM stdout: R @ 222 -> 0
+STM stdout: R @ 134 -> 0
+STM stdout: W @ 65 -> 22
+STM stdout: R @ 178 -> 0
+STM stdout: R @ 167 -> 0
+STM stdout: ! id: 12 timestamp: 1774666559802414000 count: 11
+STM stdout: R @ 126 -> 0
+STM stdout: W @ 215 -> 30
+STM stdout: R @ 226 -> 0
+STM stdout: W @ 205 -> 36
+STM stdout: R @ 243 -> 0
+STM stdout: R @ 8 -> 0
+STM stdout: R @ 104 -> 0
+STM stdout: R @ 165 -> 5
+STM stdout: W @ 213 -> 21
+STM stdout: W @ 253 -> 77
+STM stdout: R @ 181 -> 0
+STM stdout: ! id: 13 timestamp: 1774666559802518000 count: 10
+STM stdout: R @ 15 -> 0
+STM stdout: R @ 21 -> 0
+STM stdout: R @ 97 -> 0
+STM stdout: W @ 95 -> 68
+STM stdout: R @ 22 -> 0
+STM stdout: W @ 66 -> 54
+STM stdout: R @ 219 -> 0
+STM stdout: R @ 178 -> 0
+STM stdout: W @ 20 -> 2
+STM stdout: R @ 227 -> 0
+STM stdout: ! id: 14 timestamp: 1774666559802586000 count: 8
+STM stdout: R @ 252 -> 0
+STM stdout: R @ 92 -> 0
+STM stdout: R @ 92 -> 0
+STM stdout: R @ 66 -> 54
+STM stdout: W @ 105 -> 100
+STM stdout: W @ 15 -> 29
+STM stdout: W @ 148 -> 9
+STM stdout: R @ 245 -> 0
+STM stdout: ! id: 15 timestamp: 1774666559802668000 count: 12
+STM stdout: R @ 119 -> 0
+STM stdout: W @ 141 -> 9
+STM stdout: W @ 3 -> 71
+STM stdout: W @ 114 -> 66
+STM stdout: R @ 237 -> 5
+STM stdout: W @ 67 -> 86
+STM stdout: W @ 45 -> 48
+STM stdout: W @ 181 -> 4
+STM stdout: R @ 103 -> 0
+STM stdout: W @ 98 -> 21
+STM stdout: R @ 210 -> 0
+STM stdout: R @ 113 -> 0
+STM stdout: ! id: 16 timestamp: 1774666559802740000 count: 4
+STM stdout: R @ 174 -> 0
+STM stdout: R @ 253 -> 77
+STM stdout: R @ 238 -> 41
+STM stdout: R @ 159 -> 52
+STM stdout: ! id: 17 timestamp: 1774666559802784000 count: 3
+STM stdout: W @ 12 -> 35
+STM stdout: R @ 237 -> 5
+STM stdout: R @ 7 -> 0
+STM stdout: ! id: 18 timestamp: 1774666559802859000 count: 12
+STM stdout: R @ 102 -> 0
+STM stdout: R @ 69 -> 0
+STM stdout: W @ 189 -> 53
+STM stdout: W @ 18 -> 39
+STM stdout: R @ 189 -> 53
+STM stdout: W @ 41 -> 22
+STM stdout: R @ 237 -> 5
+STM stdout: W @ 20 -> 14
+STM stdout: W @ 186 -> 37
+STM stdout: W @ 163 -> 67
+STM stdout: R @ 234 -> 0
+STM stdout: R @ 245 -> 0
+STM stdout: ! id: 19 timestamp: 1774666559802919000 count: 3
+STM stdout: R @ 23 -> 0
+STM stdout: R @ 185 -> 0
+STM stdout: R @ 138 -> 0
+STM stdout: ! id: 20 timestamp: 1774666559802950000 count: 3
+STM stdout: R @ 14 -> 0
+STM stdout: R @ 204 -> 0
+STM stdout: R @ 123 -> 0
+STM stdout: ! id: 21 timestamp: 1774666559803017000 count: 12
+STM stdout: R @ 21 -> 0
+STM stdout: R @ 21 -> 0
+STM stdout: R @ 53 -> 0
+STM stdout: R @ 127 -> 0
+STM stdout: R @ 26 -> 0
+STM stdout: R @ 160 -> 0
+STM stdout: W @ 249 -> 8
+STM stdout: R @ 47 -> 0
+STM stdout: W @ 206 -> 100
+STM stdout: W @ 248 -> 61
+STM stdout: W @ 212 -> 79
+STM stdout: R @ 197 -> 0
+STM stdout: ! id: 22 timestamp: 1774666559803076000 count: 3
+STM stdout: R @ 222 -> 0
+STM stdout: R @ 249 -> 8
+STM stdout: W @ 112 -> 63
+STM stdout: ! id: 23 timestamp: 1774666559803141000 count: 10
+STM stdout: W @ 174 -> 82
+STM stdout: R @ 21 -> 0
+STM stdout: W @ 238 -> 16
+STM stdout: W @ 211 -> 61
+STM stdout: R @ 180 -> 75
+STM stdout: R @ 89 -> 0
+STM stdout: W @ 244 -> 3
+STM stdout: W @ 8 -> 23
+STM stdout: R @ 33 -> 0
+STM stdout: R @ 234 -> 0
+STM stdout: ! id: 24 timestamp: 1774666559803256000 count: 12
+STM stdout: W @ 62 -> 22
+STM stdout: W @ 232 -> 20
+STM stdout: R @ 202 -> 0
+STM stdout: R @ 100 -> 0
+STM stdout: W @ 68 -> 19
+STM stdout: W @ 48 -> 75
+STM stdout: R @ 124 -> 0
+STM stdout: W @ 59 -> 12
+STM stdout: R @ 32 -> 0
+STM stdout: R @ 64 -> 40
+STM stdout: W @ 13 -> 12
+STM stdout: W @ 37 -> 18
+STM stdout: ! id: 25 timestamp: 1774666559803372000 count: 11
+STM stdout: W @ 137 -> 56
+STM stdout: R @ 143 -> 0
+STM stdout: R @ 191 -> 0
+STM stdout: W @ 118 -> 64
+STM stdout: R @ 182 -> 0
+STM stdout: W @ 216 -> 4
+STM stdout: R @ 1 -> 0
+STM stdout: W @ 39 -> 66
+STM stdout: R @ 214 -> 0
+STM stdout: W @ 17 -> 36
+STM stdout: W @ 13 -> 57
+STM stdout: ! id: 26 timestamp: 1774666559803428000 count: 4
+STM stdout: R @ 214 -> 0
+STM stdout: R @ 193 -> 0
+STM stdout: R @ 106 -> 0
+STM stdout: R @ 128 -> 0
+STM stdout: ! id: 27 timestamp: 1774666559803493000 count: 8
+STM stdout: W @ 71 -> 8
+STM stdout: W @ 52 -> 67
+STM stdout: R @ 109 -> 14
+STM stdout: R @ 87 -> 0
+STM stdout: R @ 125 -> 0
+STM stdout: R @ 26 -> 0
+STM stdout: W @ 189 -> 16
+STM stdout: R @ 108 -> 0
+STM stdout: ! id: 28 timestamp: 1774666559803542000 count: 3
+STM stdout: R @ 25 -> 0
+STM stdout: W @ 103 -> 12
+STM stdout: W @ 7 -> 31
+STM stdout: ! id: 29 timestamp: 1774666559803617000 count: 11
+STM stdout: R @ 25 -> 0
+STM stdout: R @ 172 -> 0
+STM stdout: R @ 44 -> 0
+STM stdout: R @ 143 -> 0
+STM stdout: R @ 220 -> 0
+STM stdout: R @ 42 -> 0
+STM stdout: R @ 135 -> 0
+STM stdout: W @ 26 -> 87
+STM stdout: R @ 24 -> 0
+STM stdout: R @ 225 -> 0
+STM stdout: W @ 80 -> 73
+STM stdout: ! id: 30 timestamp: 1774666559803690000 count: 6
+STM stdout: W @ 53 -> 23
+STM stdout: W @ 254 -> 45
+STM stdout: W @ 9 -> 59
+STM stdout: R @ 2 -> 38
+STM stdout: R @ 61 -> 0
+STM stdout: W @ 10 -> 3
+STM stdout: ! id: 31 timestamp: 1774666559803774000 count: 11
+STM stdout: R @ 1 -> 0
+STM stdout: R @ 207 -> 0
+STM stdout: W @ 111 -> 97
+STM stdout: R @ 19 -> 0
+STM stdout: R @ 234 -> 0
+STM stdout: R @ 21 -> 0
+STM stdout: R @ 69 -> 0
+STM stdout: R @ 245 -> 0
+STM stdout: R @ 162 -> 0
+STM stdout: R @ 132 -> 0
+STM stdout: R @ 48 -> 75
+STM stdout: ! id: 32 timestamp: 1774666559803863000 count: 9
+STM stdout: W @ 225 -> 30
+STM stdout: R @ 207 -> 0
+STM stdout: R @ 12 -> 35
+STM stdout: W @ 18 -> 50
+STM stdout: R @ 25 -> 0
+STM stdout: W @ 23 -> 73
+STM stdout: W @ 167 -> 46
+STM stdout: W @ 28 -> 44
+STM stdout: R @ 197 -> 0
+STM stdout: ! id: 33 timestamp: 1774666559803931000 count: 8
+STM stdout: W @ 30 -> 45
+STM stdout: R @ 37 -> 18
+STM stdout: R @ 31 -> 0
+STM stdout: W @ 12 -> 100
+STM stdout: W @ 0 -> 77
+STM stdout: R @ 195 -> 0
+STM stdout: R @ 159 -> 52
+STM stdout: R @ 53 -> 23
+Checking: ! id: 0 timestamp: 1774666559801484000 count: 8
+Checking: R @ 86 -> 0
+Checking: R @ 182 -> 0
+Checking: W @ 238 -> 41
+Checking: W @ 131 -> 95
+Checking: R @ 232 -> 0
+Checking: R @ 29 -> 0
+Checking: R @ 75 -> 0
+Checking: R @ 238 -> 41
+Checking: ! id: 1 timestamp: 1774666559801683000 count: 9
+Checking: W @ 29 -> 98
+Checking: R @ 167 -> 0
+Checking: W @ 78 -> 88
+Checking: R @ 98 -> 0
+Checking: W @ 213 -> 68
+Checking: W @ 56 -> 28
+Checking: R @ 223 -> 0
+Checking: W @ 159 -> 52
+Checking: W @ 157 -> 8
+Checking: ! id: 2 timestamp: 1774666559801832000 count: 11
+Checking: W @ 11 -> 50
+Checking: W @ 59 -> 50
+Checking: W @ 109 -> 82
+Checking: R @ 124 -> 0
+Checking: R @ 13 -> 0
+Checking: R @ 82 -> 0
+Checking: W @ 237 -> 5
+Checking: W @ 118 -> 91
+Checking: W @ 80 -> 4
+Checking: R @ 175 -> 0
+Checking: R @ 197 -> 0
+Checking: ! id: 3 timestamp: 1774666559801892000 count: 5
+Checking: R @ 6 -> 0
+Checking: R @ 172 -> 0
+Checking: R @ 231 -> 0
+Checking: R @ 101 -> 0
+Checking: R @ 41 -> 0
+Checking: ! id: 4 timestamp: 1774666559801947000 count: 5
+Checking: R @ 66 -> 0
+Checking: W @ 64 -> 40
+Checking: W @ 165 -> 5
+Checking: R @ 117 -> 0
+Checking: W @ 180 -> 75
+Checking: ! id: 5 timestamp: 1774666559801996000 count: 3
+Checking: R @ 8 -> 0
+Checking: R @ 122 -> 0
+Checking: R @ 12 -> 0
+Checking: ! id: 6 timestamp: 1774666559802045000 count: 6
+Checking: R @ 13 -> 0
+Checking: W @ 109 -> 14
+Checking: W @ 231 -> 88
+Checking: W @ 194 -> 88
+Checking: R @ 152 -> 0
+Checking: R @ 129 -> 0
+Checking: ! id: 7 timestamp: 1774666559802088000 count: 4
+Checking: W @ 2 -> 28
+Checking: W @ 230 -> 75
+Checking: W @ 111 -> 99
+Checking: R @ 246 -> 0
+Checking: ! id: 8 timestamp: 1774666559802133000 count: 4
+Checking: R @ 209 -> 0
+Checking: R @ 242 -> 0
+Checking: R @ 203 -> 0
+Checking: W @ 241 -> 32
+Checking: ! id: 9 timestamp: 1774666559802177000 count: 6
+Checking: W @ 91 -> 45
+Checking: R @ 139 -> 0
+Checking: W @ 101 -> 25
+Checking: W @ 9 -> 13
+Checking: W @ 45 -> 47
+Checking: W @ 105 -> 36
+Checking: ! id: 10 timestamp: 1774666559802229000 count: 3
+Checking: R @ 178 -> 0
+Checking: W @ 16 -> 6
+Checking: R @ 82 -> 0
+Checking: ! id: 11 timestamp: 1774666559802305000 count: 10
+Checking: R @ 159 -> 52
+Checking: R @ 157 -> 8
+Checking: W @ 176 -> 75
+Checking: W @ 2 -> 38
+Checking: R @ 115 -> 0
+Checking: R @ 222 -> 0
+Checking: R @ 134 -> 0
+Checking: W @ 65 -> 22
+Checking: R @ 178 -> 0
+Checking: R @ 167 -> 0
+Checking: ! id: 12 timestamp: 1774666559802414000 count: 11
+Checking: R @ 126 -> 0
+Checking: W @ 215 -> 30
+Checking: R @ 226 -> 0
+Checking: W @ 205 -> 36
+Checking: R @ 243 -> 0
+Checking: R @ 8 -> 0
+Checking: R @ 104 -> 0
+Checking: R @ 165 -> 5
+Checking: W @ 213 -> 21
+Checking: W @ 253 -> 77
+Checking: R @ 181 -> 0
+Checking: ! id: 13 timestamp: 1774666559802518000 count: 10
+Checking: R @ 15 -> 0
+Checking: R @ 21 -> 0
+Checking: R @ 97 -> 0
+Checking: W @ 95 -> 68
+Checking: R @ 22 -> 0
+Checking: W @ 66 -> 54
+Checking: R @ 219 -> 0
+Checking: R @ 178 -> 0
+Checking: W @ 20 -> 2
+Checking: R @ 227 -> 0
+Checking: ! id: 14 timestamp: 1774666559802586000 count: 8
+Checking: R @ 252 -> 0
+Checking: R @ 92 -> 0
+Checking: R @ 92 -> 0
+Checking: R @ 66 -> 54
+Checking: W @ 105 -> 100
+Checking: W @ 15 -> 29
+Checking: W @ 148 -> 9
+Checking: R @ 245 -> 0
+Checking: ! id: 15 timestamp: 1774666559802668000 count: 12
+Checking: R @ 119 -> 0
+Checking: W @ 141 -> 9
+Checking: W @ 3 -> 71
+Checking: W @ 114 -> 66
+Checking: R @ 237 -> 5
+Checking: W @ 67 -> 86
+Checking: W @ 45 -> 48
+Checking: W @ 181 -> 4
+Checking: R @ 103 -> 0
+Checking: W @ 98 -> 21
+Checking: R @ 210 -> 0
+Checking: R @ 113 -> 0
+Checking: ! id: 16 timestamp: 1774666559802740000 count: 4
+Checking: R @ 174 -> 0
+Checking: R @ 253 -> 77
+Checking: R @ 238 -> 41
+Checking: R @ 159 -> 52
+Checking: ! id: 17 timestamp: 1774666559802784000 count: 3
+Checking: W @ 12 -> 35
+Checking: R @ 237 -> 5
+Checking: R @ 7 -> 0
+Checking: ! id: 18 timestamp: 1774666559802859000 count: 12
+Checking: R @ 102 -> 0
+Checking: R @ 69 -> 0
+Checking: W @ 189 -> 53
+Checking: W @ 18 -> 39
+Checking: R @ 189 -> 53
+Checking: W @ 41 -> 22
+Checking: R @ 237 -> 5
+Checking: W @ 20 -> 14
+Checking: W @ 186 -> 37
+Checking: W @ 163 -> 67
+Checking: R @ 234 -> 0
+Checking: R @ 245 -> 0
+Checking: ! id: 19 timestamp: 1774666559802919000 count: 3
+Checking: R @ 23 -> 0
+Checking: R @ 185 -> 0
+Checking: R @ 138 -> 0
+Checking: ! id: 20 timestamp: 1774666559802950000 count: 3
+Checking: R @ 14 -> 0
+Checking: R @ 204 -> 0
+Checking: R @ 123 -> 0
+Checking: ! id: 21 timestamp: 1774666559803017000 count: 12
+Checking: R @ 21 -> 0
+Checking: R @ 21 -> 0
+Checking: R @ 53 -> 0
+Checking: R @ 127 -> 0
+Checking: R @ 26 -> 0
+Checking: R @ 160 -> 0
+Checking: W @ 249 -> 8
+Checking: R @ 47 -> 0
+Checking: W @ 206 -> 100
+Checking: W @ 248 -> 61
+Checking: W @ 212 -> 79
+Checking: R @ 197 -> 0
+Checking: ! id: 22 timestamp: 1774666559803076000 count: 3
+Checking: R @ 222 -> 0
+Checking: R @ 249 -> 8
+Checking: W @ 112 -> 63
+Checking: ! id: 23 timestamp: 1774666559803141000 count: 10
+Checking: W @ 174 -> 82
+Checking: R @ 21 -> 0
+Checking: W @ 238 -> 16
+Checking: W @ 211 -> 61
+Checking: R @ 180 -> 75
+Checking: R @ 89 -> 0
+Checking: W @ 244 -> 3
+Checking: W @ 8 -> 23
+Checking: R @ 33 -> 0
+Checking: R @ 234 -> 0
+Checking: ! id: 24 timestamp: 1774666559803256000 count: 12
+Checking: W @ 62 -> 22
+Checking: W @ 232 -> 20
+Checking: R @ 202 -> 0
+Checking: R @ 100 -> 0
+Checking: W @ 68 -> 19
+Checking: W @ 48 -> 75
+Checking: R @ 124 -> 0
+Checking: W @ 59 -> 12
+Checking: R @ 32 -> 0
+Checking: R @ 64 -> 40
+Checking: W @ 13 -> 12
+Checking: W @ 37 -> 18
+Checking: ! id: 25 timestamp: 1774666559803372000 count: 11
+Checking: W @ 137 -> 56
+Checking: R @ 143 -> 0
+Checking: R @ 191 -> 0
+Checking: W @ 118 -> 64
+Checking: R @ 182 -> 0
+Checking: W @ 216 -> 4
+Checking: R @ 1 -> 0
+Checking: W @ 39 -> 66
+Checking: R @ 214 -> 0
+Checking: W @ 17 -> 36
+Checking: W @ 13 -> 57
+Checking: ! id: 26 timestamp: 1774666559803428000 count: 4
+Checking: R @ 214 -> 0
+Checking: R @ 193 -> 0
+Checking: R @ 106 -> 0
+Checking: R @ 128 -> 0
+Checking: ! id: 27 timestamp: 1774666559803493000 count: 8
+Checking: W @ 71 -> 8
+Checking: W @ 52 -> 67
+Checking: R @ 109 -> 14
+Checking: R @ 87 -> 0
+Checking: R @ 125 -> 0
+Checking: R @ 26 -> 0
+Checking: W @ 189 -> 16
+Checking: R @ 108 -> 0
+Checking: ! id: 28 timestamp: 1774666559803542000 count: 3
+Checking: R @ 25 -> 0
+Checking: W @ 103 -> 12
+Checking: W @ 7 -> 31
+Checking: ! id: 29 timestamp: 1774666559803617000 count: 11
+Checking: R @ 25 -> 0
+Checking: R @ 172 -> 0
+Checking: R @ 44 -> 0
+Checking: R @ 143 -> 0
+Checking: R @ 220 -> 0
+Checking: R @ 42 -> 0
+Checking: R @ 135 -> 0
+Checking: W @ 26 -> 87
+Checking: R @ 24 -> 0
+Checking: R @ 225 -> 0
+Checking: W @ 80 -> 73
+Checking: ! id: 30 timestamp: 1774666559803690000 count: 6
+Checking: W @ 53 -> 23
+Checking: W @ 254 -> 45
+Checking: W @ 9 -> 59
+Checking: R @ 2 -> 38
+Checking: R @ 61 -> 0
+Checking: W @ 10 -> 3
+Checking: ! id: 31 timestamp: 1774666559803774000 count: 11
+Checking: R @ 1 -> 0
+Checking: R @ 207 -> 0
+Checking: W @ 111 -> 97
+Checking: R @ 19 -> 0
+Checking: R @ 234 -> 0
+Checking: R @ 21 -> 0
+Checking: R @ 69 -> 0
+Checking: R @ 245 -> 0
+Checking: R @ 162 -> 0
+Checking: R @ 132 -> 0
+Checking: R @ 48 -> 75
+Checking: ! id: 32 timestamp: 1774666559803863000 count: 9
+Checking: W @ 225 -> 30
+Checking: R @ 207 -> 0
+Checking: R @ 12 -> 35
+Checking: W @ 18 -> 50
+Checking: R @ 25 -> 0
+Checking: W @ 23 -> 73
+Checking: W @ 167 -> 46
+Checking: W @ 28 -> 44
+Checking: R @ 197 -> 0
+Checking: ! id: 33 timestamp: 1774666559803931000 count: 8
+Checking: W @ 30 -> 45
+Checking: R @ 37 -> 18
+Checking: R @ 31 -> 0
+Checking: W @ 12 -> 100
+Checking: W @ 0 -> 77
+Checking: R @ 195 -> 0
+Checking: R @ 159 -> 52
+Checking: R @ 53 -> 23
+stm stderr: 
+stm stderr: [33mNumber of goroutines after the engine is shutdown: 2[0m
+stm stderr: [32mgoroutine 1 [running]:
+stm stderr: main.main()
+stm stderr: 	/Users/kenji/Documents/Y3S2/CS3211/cs3211-a2-a2_a0276238w_a0286456n/main/main.go:83 +0x498
+stm stderr: 
+stm stderr: goroutine 34 [syscall]:
+stm stderr: os/signal.signal_recv()
+stm stderr: 	/usr/local/go/src/runtime/sigqueue.go:149 +0x108
+stm stderr: os/signal.loop()
+stm stderr: 	/usr/local/go/src/os/signal/signal_unix.go:23 +0x1c
+stm stderr: created by os/signal.Notify.func1.1 in goroutine 20
+stm stderr: 	/usr/local/go/src/os/signal/signal.go:152 +0x28
+stm stderr: [0mstm stderr closed
+test passed.
+test passed

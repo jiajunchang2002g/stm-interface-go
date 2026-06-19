@@ -1,0 +1,4 @@
+stminterface
+client
+*.o
+/.deps
