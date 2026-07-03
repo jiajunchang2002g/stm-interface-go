@@ -8,17 +8,20 @@ CXX = clang++
 CFLAGS := $(CFLAGS) -g -O3 -Wall -Wextra -pedantic -Werror -std=c18 -pthread
 CXXFLAGS := $(CXXFLAGS) -g -O3 -Wall -Wextra -pedantic -Werror -std=c++20 -pthread
 
-all: stminterface client
+all: stminterface client booking
 
 stminterface:
 	$(GO) build -o $@ ./main
+
+booking:
+	$(GO) build -o $@ ./booking
 
 client: cpp-src/client.cpp cpp-src/io.h
 	$(CXX) $(CXXFLAGS) -o $@ $<
 
 .PHONY: clean
 clean:
-	rm -f *.o client stminterface
+	rm -f *.o client stminterface booking
 
 .PHONY: fmt stminterface
 fmt:
