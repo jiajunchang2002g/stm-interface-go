@@ -63,6 +63,7 @@ func (s *StmInterface) Init(ctx context.Context, wg *wg.WaitGroup) {
 	s.wg = wg
 	s.actors = make([]*Actor, NumActors)
 	s.clockChan = make(chan int64)
+	s.nextTxID = 0
 	
 	// initialize clock
 	s.wg.Add(1)

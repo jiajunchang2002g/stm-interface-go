@@ -100,7 +100,7 @@ type bookRequest struct {
 	Seats    []Seat `json:"seats"`
 }
 
-type bookResponse struct {
+type commitResponse struct {
 	CommitTimestamp int64 `json:"commit_timestamp"`
 }
 
@@ -128,7 +128,7 @@ func handleBook(w http.ResponseWriter, r *http.Request, svc *BookingService) {
 		writeError(w, status, err.Error())
 		return
 	}
-	writeJSON(w, http.StatusOK, bookResponse{CommitTimestamp: ts})
+	writeJSON(w, http.StatusOK, commitResponse{CommitTimestamp: ts})
 }
 
 type cancelRequest struct {
@@ -154,11 +154,13 @@ func handleCancel(w http.ResponseWriter, r *http.Request, svc *BookingService) {
 		switch {
 		case errors.Is(err, ErrInvalidSeat):
 			status = http.StatusBadRequest
+		case errors.Is(err, ErrSeatFree):
+			status = http.StatusNotFound
 		case errors.Is(err, ErrNotOwner):
 			status = http.StatusForbidden
 		}
 		writeError(w, status, err.Error())
 		return
 	}
-	writeJSON(w, http.StatusOK, bookResponse{CommitTimestamp: ts})
+	writeJSON(w, http.StatusOK, commitResponse{CommitTimestamp: ts})
 }

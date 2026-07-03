@@ -7,8 +7,9 @@ import (
 
 // Sentinel errors returned by BookingService methods.
 var (
+	ErrSeatFree    = errors.New("seat is not booked")
 	ErrSeatTaken   = errors.New("one or more seats are already booked")
-	ErrNotOwner    = errors.New("seat is not booked by this user")
+	ErrNotOwner    = errors.New("seat is booked by a different user")
 	ErrInvalidSeat = errors.New("invalid seat or screen")
 	ErrMaxRetries  = errors.New("booking conflict: please try again")
 )
@@ -108,7 +109,11 @@ func (s *BookingService) Cancel(userID uint32, screenID int, seat Seat) (int64, 
 	for i := 0; i < maxRetries; i++ {
 		tx := s.stm.Begin()
 
-		if tx.Read(addr) != userID {
+		current := tx.Read(addr)
+		if current == 0 {
+			return 0, ErrSeatFree
+		}
+		if current != userID {
 			return 0, ErrNotOwner
 		}
 		tx.Write(addr, 0)
